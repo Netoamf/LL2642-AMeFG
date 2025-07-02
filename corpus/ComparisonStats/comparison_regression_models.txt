@@ -1,0 +1,28 @@
+--- Comparação de Modelos de Regressão (LaTeX) ---
+\begin{table}
+\caption{}
+\label{}
+\begin{center}
+\begin{tabular}{lllll}
+\hline
+                                               & PB Aditivo & PB Interação & EN Aditivo & EN Interação  \\
+\hline
+Intercept                                      & 43.333***  & 25.897       & -3.046*    & -6.789        \\
+                                               & (7.731)    & (18.946)     & (1.620)    & (4.446)       \\
+cds\_deictic\_freq\_per\_1k                    & 0.085      & 0.868        & 0.471***   & 0.813**       \\
+                                               & (0.116)    & (0.786)      & (0.087)    & (0.388)       \\
+child\_age\_months                             & -0.260***  & -0.045       & 0.148***   & 0.245**       \\
+                                               & (0.091)    & (0.232)      & (0.038)    & (0.114)       \\
+cds\_deictic\_freq\_per\_1k:child\_age\_months &            & -0.010       &            & -0.009        \\
+                                               &            & (0.009)      &            & (0.010)       \\
+R-squared                                      & 0.088      & 0.099        & 0.250      & 0.253         \\
+R-squared Adj.                                 & 0.066      & 0.067        & 0.241      & 0.240         \\
+N                                              & 88         & 88           & 172        & 172           \\
+R2                                             & 0.088      & 0.099        & 0.250      & 0.253         \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+\bigskip
+Standard errors in parentheses. \newline 
+* p<.1, ** p<.05, ***p<.01

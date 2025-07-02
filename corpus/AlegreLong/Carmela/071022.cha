@@ -1,0 +1,361 @@
+@UTF8
+@PID:	11312/c-00030361-1
+@Begin
+@Languages:	por , jpn
+@Participants:	CHI Carmela Target_Child , INV Carla Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|7;10.22|female|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	19-DEC-1995
+@Types:	long, narrative, TD
+*INV:	deu liguei o gravador ali (.) ãhn@i Carmela me conta então a história da tua apresentação de teatro de +...
+%mor:	verb|dar-Fin-Ind-3-Past verb|ligar-Fin-Ind-1-Past det|o-Def-Art noun|gravador&Masc adv|ali x|ãhn noun|Carmela&Fem pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres adv|então det|o-Def-Art noun|história&Fem adp|de~det|o-Def-Art det|teu-Def-Prs noun|apresentação&Fem adp|de noun|teatro&Masc adp|de +...
+%gra:	1|19|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|FLAT 7|9|NSUBJ 8|9|OBJ 9|2|PARATAXIS 10|9|ADVMOD 11|12|DET 12|9|OBJ 13|16|CASE 14|16|DET 15|16|DET 16|12|NMOD 17|18|CASE 18|16|NMOD 19|1|PUNCT 20|1|PUNCT
+*CHI:	<é que a gen> [//] eu fã [/] faço coral .
+%mor:	pron|eu-Prs-Nom-S1 verb|fazer-Fin-Ind-1-Pres noun|coral&Masc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	<daí eu (es)tava> [//] ãhn@i .
+%mor:	x|ãhn .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	daí a minha professora de coral falou pra gente que quem pudesse ir ou de manhã ou de tarde ãhn@i sexta-feira fazer teatro por causa da apresentação .
+%mor:	adp|de~adv|aí det|o-Def-Art det|meu-Def-Prs noun|professora&Fem adp|de noun|coral&Masc verb|falar-Fin-Ind-3-Past adp|pra noun|gente&Fem sconj|que pron|quem-Rel-Acc-S1 verb|poder-Fin-Sub-3-Imp verb|ir-Inf cconj|ou adp|de noun|manhã&Fem cconj|ou adp|de noun|tarde&Fem x|ãhn noun|sexta-feira&Fem verb|fazer-Inf noun|teatro&Masc adp|por noun|causa&Fem adp|de~det|o-Def-Art noun|apresentação&Fem .
+%gra:	1|2|CASE 2|8|ADVMOD 3|5|DET 4|5|DET 5|8|NSUBJ 6|7|CASE 7|5|NMOD 8|29|ROOT 9|10|CASE 10|8|OBJ 11|14|MARK 12|13|NSUBJ 13|8|CCOMP 14|13|XCOMP 15|17|CC 16|17|CASE 17|14|OBL 18|20|CC 19|20|CASE 20|17|CONJ 21|20|FLAT 22|23|OBL 23|14|ADVCL 24|23|OBJ 25|26|CASE 26|23|OBL 27|29|CASE 28|29|DET 29|26|NMOD 30|8|PUNCT
+*CHI:	daí podia fazer teatro e coral ao mesmo tempo pra apresentação .
+%mor:	adp|de~adv|aí verb|poder-Fin-Ind-3-Imp verb|fazer-Inf noun|teatro&Masc cconj|e noun|coral&Masc adp|a~det|o-Def-Art adj|mesmo-Pos-S-1 noun|tempo&Masc adp|pra noun|apresentação&Fem .
+%gra:	1|2|CASE 2|3|ADVMOD 3|13|ROOT 4|3|XCOMP 5|4|OBJ 6|7|CC 7|5|CONJ 8|11|CASE 9|11|DET 10|11|AMOD 11|4|OBL 12|13|CASE 13|4|OBL 14|3|PUNCT
+*CHI:	só que daí a gente cantava lá dentro do camarim que é pertinho +...
+%mor:	adv|só sconj|que adv|daí det|o-Def-Art pron|gente-Ind-Acc-S1 verb|cantar-Fin-Ind-3-Imp adv|lá adv|dentro adp|de~det|o-Def-Art noun|camarim&Masc pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres adj|pertinho-Pos-S-1 +...
+%gra:	1|6|ADVMOD 2|6|MARK 3|6|ADVMOD 4|5|DET 5|6|NSUBJ 6|14|ROOT 7|6|ADVMOD 8|6|ADVMOD 9|11|CASE 10|11|DET 11|8|OBL 12|14|NSUBJ 13|14|COP 14|11|ACL-RELCL 15|6|PUNCT
+*INV:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	+, (en)tão foi assim quando a gente estava se vestindo aí fica esperando aparecer a nossa cena daí [=! irritação na garganta] quem não podia fazer teatro só ficava como coral sentada junto com a minha professora tá@i quando daí a gente fez dia dez de dezembro a minha apresentação né@i daí +...
+%mor:	adv|então verb|ir-Fin-Ind-3-Past adv|assim adv|quando det|o-Def-Art noun|gente&Fem aux|estar-Fin-Ind-3-Imp pron|se-Prs-Acc-S3 verb|vestir-Ger adv|aí verb|ficar-Fin-Ind-3-Pres verb|esperar-Ger verb|aparecer-Inf det|o-Def-Art det|nosso-Def-Prs noun|cena&Fem adp|de~adv|aí pron|quem-Rel-Acc-S1 adv|não verb|poder-Fin-Ind-3-Imp verb|fazer-Inf noun|teatro&Masc adv|só verb|ficar-Fin-Ind-3-Imp adp|como noun|coral&Masc verb|sentar-Part adv|junto adp|com det|o-Def-Art det|meu-Def-Prs noun|professora&Fem x|tá adv|quando adp|de~adv|aí det|o-Def-Art pron|gente-Ind-Acc-S1 verb|fazer-Fin-Ind-3-Past noun|dia&Masc num|dez adp|de noun|dezembro&Masc det|o-Def-Art det|meu-Def-Prs noun|apresentação&Fem x|né noun|daí&Masc +...
+%gra:	1|2|ADVMOD 2|49|ROOT 3|2|ADVMOD 4|9|ADVMOD 5|6|DET 6|9|NSUBJ 7|9|AUX 8|9|EXPL 9|2|ADVCL 10|9|ADVMOD 11|2|ADVCL 12|11|XCOMP 13|12|XCOMP 14|16|DET 15|16|DET 16|13|OBJ 17|18|CASE 18|16|ADVMOD 19|21|NSUBJ 20|21|ADVMOD 21|16|ACL-RELCL 22|21|XCOMP 23|22|OBJ 24|25|ADVMOD 25|2|CCOMP 26|27|CASE 27|25|XCOMP 28|27|ACL 29|28|ADVMOD 30|33|CASE 31|33|DET 32|33|DET 33|29|OBL 34|33|FLAT 35|40|ADVMOD 36|37|CASE 37|40|ADVMOD 38|39|DET 39|40|NSUBJ 40|25|ADVCL 41|40|OBL 42|41|NUMMOD 43|44|CASE 44|41|NMOD 45|47|DET 46|47|DET 47|40|OBJ 48|49|FLAT 49|47|NMOD 50|2|PUNCT
+*INV:	dez de dezembro agora faz pouco tempo ?
+%mor:	num|dez adp|de noun|dezembro&Masc adv|agora verb|fazer-Fin-Ind-3-Pres det|pouco-Def-Ind noun|tempo&Masc ?
+%gra:	1|5|NSUBJ 2|3|CASE 3|1|NMOD 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	é dez de dezembro foi agora (.) daí a gente fez assim ó era sobre umas crianças <que brin> [//] <que fi> [//] <que a professora> [//] elas foram na [/] na aula e chegaram atrasada(s) daí a professora foi falar com o diretor da escola uma coisa né@i que a secretária falou [//] foi chamar lá daí [=! irritação na garganta] ela foi lá ãhn@i e [/] e ele foi [/] foi lá com uma combinação +...
+%mor:	aux|ser-Fin-Ind-3-Pres num|dez adp|de noun|dezembro&Masc verb|ir-Fin-Ind-3-Past adv|agora adp|de~adv|aí det|o-Def-Art noun|gente&Fem verb|fazer-Fin-Ind-3-Past adv|assim adv|ó aux|ser-Fin-Ind-3-Imp adp|sobre det|um-Def-Art noun|criança&Fem-Plur pron|ele-Prs-Nom-P3 verb|ir-Fin-Plur-Ind-3-Past adp|em~det|o-Def-Art noun|aula&Fem cconj|e verb|chegar-Fin-Plur-Ind-3-Past verb|atrasar-Part-Plur adp|de~adv|aí det|o-Def-Art noun|professora&Fem aux|ser-Fin-Ind-3-Past verb|falar-Inf adp|com det|o-Def-Art noun|diretor&Masc adp|de~det|o-Def-Art noun|escola&Fem det|um-Ind-Art noun|coisa&Fem x|né pron|que-Rel-Acc-S1 det|o-Def-Art noun|secretária&Fem aux|ser-Fin-Ind-3-Past verb|chamar-Inf adv|lá adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|ir-Fin-Ind-3-Past adv|lá x|ãhn cconj|e pron|ele-Prs-Nom-S3 verb|ir-Fin-Ind-3-Past adv|lá adp|com det|um-Ind-Art noun|combinação&Fem +...
+%gra:	1|5|COP 2|5|NSUBJ 3|4|CASE 4|2|NMOD 5|59|ROOT 6|5|ADVMOD 7|8|CASE 8|5|ADVMOD 9|10|DET 10|11|NSUBJ 11|5|PARATAXIS 12|11|ADVMOD 13|19|ADVMOD 14|19|CONJ 15|17|CASE 16|17|DET 17|19|OBL 18|19|NSUBJ 19|11|CONJ 20|22|CASE 21|22|DET 22|19|OBL 23|24|CC 24|19|CONJ 25|24|XCOMP 26|27|CASE 27|31|ADVMOD 28|29|DET 29|31|NSUBJ 30|31|COP 31|24|ADVCL 32|34|CASE 33|34|DET 34|31|OBJ 35|37|CASE 36|37|DET 37|34|NMOD 38|39|DET 39|34|APPOS 40|39|FLAT 41|45|OBJ 42|43|DET 43|45|NSUBJ 44|45|COP 45|39|ACL-RELCL 46|45|ADVMOD 47|48|CASE 48|46|OBL 49|50|NSUBJ 50|45|CONJ 51|50|ADVMOD 52|50|FLAT 53|55|CC 54|55|NSUBJ 55|50|CONJ 56|55|ADVMOD 57|59|CASE 58|59|DET 59|55|OBL 60|5|PUNCT
+*INV:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	daí as crianças trancaram a porta e foram brincar num [: em um] computador que tinha lá daí todo mundo começou a brigar que queria um jogo outro queria outro , queria outro , queria outro , queria outro , queria outro , daí co [//] o computador começou a estourar e eles foram parar na América que <daí ele> [//] daí eles foram parar +/.
+%mor:	adp|de~adv|aí det|o-Def-Art noun|criança&Fem-Plur verb|trancar-Fin-Plur-Ind-3-Past det|o-Def-Art noun|porta&Fem cconj|e aux|ser-Fin-Plur-Ind-3-Past verb|brincar-Inf adp|em det|um-Ind-Art noun|computador&Masc pron|que-Rel-Acc-S1 verb|ter-Fin-Ind-3-Imp adv|lá adp|de~adv|aí det|todo-Def-Tot noun|mundo&Masc verb|começar-Fin-Ind-3-Past sconj|a verb|brigar-Inf sconj|que verb|querer-Fin-Ind-3-Imp det|um-Ind-Art noun|jogo&Masc pron|outro-Ind-Acc-S1 verb|querer-Fin-Ind-3-Imp pron|outro-Ind-Acc-S1 cm|cm verb|querer-Fin-Ind-3-Imp pron|outro-Ind-Acc-S1 cm|cm verb|querer-Fin-Ind-3-Imp pron|outro-Ind-Acc-S1 cm|cm verb|querer-Fin-Ind-3-Imp pron|outro-Ind-Acc-S1 cm|cm verb|querer-Fin-Ind-3-Imp pron|outro-Ind-Acc-S1 cm|cm adp|de~adv|aí det|o-Def-Art noun|computador&Masc verb|começar-Fin-Ind-3-Past sconj|a verb|estourar-Inf cconj|e pron|eles-Prs-Nom-P3 aux|ser-Fin-Plur-Ind-3-Past verb|parar-Inf adp|em~det|o-Def-Art noun|América&Fem sconj|que adp|de~adv|aí pron|eles-Prs-Nom-P3 aux|ser-Fin-Plur-Ind-3-Past verb|parar-Inf +/.
+%gra:	1|2|CASE 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|63|ROOT 6|7|DET 7|5|OBJ 8|10|CC 9|10|AUX 10|5|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|15|NSUBJ 15|13|ACL-RELCL 16|15|ADVMOD 17|18|CASE 18|15|ADVMOD 19|20|DET 20|21|NSUBJ 21|5|CONJ 22|23|MARK 23|21|XCOMP 24|25|MARK 25|23|CCOMP 26|27|DET 27|25|OBJ 28|29|NSUBJ 29|23|CCOMP 30|29|OBJ 31|32|PUNCT 32|29|CONJ 33|32|OBJ 34|35|PUNCT 35|29|CONJ 36|35|OBJ 37|38|PUNCT 38|29|CONJ 39|38|OBJ 40|41|PUNCT 41|5|CONJ 42|41|OBJ 43|48|PUNCT 44|45|CASE 45|48|ADVMOD 46|47|DET 47|48|NSUBJ 48|5|CONJ 49|50|MARK 50|48|XCOMP 51|54|CC 52|54|NSUBJ 53|54|COP 54|50|CONJ 55|57|CASE 56|57|DET 57|54|OBL 58|63|MARK 59|60|CASE 60|63|ADVMOD 61|63|NSUBJ 62|63|COP 63|54|CCOMP 64|5|PUNCT
+*INV:	essa é a história toda que foi desenvolvida [>] no +...
+%mor:	pron|esse-Dem-Acc-S1 aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|história&Fem det|todo-Def-Tot pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Past verb|desenvolver-Part pron|ele-Prs-Acc-S3 +...
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|9|ROOT 5|4|DET 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|4|ACL-RELCL 9|8|NSUBJ-PASS 10|4|PUNCT
+*CHI:	é [<] (.) é como eu contei +...
+%mor:	verb|ser-Fin-Ind-3-Pres verb|ser-Fin-Ind-3-Pres adv|como pron|eu-Prs-Nom-S1 verb|contar-Fin-Ind-1-Past +...
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|ADVMOD 4|5|NSUBJ 5|2|CCOMP 6|1|PUNCT
+*INV:	claro !
+%mor:	adv|claro !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+, daí eles pararam na América daí eles conheceram as pessoas americanas(s) ãhn@i brincaram com as pessoas americanas de repente <ele começou> [//] a gente assim a gente fez uma roda , brincou e cantou e tal daí depois a gente começou sabe [: sabes] aquelas hmn@i em dupla(s) [= demonstra com as mãos] que a gente começa a girar super forte daí a gente começou a girar , girar , girar era no recreio duma [: de uma] [//] da América né@i daí uma escola <daí elas fo> [//] daí eles começaram a girar , girar , girar e começou a tocar o sino os americanos foram pra dentro da escola (.) <daí fo> [//] daí os americanos saíam de cena e daí apareceu o [/] o Japão daí eles (es)tão assim girando , girando , girando ficaram tonto(s) caíram no chão daí eles foram parar no Japão daí no Japão <eles fizeram> [//] daí eles comeram aí encontraram um restaurante japonês <cantaram música> [>] +/.
+%mor:	adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|parar-Fin-Plur-Ind-3-Past adp|em~det|o-Def-Art noun|América&Fem adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|conhecer-Fin-Plur-Ind-3-Past det|o-Def-Art noun|pessoa&Fem-Plur adj|americana-Pos-P-1 x|ãhn verb|brincar-Fin-Plur-Ind-3-Past adp|com det|o-Def-Art noun|pessoa&Fem-Plur adj|americano-Pos-P-1 adp|de noun|repente&Masc det|o-Def-Art noun|gente&Fem adv|assim det|o-Def-Art pron|gente-Ind-Acc-S1 verb|fazer-Fin-Ind-3-Past det|um-Ind-Art noun|roda&Fem cm|cm verb|brincar-Fin-Ind-3-Past cconj|e verb|cantar-Fin-Ind-3-Past cconj|e pron|tal-Ind-Acc-S1 adp|de~adv|aí adv|depois det|o-Def-Art pron|gente-Ind-Acc-S1 verb|começar-Fin-Ind-3-Past verb|saber-Fin-Plur-Ind-1-Pres det|aquele-Def-Dem x|hmn adp|em noun|dupla&Fem-Plur pron|que-Rel-Acc-P1 det|o-Def-Art noun|gente&Fem verb|começar-Fin-Ind-3-Pres sconj|a verb|girar-Inf adv|super adj|forte-Pos-S-1 adp|de~adv|aí det|o-Def-Art noun|gente&Fem verb|começar-Fin-Ind-3-Past sconj|a verb|girar-Inf cm|cm verb|girar-Inf cm|cm verb|girar-Inf verb|ser-Fin-Ind-3-Imp adp|em~det|o-Def-Art noun|recreio&Masc adp|de~det|o-Def-Art noun|América&Fem x|né adp|de~adv|aí det|um-Ind-Art noun|escola&Fem adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|girar-Inf cm|cm verb|girar-Inf cm|cm verb|girar-Inf cconj|e verb|começar-Fin-Ind-3-Past sconj|a verb|tocar-Inf det|o-Def-Art noun|sino&Masc det|o-Def-Art noun|americano&Masc-Plur verb|ir-Fin-Plur-Ind-3-Past adp|pra adv|dentro adp|de~det|o-Def-Art noun|escola&Fem adp|de~adv|aí det|o-Def-Art noun|americano&Masc-Plur verb|sair-Fin-Plur-Ind-3-Imp adp|de noun|cena&Fem cconj|e adp|de~adv|aí verb|aparecer-Fin-Ind-3-Past det|o-Def-Art noun|Japão&Masc adp|de~adv|aí pron|eles-Prs-Nom-P3 aux|estar-Fin-Plur-Ind-3-Pres adv|assim verb|girar-Ger cm|cm verb|girar-Ger cm|cm verb|girar-Ger verb|ficar-Fin-Plur-Ind-3-Past noun|tonto&Masc-Plur verb|cair-Fin-Plur-Ind-3-Past adp|em~det|o-Def-Art noun|chão&Masc adp|de~adv|aí pron|eles-Prs-Nom-P3 aux|ser-Fin-Plur-Ind-3-Past verb|parar-Inf adp|em~det|o-Def-Art noun|Japão&Masc adp|de~adv|aí adp|em~det|o-Def-Art noun|Japão&Masc adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|comer-Fin-Plur-Ind-3-Past adv|aí verb|encontrar-Fin-Plur-Ind-3-Past det|um-Ind-Art noun|restaurante&Masc adj|japonês-Pos-S-1 verb|cantar-Fin-Plur-Ind-3-Past noun|música&Fem +/.
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|155|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|11|ADVMOD 10|11|NSUBJ 11|4|CONJ 12|13|DET 13|11|OBJ 14|15|AMOD 15|13|FLAT 16|4|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|19|AMOD 21|22|CASE 22|28|OBL 23|24|DET 24|28|NSUBJ 25|28|ADVMOD 26|27|DET 27|28|NSUBJ 28|16|CONJ 29|30|DET 30|28|OBJ 31|32|PUNCT 32|28|CONJ 33|34|CC 34|32|CONJ 35|42|CC 36|42|NSUBJ 37|38|CASE 38|36|ADVMOD 39|42|ADVMOD 40|41|DET 41|42|NSUBJ 42|32|CONJ 43|42|CONJ 44|45|DET 45|43|FLAT 46|47|CASE 47|45|NMOD 48|51|OBJ 49|50|DET 50|51|NSUBJ 51|45|ACL-RELCL 52|53|MARK 53|51|XCOMP 54|55|ADVMOD 55|53|OBL 56|57|CASE 57|60|ADVMOD 58|59|DET 59|60|NSUBJ 60|53|CONJ 61|62|MARK 62|60|XCOMP 63|64|PUNCT 64|62|CONJ 65|66|PUNCT 66|62|CONJ 67|62|CONJ 68|70|CASE 69|70|DET 70|67|OBL 71|73|CASE 72|73|DET 73|70|NMOD 74|73|FLAT 75|76|CASE 76|78|ADVMOD 77|78|DET 78|82|NSUBJ 79|80|CASE 80|82|ADVMOD 81|82|NSUBJ 82|67|CONJ 83|84|MARK 84|82|XCOMP 85|86|PUNCT 86|84|CONJ 87|88|PUNCT 88|84|CONJ 89|90|CC 90|84|CONJ 91|92|MARK 92|90|XCOMP 93|94|DET 94|92|OBJ 95|96|DET 96|97|NSUBJ 97|84|CONJ 98|99|CASE 99|97|ADVMOD 100|102|CASE 101|102|DET 102|99|OBL 103|104|CASE 104|102|ADVMOD 105|106|DET 106|107|NSUBJ 107|97|ADVCL 108|109|CASE 109|107|OBL 110|113|CC 111|112|CASE 112|113|ADVMOD 113|107|CONJ 114|115|DET 115|113|NSUBJ 116|117|CASE 117|115|ADVMOD 118|121|NSUBJ 119|121|AUX 120|121|ADVMOD 121|113|ADVCL 122|123|PUNCT 123|121|ADVCL 124|126|PUNCT 125|126|ADVCL 126|123|CCOMP 127|128|NSUBJ 128|126|CCOMP 129|131|CASE 130|131|DET 131|128|OBL 132|133|CASE 133|131|ADVMOD 134|136|NSUBJ 135|136|COP 136|128|ADVCL 137|139|CASE 138|139|DET 139|136|OBL 140|141|CASE 141|136|ADVMOD 142|144|CASE 143|144|DET 144|136|OBL 145|146|CASE 146|148|ADVMOD 147|148|NSUBJ 148|136|ADVCL 149|148|ADVMOD 150|148|CONJ 151|152|DET 152|150|OBJ 153|152|AMOD 154|150|CCOMP 155|154|OBJ 156|4|PUNCT
+*INV:	++ com pauzinho .
+%mor:	adp|com noun|pauzinho&Masc .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	é ãhn@i cantaram uma música em japonês (e)ssa coisa toda depois eles começaram a falar e começaram daí eles ãhn@i cantaram música <em japonês> [//] japo [//] japonesa daí depois ãhn@i os brasileiros ãhn@i cantaram o “Samba Lelê” pra eles e começaram a dançar e depois todo mundo falou [//] ficou falando +"/.
+%mor:	aux|ser-Fin-Ind-3-Pres x|ãhn verb|cantar-Fin-Plur-Ind-3-Past det|um-Ind-Art noun|música&Fem adp|em noun|japonês&Masc det|esse-Def-Dem noun|coisa&Fem det|todo-Def-Tot adv|depois pron|eles-Prs-Nom-P3 verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|falar-Inf cconj|e verb|começar-Fin-Plur-Ind-3-Past adp|de~adv|aí pron|eles-Prs-Nom-P3 x|ãhn verb|cantar-Fin-Plur-Ind-3-Past noun|música&Fem adj|japonês-Pos-S-1 adp|de~adv|aí adv|depois x|ãhn det|o-Def-Art noun|brasileiro&Masc-Plur x|ãhn verb|cantar-Fin-Plur-Ind-3-Past det|o-Def-Art noun|Samba&Masc noun|Lelê&ComNeut adp|pra pron|eles-Prs-Acc-P3 cconj|e verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|dançar-Inf cconj|e adv|depois det|todo-Def-Tot noun|mundo&Masc verb|ficar-Fin-Ind-3-Past verb|falar-Ger +"/.
+%gra:	1|2|COP 2|3|FLAT 3|47|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|9|DET 9|3|NSUBJ 10|9|DET 11|13|ADVMOD 12|13|NSUBJ 13|3|CONJ 14|15|MARK 15|13|XCOMP 16|17|CC 17|15|CONJ 18|19|CASE 19|22|ADVMOD 20|22|NSUBJ 21|20|FLAT 22|3|CONJ 23|22|OBJ 24|23|AMOD 25|26|CASE 26|23|ADVMOD 27|32|ADVMOD 28|32|FLAT 29|30|DET 30|32|NSUBJ 31|30|FLAT 32|22|CONJ 33|34|DET 34|32|OBJ 35|34|FLAT-NAME 36|37|CASE 37|32|OBL 38|39|CC 39|32|CONJ 40|41|MARK 41|39|XCOMP 42|46|CC 43|46|ADVMOD 44|45|DET 45|46|NSUBJ 46|41|CONJ 47|46|XCOMP 48|3|PUNCT
+*CHI:	+" arigatô@s:jpn , arigatô@s:jpn , arigatô@s:jpn , arigatô@s:jpn .
+%mor:	x|arigatô cm|cm x|arigatô cm|cm x|arigatô cm|cm x|arigatô .
+%gra:	1|7|FLAT 2|3|PUNCT 3|1|FLAT 4|5|PUNCT 5|1|FLAT 6|7|PUNCT 7|1|FLAT 8|1|PUNCT
+*CHI:	e os japonês(s) começaram sabe [: sabes] aquelas luz(s) que piscamas ?
+%mor:	cconj|e det|o-Def-Art noun|japonês&Masc-Plur verb|começar-Fin-Plur-Ind-3-Past verb|saber-Fin-Plur-Ind-1-Pres det|aquele-Def-Dem noun|luz&Fem-Plur sconj|que noun|piscama&Fem-Plur ?
+%gra:	1|5|CC 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|4|XCOMP 6|7|DET 7|5|OBJ 8|9|MARK 9|7|NMOD 10|4|PUNCT
+*INV:	0 .
+%com:	a entrevistadora responde positivamente com a cabeça .
+*CHI:	começou [: começaram] a piscar depois do arigatô@s:jpn e os japonês(s) começaram a guardar tudo e se foram fora do cenário e só os brasileiro(s) +"/.
+%mor:	verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|piscar-Inf adv|depois adp|de~det|o-Def-Art x|arigatô cconj|e det|o-Def-Art noun|japonês&Masc-Plur verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|guardar-Inf pron|tudo-Ind-Acc-S1 cconj|e pron|se-Prs-Acc-P3 aux|ser-Fin-Plur-Ind-3-Past adv|fora adp|de~det|o-Def-Art noun|cenário&Masc cconj|e adv|só det|o-Def-Art noun|brasileiro&Masc-Plur +"/.
+%gra:	1|25|ROOT 2|3|MARK 3|1|XCOMP 4|3|ADVMOD 5|7|CASE 6|7|DET 7|4|FLAT 8|13|CC 9|10|DET 10|11|NSUBJ 11|3|CONJ 12|13|MARK 13|11|XCOMP 14|13|OBJ 15|17|CC 16|17|EXPL 17|13|CONJ 18|17|ADVMOD 19|21|CASE 20|21|DET 21|18|OBL 22|25|CC 23|25|ADVMOD 24|25|DET 25|21|CONJ 26|1|PUNCT
+*CHI:	+" arigatô@s:jpn [/] arigatô@s:jpn [/] arigatô@s:jpn .
+%mor:	x|arigatô .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	ficaram [/] ficaram tonto(s) daí passaram pela África , na África eles foram numa [: em uma] feira e ofereceram pra eles e não queriam e ficaram pediram arte fizeram uma música em fran [//] africano lá daí depois eles passaram pela França e pela Argentina tá@i daí na Argentina ãhn@i eles ãhn@i deram uma xxx daí eu e uma menina andamos de patim(s) no gelo mas na verdade era com os patins Roller +...
+%mor:	verb|ficar-Fin-Plur-Ind-3-Past adj|tonto-Pos-P-1 adp|de~adv|aí verb|passar-Fin-Plur-Ind-3-Past adp|por~det|o-Def-Art noun|África&Fem cm|cm adp|em~det|o-Def-Art noun|África&Fem pron|eles-Prs-Nom-P3 verb|ir-Fin-Plur-Ind-3-Past adp|em det|um-Ind-Art noun|feira&Fem cconj|e verb|oferecer-Fin-Plur-Ind-3-Past adp|pra pron|eles-Prs-Acc-P3 cconj|e adv|não verb|querer-Fin-Plur-Ind-3-Imp cconj|e verb|ficar-Fin-Plur-Ind-3-Past verb|pedir-Fin-Plur-Ind-3-Past noun|arte&Fem verb|fazer-Fin-Plur-Ind-3-Past det|um-Ind-Art noun|música&Fem adp|em noun|africano&Masc adv|lá adp|de~adv|aí adv|depois pron|eles-Prs-Nom-P3 verb|passar-Fin-Plur-Ind-3-Past adp|por~det|o-Def-Art noun|França&Fem cconj|e adp|por~det|o-Def-Art noun|Argentina&Fem x|tá adp|de~adv|aí adp|em~det|o-Def-Art noun|Argentina&Fem x|ãhn pron|eles-Prs-Nom-P3 x|ãhn verb|dar-Fin-Plur-Ind-3-Past num|um adp|de~adv|aí pron|eu-Prs-Nom-S1 cconj|e det|um-Ind-Art noun|menina&Fem verb|andar-Fin-Plur-Ind-1-Pres adp|de noun|patim&Masc-Plur adp|em~det|o-Def-Art noun|gelo&Masc cconj|mas adp|em~det|o-Def-Art noun|verdade&Fem aux|ser-Fin-Ind-3-Imp adp|com det|o-Def-Art noun|patim&Masc-Plur noun|Roller&Masc +...
+%gra:	1|78|ROOT 2|1|XCOMP 3|4|CASE 4|2|ADVMOD 5|1|CSUBJ 6|8|CASE 7|8|DET 8|5|OBL 9|14|PUNCT 10|12|CASE 11|12|DET 12|14|OBL 13|14|NSUBJ 14|5|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|19|CC 19|14|CONJ 20|21|CASE 21|19|OBJ 22|24|CC 23|24|ADVMOD 24|14|CONJ 25|26|CC 26|24|CONJ 27|24|CONJ 28|27|OBJ 29|1|CONJ 30|31|DET 31|29|OBJ 32|33|CASE 33|29|OBL 34|39|ADVMOD 35|36|CASE 36|34|ADVMOD 37|39|ADVMOD 38|39|NSUBJ 39|29|CONJ 40|42|CASE 41|42|DET 42|39|OBL 43|46|CC 44|46|CASE 45|46|DET 46|42|CONJ 47|39|FLAT 48|49|CASE 49|47|ADVMOD 50|52|CASE 51|52|DET 52|47|OBL 53|56|FLAT 54|56|NSUBJ 55|54|FLAT 56|39|CONJ 57|56|OBJ 58|59|CASE 59|57|ADVMOD 60|64|NSUBJ 61|63|CC 62|63|DET 63|60|CONJ 64|56|CONJ 65|66|CASE 66|64|OBL 67|69|CASE 68|69|DET 69|64|OBL 70|77|CC 71|73|CASE 72|73|DET 73|77|NMOD 74|77|COP 75|77|CASE 76|77|DET 77|64|CONJ 78|77|APPOS 79|1|PUNCT
+*INV:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	+, daí a gente andou andou daí [//] e os outros ficaram brincando e na França eles brincaram num [: em um] parquinho daí depois ãhn@i eles chegaram [>] +/.
+%mor:	adp|de~adv|aí det|o-Def-Art pron|gente-Ind-Acc-S1 verb|andar-Fin-Ind-3-Past verb|andar-Fin-Ind-3-Past cconj|e det|o-Def-Art pron|outro-Ind-Acc-P1 verb|ficar-Fin-Plur-Ind-3-Past verb|brincar-Ger cconj|e adp|em~det|o-Def-Art noun|França&Fem pron|eles-Prs-Nom-P3 verb|brincar-Fin-Plur-Ind-3-Past adp|em det|um-Ind-Art noun|parquinho&Masc adp|de~adv|aí adv|depois x|ãhn pron|eles-Prs-Nom-P3 verb|chegar-Fin-Plur-Ind-3-Past +/.
+%gra:	1|2|CASE 2|6|ADVMOD 3|4|DET 4|5|NSUBJ 5|26|ROOT 6|5|CONJ 7|11|CC 8|9|DET 9|10|NSUBJ 10|6|CONJ 11|10|XCOMP 12|17|CC 13|15|CASE 14|15|DET 15|17|OBL 16|17|NSUBJ 17|6|CONJ 18|20|CASE 19|20|DET 20|17|OBL 21|22|CASE 22|20|ADVMOD 23|26|ADVMOD 24|26|FLAT 25|26|NSUBJ 26|17|CONJ 27|5|PUNCT
+*INV:	<tu andou [: andaste] de> [<] [//] tu [//] na [/] na história toda tu andou [: andaste] de [//] no gelo assim mas em que país tu andou [: andaste] no gelo ?
+%mor:	adp|em~det|o-Def-Art noun|história&Fem det|todo-Def-Tot pron|tu-Prs-Nom-S1 verb|andastar-Fin-Ind-1-Pres adp|em~det|o-Def-Art noun|gelo&Masc adv|assim cconj|mas adp|em det|que-Def-Int noun|país&Masc pron|tu-Prs-Nom-S1 verb|andastar-Fin-Ind-1-Pres adp|em~det|o-Def-Art noun|gelo&Masc ?
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|5|DET 5|6|NSUBJ 6|19|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVMOD 11|16|CC 12|14|CASE 13|14|DET 14|16|OBL 15|16|NSUBJ 16|6|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|6|PUNCT
+*CHI:	eu só andei na Argentina .
+%mor:	pron|eu-Prs-Nom-S1 adv|só verb|andar-Fin-Ind-1-Past adp|em~det|o-Def-Art noun|Argentina&Fem .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	na Argentina .
+%mor:	adp|em~det|o-Def-Art noun|Argentina&Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	é [>] .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	hmn@i [<] .
+%mor:	x|hmn .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	+, <daí depois eles> [//] daí depois ãhn@i depois da Argentina não [!] (es)pera aí (.) depois da França eles caem num [: em um] buraco daí o buraco eles <passam por> [//] pelum [: pelo um] [*] labirinto pra ir pra Argentina +...
+%com:	houve a repetição do artigo em combinação com a preposição /por/ (por+o+um) .
+%mor:	adp|de~adv|aí adv|depois x|ãhn adv|depois adp|de~det|o-Def-Art noun|Argentina&Fem adv|não verb|esperar-Fin-Ind-3-Pres adv|aí adv|depois adp|de~det|o-Def-Art noun|França&Fem pron|eles-Prs-Nom-P3 verb|cair-Fin-Plur-Ind-3-Pres adp|em det|um-Ind-Art noun|buraco&Masc adp|de~adv|aí det|o-Def-Art noun|buraco&Masc pron|eles-Prs-Nom-P3 adp|por~det|o-Def-Art det|um-Ind-Art noun|labirinto&Masc sconj|pra verb|ir-Inf adp|pra noun|Argentina&Fem +...
+%gra:	1|2|CASE 2|10|ADVMOD 3|10|ADVMOD 4|10|FLAT 5|10|ADVMOD 6|8|CASE 7|8|DET 8|5|OBL 9|10|ADVMOD 10|33|ROOT 11|10|ADVMOD 12|10|ADVMOD 13|15|CASE 14|15|DET 15|12|OBL 16|17|NSUBJ 17|10|CCOMP 18|20|CASE 19|20|DET 20|17|OBL 21|22|CASE 22|20|ADVMOD 23|24|DET 24|17|OBJ 25|24|APPOS 26|29|CASE 27|29|DET 28|29|DET 29|17|OBL 30|31|MARK 31|29|ACL 32|33|CASE 33|31|OBL 34|10|PUNCT
+*INV:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	+, tá@i daí eles foram lá eles cantaram , patinaram (e)ssa coisa toda tá@i (.) daí depois ãhn@i os argentino(s) foram embora e eles começaram a ficar lá daí [/] daí depois [//] eles <passaram pelum [: pelo um] [*]> [/] passaram pelum [: pelo um] [*] negócio não sei muito bem daí eles voltaram pela [//] pra sala de aula daí <a professora> [/] a professora disse +"/.
+%com:	houve a repetição do artigo em combinação com a preposição /por/ (por+o+um) .
+%mor:	x|tá adp|de~adv|aí pron|eles-Prs-Nom-P3 aux|ser-Fin-Plur-Ind-3-Past adv|lá pron|eles-Prs-Nom-P3 verb|cantar-Fin-Plur-Ind-3-Past cm|cm verb|patinar-Fin-Plur-Ind-3-Past det|esse-Def-Dem noun|coisa&Fem det|todo-Def-Tot x|tá adp|de~adv|aí adv|depois x|ãhn det|o-Def-Art noun|argentino&Masc-Plur verb|ir-Fin-Plur-Ind-3-Past adv|embora cconj|e pron|eles-Prs-Nom-P3 verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|ficar-Inf adv|lá adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|passar-Fin-Plur-Ind-3-Past adp|por~det|o-Def-Art det|um-Ind-Art noun|negócio&Masc adv|não verb|saber-Fin-Ind-1-Past adv|muito adv|bem adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|voltar-Fin-Plur-Ind-3-Past adp|pra noun|sala&Fem adp|de noun|aula&Fem adp|de~adv|aí det|o-Def-Art noun|professora&Fem verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|8|FLAT 2|3|CASE 3|1|ADVMOD 4|5|NSUBJ 5|53|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|CCOMP 9|10|PUNCT 10|8|CONJ 11|12|DET 12|10|OBJ 13|14|DET 14|10|FLAT 15|16|CASE 16|14|ADVMOD 17|21|ADVMOD 18|21|FLAT 19|20|DET 20|21|NSUBJ 21|8|CONJ 22|21|ADVMOD 23|25|CC 24|25|NSUBJ 25|21|CONJ 26|27|MARK 27|25|XCOMP 28|27|ADVMOD 29|30|CASE 30|28|ADVMOD 31|32|NSUBJ 32|27|CONJ 33|36|CASE 34|36|DET 35|36|DET 36|32|OBL 37|38|ADVMOD 38|8|CONJ 39|40|ADVMOD 40|38|ADVMOD 41|42|CASE 42|44|ADVMOD 43|44|NSUBJ 44|38|CCOMP 45|46|CASE 46|44|OBL 47|46|COMPOUND 48|46|COMPOUND 49|50|CASE 50|46|ADVMOD 51|52|DET 52|53|NSUBJ 53|38|CONJ 54|5|PUNCT
+*CHI:	+" ah onde é que vocês andaram a gente procurou vocês por toda a parte (e)ssa coisa toda aí <daí eles fizeram uma> [//] eles foram no computador (es)tavam falando os argentino(s) , os americano(s) tudo só que não apareceram né@i .
+%mor:	intj|ah adv|onde aux|ser-Inf sconj|que pron|você-Prs-Nom-P1 verb|andar-Fin-Plur-Ind-3-Past det|o-Def-Art pron|gente-Ind-Acc-S1 verb|procurar-Fin-Ind-3-Past pron|você-Prs-Acc-P3 adp|por det|todo-Def-Tot det|o-Def-Art noun|parte&Fem det|esse-Def-Dem noun|coisa&Fem det|todo-Def-Tot adv|aí pron|eles-Prs-Nom-P3 verb|ir-Fin-Plur-Ind-3-Past adp|em~det|o-Def-Art noun|computador&Masc aux|estar-Fin-Plur-Ind-3-Imp verb|falar-Ger det|o-Def-Art noun|argentino&Masc-Plur cm|cm det|o-Def-Art noun|americano&Masc-Plur pron|tudo-Ind-Acc-S1 adv|só sconj|que adv|não verb|aparecer-Fin-Plur-Ind-3-Past x|né .
+%gra:	1|9|DISCOURSE 2|3|FIXED 3|6|DISCOURSE 4|3|FIXED 5|6|NSUBJ 6|9|ADVCL 7|8|DET 8|6|NSUBJ 9|36|ROOT 10|9|OBJ 11|14|CASE 12|14|DET 13|14|DET 14|9|OBL 15|16|DET 16|20|NSUBJ 17|16|DET 18|20|ADVMOD 19|20|NSUBJ 20|9|CONJ 21|23|CASE 22|23|DET 23|20|OBL 24|25|AUX 25|20|PARATAXIS 26|27|DET 27|25|OBJ 28|25|PUNCT 29|30|DET 30|31|NSUBJ 31|35|NSUBJ 32|35|ADVMOD 33|35|MARK 34|35|ADVMOD 35|25|ADVCL 36|35|FLAT 37|9|PUNCT
+*INV:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	daí <botaram todo o> [//] quando botaram assim falaram e tal coisa daí eles fizeram uma festa [!] pra comemorar tudo isso daí os argentino(s) , os africano(s) , o(s) franceses , <os a> [//] os [/] os japonês(s) todo mundo foi na festa e começou a dançar daí a gente convidou as pessoas do coral tamb [//] e as crianças da platéia pra dançar daí a gente dançou e brincou ah estourou &=riso balão e tudo <e aquela luz piscando> [>] +...
+%mor:	adp|de~adv|aí adv|quando verb|botar-Fin-Plur-Ind-3-Past adv|assim verb|falar-Fin-Plur-Ind-3-Past cconj|e det|tal-Def-Ind noun|coisa&Fem adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|fazer-Fin-Plur-Ind-3-Past det|um-Ind-Art noun|festa&Fem sconj|pra verb|comemorar-Inf pron|tudo-Ind-Acc-S1 pron|isso-Dem-Acc-S1 adp|de~adv|aí det|o-Def-Art noun|argentino&Masc-Plur cm|cm det|o-Def-Art noun|africano&Masc-Plur cm|cm det|o-Def-Art noun|francês&Masc-Plur cm|cm det|o-Def-Art noun|japonês&Masc-Plur det|todo-Def-Tot noun|mundo&Masc verb|ir-Fin-Ind-3-Past adp|em~det|o-Def-Art noun|festa&Fem cconj|e verb|começar-Fin-Ind-3-Past sconj|a verb|dançar-Inf adp|de~adv|aí det|o-Def-Art pron|gente-Ind-Acc-S1 verb|convidar-Fin-Ind-3-Past det|o-Def-Art noun|pessoa&Fem-Plur adp|de~det|o-Def-Art noun|coral&Masc cconj|e det|o-Def-Art noun|criança&Fem-Plur adp|de~det|o-Def-Art noun|platéia&Fem sconj|pra verb|dançar-Inf adp|de~adv|aí det|o-Def-Art pron|gente-Ind-Acc-S1 verb|dançar-Fin-Ind-3-Past cconj|e verb|brincar-Fin-Ind-3-Past adv|ah verb|estourar-Fin-Ind-3-Past noun|balão&Masc cconj|e pron|tudo-Ind-Acc-S1 cconj|e det|aquele-Def-Dem noun|luz&Fem verb|piscar-Ger +...
+%gra:	1|2|CASE 2|6|ADVMOD 3|4|ADVMOD 4|2|PARATAXIS 5|4|ADVMOD 6|76|ROOT 7|13|CC 8|9|DET 9|13|NSUBJ 10|11|CASE 11|9|ADVMOD 12|13|NSUBJ 13|6|CONJ 14|15|DET 15|13|OBJ 16|17|MARK 17|13|ADVCL 18|17|OBJ 19|18|FIXED 20|21|CASE 21|17|ADVMOD 22|23|DET 23|17|OBJ 24|26|PUNCT 25|26|DET 26|23|CONJ 27|29|PUNCT 28|29|DET 29|23|CONJ 30|32|PUNCT 31|32|DET 32|23|CONJ 33|34|DET 34|35|NSUBJ 35|13|CONJ 36|38|CASE 37|38|DET 38|35|OBL 39|40|CC 40|47|CONJ 41|42|MARK 42|40|XCOMP 43|44|CASE 44|42|ADVMOD 45|46|DET 46|47|NSUBJ 47|35|CONJ 48|49|DET 49|47|OBJ 50|52|CASE 51|52|DET 52|49|NMOD 53|55|CC 54|55|DET 55|49|CONJ 56|58|CASE 57|58|DET 58|55|NMOD 59|60|MARK 60|65|ADVCL 61|62|CASE 62|60|ADVMOD 63|64|DET 64|65|NSUBJ 65|47|CONJ 66|67|CC 67|65|CONJ 68|69|ADVMOD 69|65|CONJ 70|69|OBJ 71|72|CC 72|70|CONJ 73|75|CC 74|75|DET 75|72|CONJ 76|75|ACL 77|6|PUNCT
+*INV:	<fizeram a festa> [<] .
+%mor:	verb|fazer-Fin-Plur-Ind-3-Past det|o-Def-Art noun|festa&Fem .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	+, é daí terminou numa [: em uma] festa .
+%mor:	aux|ser-Fin-Ind-3-Pres adp|de~adv|aí verb|terminar-Fin-Ind-3-Past adp|em det|um-Ind-Art noun|festa&Fem .
+%gra:	1|4|COP 2|3|CASE 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	uh^hum@i ai@i que legal !
+%mor:	x|uhhum x|ai sconj|que adj|legal-Pos-S-1 !
+%gra:	1|4|FLAT 2|1|FLAT 3|4|MARK 4|1|AMOD 5|1|PUNCT
+*INV:	e isso foi [/] foi feito agora dia nove ?
+%mor:	cconj|e pron|isso-Dem-Acc-S1 aux|ser-Fin-Ind-3-Past verb|fazer-Part adv|agora noun|dia&Masc num|nove ?
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|4|ADVMOD 6|4|OBL 7|6|NUMMOD 8|4|PUNCT
+*CHI:	não [!] dia dez .
+%mor:	adv|não noun|dia&Masc num|dez .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|NUMMOD 4|2|PUNCT
+*INV:	dia dez [!] .
+%mor:	noun|dia&Masc num|dez .
+%gra:	1|2|ROOT 2|1|NUMMOD 3|1|PUNCT
+*INV:	onde é que vocês se apresentaram ?
+%mor:	pron|onde-Rel-Acc-S1 aux|ser-Inf sconj|que pron|você-Prs-Nom-P3 pron|se-Prs-Acc-P3 verb|apresentar-Fin-Plur-Ind-3-Past ?
+%gra:	1|6|OBL 2|6|DISCOURSE 3|2|FIXED 4|6|NSUBJ 5|6|EXPL 6|6|ROOT 7|6|PUNCT
+*CHI:	a gente se apresentou ah é ali perto hmn@i num [: em um] salão ali perto da [//] do “Gasômetro” sabe [: sabes] ?
+%mor:	det|o-Def-Art noun|gente&Fem pron|se-Prs-Acc-S3 verb|apresentar-Fin-Ind-3-Past adv|ah aux|ser-Fin-Ind-3-Pres adv|ali adv|perto x|hmn adp|em det|um-Ind-Art noun|salão&Masc adv|ali adv|perto adp|de~det|o-Def-Art noun|Gasômetro&Masc verb|saber-Fin-Plur-Ind-1-Pres ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL 4|18|ROOT 5|7|ADVMOD 6|7|COP 7|4|ADVMOD 8|7|ADVMOD 9|8|FLAT 10|12|CASE 11|12|DET 12|7|OBL 13|14|ADVMOD 14|12|ADVMOD 15|17|CASE 16|17|DET 17|14|OBL 18|4|ADVCL 19|4|PUNCT
+*INV:	hmn@i que jóia [>] !
+%mor:	x|hmn det|que-Def-Int noun|jóia&Fem !
+%gra:	1|3|FLAT 2|3|DET 3|1|NMOD 4|1|PUNCT
+*CHI:	<teve até> [<] uma apresentação e até no teatro da Projeto ali .
+%mor:	verb|ter-Fin-Ind-3-Past adp|até det|um-Ind-Art noun|apresentação&Fem cconj|e adv|até adp|em~det|o-Def-Art noun|teatro&Masc adp|de~det|o-Def-Art noun|projeto&Fem adv|ali .
+%gra:	1|13|ROOT 2|4|CASE 3|4|DET 4|1|OBJ 5|9|CC 6|9|ADVMOD 7|9|CASE 8|9|DET 9|4|CONJ 10|12|CASE 11|12|DET 12|9|NMOD 13|1|ADVMOD 14|1|PUNCT
+*INV:	tem um teatro na escola Projeto ?
+%mor:	verb|ter-Fin-Ind-3-Pres det|um-Ind-Art noun|teatro&Masc adp|em~det|o-Def-Art noun|escola&Fem noun|Projeto&Masc ?
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|6|APPOS 8|1|PUNCT
+*CHI:	é (.) tem um .
+%mor:	aux|ser-Fin-Ind-3-Pres verb|ter-Fin-Ind-3-Pres num|um .
+%gra:	1|2|AUX 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	ah que jóia !
+%mor:	intj|ah sconj|que noun|jóia&Fem !
+%gra:	1|3|ROOT 2|1|FIXED 3|1|NSUBJ 4|1|PUNCT
+*INV:	escuta tu consegue [: consegues] escrever isso pra mim agora ?
+%mor:	verb|escutar-Fin-Ind-3-Pres pron|tu-Prs-Acc-S1 verb|conseguir-Fin-Plur-Ind-1-Pres verb|escrever-Inf pron|isso-Dem-Acc-S1 adp|pra pron|eu-Prs-Acc-S1 adv|agora ?
+%gra:	1|8|ROOT 2|1|IOBJ 3|1|CCOMP 4|3|XCOMP 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|ADVMOD 9|1|PUNCT
+*CHI:	tudo [!] não .
+%mor:	pron|tudo-Ind-Acc-S1 intj|não .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	não [!] tudo não <tu não vai cons> [//] se não tu vai [: vais] ficar três dia(s) escrevendo né@i .
+%mor:	adv|não pron|tudo-Ind-Acc-S1 adv|não pron|se-Prs-Acc-S1 adv|não pron|tu-Prs-Acc-S1 aux|ir-Fin-Ind-1-Pres verb|ficar-Inf num|três noun|dia&Masc-Plur verb|escrever-Ger x|né .
+%gra:	1|8|ADVMOD 2|8|NSUBJ 3|8|ADVMOD 4|8|NSUBJ 5|8|ADVMOD 6|8|OBJ 7|8|AUX 8|12|ROOT 9|10|NUMMOD 10|8|OBL 11|8|ADVCL 12|11|FLAT 13|8|PUNCT
+*CHI:	deixa eu ver então .
+%com:	no turno acima a criança conversa consigo mesma .
+%mor:	verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|ver-Inf adv|então .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|ADVMOD 5|1|PUNCT
+*INV:	escreve um [/] um pedaço pra mim então um [/] <um pouco disso tudo> [>] +...
+%mor:	verb|escrever-Fin-Ind-3-Pres det|um-Ind-Art noun|pedaço&Masc adp|pra pron|eu-Prs-Acc-S1 adv|então det|um-Ind-Art adv|pouco adp|de~pron|isso-Dem-Acc-S1 pron|tudo-Ind-Acc-S1 +...
+%gra:	1|11|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|IOBJ 6|1|ADVMOD 7|8|DET 8|1|ADVMOD 9|10|CASE 10|8|OBL 11|10|NMOD 12|1|PUNCT
+*CHI:	++ <a parte que eu mais gostei> [<] .
+%mor:	det|o-Def-Art noun|parte&Fem pron|que-Rel-Acc-S1 pron|eu-Prs-Nom-S1 adv|mais verb|gostar-Fin-Ind-1-Past .
+%gra:	1|2|DET 2|6|ROOT 3|6|OBJ 4|6|NSUBJ 5|6|ADVMOD 6|2|ACL-RELCL 7|2|PUNCT
+*INV:	é a parte que tu mais gostou [: gostaste] resume isso tudo assim +...
+%mor:	aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|parte&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 adv|mais verb|gostar-Fin-Ind-1-Pres verb|resumir-Fin-Ind-3-Pres pron|isso-Dem-Acc-S1 pron|tudo-Ind-Acc-S1 adv|assim +...
+%gra:	1|8|ADVMOD 2|3|DET 3|8|NSUBJ 4|7|OBJ 5|7|NSUBJ 6|7|ADVMOD 7|3|ACL-RELCL 8|11|ROOT 9|8|OBJ 10|8|OBJ 11|8|ADVMOD 12|8|PUNCT
+*CHI:	posso fazer a parte que eu mais gostei ?
+%mor:	verb|poder-Fin-Ind-1-Pres verb|fazer-Inf det|o-Def-Art noun|parte&Fem pron|que-Rel-Acc-S1 pron|eu-Prs-Nom-S1 adv|mais verb|gostar-Fin-Ind-1-Past ?
+%gra:	1|8|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|8|OBJ 6|8|NSUBJ 7|8|ADVMOD 8|4|ACL-RELCL 9|1|PUNCT
+*INV:	pode [: podes] fazer a parte que mais gostou [: gostaste] .
+%mor:	verb|poder-Fin-Ind-1-Pres verb|fazer-Inf det|o-Def-Art noun|parte&Fem pron|que-Rel-Acc-S1 adv|mais verb|gostar-Fin-Ind-1-Pres .
+%gra:	1|7|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|7|OBJ 6|7|ADVMOD 7|4|ACL-RELCL 8|1|PUNCT
+*CHI:	deixa eu ver .
+%com:	no turno acima a criança conversa consigo mesma .
+%mor:	verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|ver-Inf .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|CCOMP 4|1|PUNCT
+*INV:	deixa eu sentar aqui .
+%mor:	verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|sentar-Inf adv|aqui .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|ADVMOD 5|1|PUNCT
+*CHI:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	só não esquece de colocar o teu nome .
+%com:	a filmadora foi desligada , há silêncio e a seguir o gravador é desligado; a criança escreve o relato pessoal .
+%mor:	adv|só adv|não verb|esquecer-Fin-Ind-3-Pres sconj|de verb|colocar-Inf det|o-Def-Art det|teu-Def-Prs noun|nome&Masc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|DET 7|8|DET 8|5|OBJ 9|3|PUNCT
+*INV:	tá@i então já que tu terminou [: terminaste] lê pra mim então o que tu [/] tu escreveu [: escreveste] .
+%mor:	x|tá adv|então adv|já sconj|que pron|tu-Prs-Nom-S1 verb|terminar-Fin-Ind-1-Pres verb|ler-Fin-Ind-3-Pres adp|pra pron|eu-Prs-Acc-S1 adv|então pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|tu-Prs-Acc-S1 verb|escrever-Fin-Ind-1-Pres .
+%gra:	1|7|FLAT 2|7|ADVMOD 3|7|ADVMOD 4|6|MARK 5|6|NSUBJ 6|1|ACL-RELCL 7|14|ROOT 8|9|CASE 9|7|OBL 10|7|ADVMOD 11|7|OBJ 12|14|OBJ 13|14|OBJ 14|11|ACL-RELCL 15|7|PUNCT
+*CHI:	eu gostei mais da parte +...
+%mor:	pron|eu-Prs-Nom-S1 verb|gostar-Fin-Ind-1-Past adv|mais adp|de~det|o-Def-Art noun|parte&Fem +...
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*INV:	mais alto .
+%mor:	adv|mais adv|alto .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	+, <da parte> [//] eu gostei mais da parte da Argentina porque eu andei de patins no gelo .
+%mor:	pron|eu-Prs-Nom-S1 verb|gostar-Fin-Ind-1-Past adv|mais adp|de~det|o-Def-Art noun|parte&Fem adp|de~det|o-Def-Art noun|Argentina&Fem sconj|porque pron|eu-Prs-Nom-S1 verb|andar-Fin-Ind-1-Past adp|de noun|patim&Masc-Plur adp|em~det|o-Def-Art noun|gelo&Masc .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|12|MARK 11|12|NSUBJ 12|2|ADVCL 13|14|CASE 14|12|OBJ 15|17|CASE 16|17|DET 17|12|OBL 18|2|PUNCT
+*INV:	gostou [: gostaste] mais da parte da Argentina aí tu desenhou [: desenhaste] tu ali no [//] na Argentina .
+%mor:	verb|gostar-Fin-Ind-1-Pres adv|mais adp|de~det|o-Def-Art noun|parte&Fem adp|de~det|o-Def-Art noun|Argentina&Fem adv|aí pron|tu-Prs-Nom-S1 verb|desenhastar-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 adv|ali adp|em~det|o-Def-Art noun|Argentina&Fem .
+%gra:	1|16|ROOT 2|1|ADVMOD 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|11|ADVMOD 10|11|NSUBJ 11|1|PARATAXIS 12|11|OBJ 13|11|ADVMOD 14|16|CASE 15|16|DET 16|11|OBL 17|1|PUNCT
+*INV:	tu coloca [: colocas] o teu nome pra mim faz [: faze] o favor ?
+%com:	silêncio enquanto a criança escreve o seu nome .
+%mor:	intj|tu verb|colocar-Fin-Plur-Ind-1-Pres det|o-Def-Art det|teu-Def-Prs noun|nome&Masc adp|pra pron|eu-Prs-Acc-S1 verb|fazer-Fin-Sub-1-Pres det|o-Def-Art noun|favor&Masc ?
+%gra:	1|2|ADVMOD 2|10|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|7|CASE 7|8|OBL 8|2|PARATAXIS 9|10|DET 10|8|OBJ 11|2|PUNCT
+*INV:	que bonita tu (es)tá [: estás] com uma letra lindíssima !
+%mor:	adv|que adj|bonito-Pos-S-1 pron|tu-Prs-Acc-S1 aux|estar-Fin-Ind-1-Pres adp|com det|um-Ind-Art noun|letra&Fem adj|lindo-Pos-S-1 !
+%gra:	1|2|ADVMOD 2|8|ROOT 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|2|NSUBJ 8|7|AMOD 9|2|PUNCT
+*INV:	agora bom tu deixa [: deixas] aqui [= pega a folha] depois eu [//] ai@i deixa eu pegar aqui (.) pronto agora eu quero que tu conte [: contes] pra mim essa história aqui [= mostra a história em seqüência] olha ela primeiro assim não sei se tu já viu [: viste] não sei antes e conta o que (es)tá acontecendo .
+%mor:	adv|agora adj|bom-Pos-S-1 pron|tu-Prs-Nom-S1 verb|deixar-Fin-Plur-Ind-1-Pres adv|aqui adv|depois x|ai verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|pegar-Inf adv|aqui adj|pronto-Pos-S-1 adv|agora pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 verb|cartir-Fin-Plur-Ind-1-Pres adp|pra pron|eu-Prs-Acc-S1 det|esse-Def-Dem noun|história&Fem adv|aqui verb|olhar-Fin-Ind-1-Pres pron|ela-Prs-Acc-S3 adv|primeiro adv|assim adv|não verb|saber-Fin-Ind-1-Past sconj|se pron|tu-Prs-Nom-S1 adv|já verb|vistir-Fin-Ind-1-Pres adv|não verb|saber-Fin-Ind-1-Past adv|antes cconj|e verb|contar-Fin-Ind-3-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 aux|estar-Fin-Ind-3-Pres verb|acontecer-Ger .
+%gra:	1|2|ADVMOD 2|42|ROOT 3|4|NSUBJ 4|2|CSUBJ 5|4|ADVMOD 6|4|ADVMOD 7|8|FLAT 8|4|CONJ 9|10|NSUBJ 10|8|CCOMP 11|10|ADVMOD 12|10|XCOMP 13|15|ADVMOD 14|15|NSUBJ 15|4|CONJ 16|18|MARK 17|18|NSUBJ 18|15|CCOMP 19|20|CASE 20|18|OBL 21|22|DET 22|18|OBJ 23|24|ADVMOD 24|15|CCOMP 25|24|OBJ 26|24|ADVMOD 27|26|FIXED 28|29|ADVMOD 29|24|CONJ 30|33|MARK 31|33|NSUBJ 32|33|ADVMOD 33|29|CCOMP 34|35|ADVMOD 35|29|CCOMP 36|35|ADVMOD 37|38|CC 38|35|CONJ 39|38|OBJ 40|42|NSUBJ 41|42|AUX 42|39|ACL-RELCL 43|2|PUNCT
+*CHI:	xxx pra ler .
+%mor:	sconj|pra verb|ler-Inf .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*INV:	hmn@i .
+%mor:	x|hmn .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	era uma vez uma [//] <um menin> [//] <um gati> [//] uma gatinha e um gatinho que e [//] não [!] (es)pera aí era uma vez uma mãe de um gatinho que (es)tava conversando depois o foi gatinho [/] foi na rua e viu um cachorrinho (.) daí o cachorrinho se vestiu de guarda porque em cima da casa do gatinho tinha um ladrão e o gatinho subiu no telhado pra pegar o ladrão (.) daí o gatinho empurrou o ladrão de cima do telhado e o ladrão pulou em cima do cachorrinho (.) daí o moço disse +"/.
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|gatinha&Fem cconj|e det|um-Ind-Art noun|gatinho&Masc pron|que-Rel-Acc-S1 adv|não verb|esperar-Fin-Ind-3-Pres adv|aí aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|mãe&Fem adp|de det|um-Ind-Art noun|gatinho&Masc pron|que-Rel-Acc-S1 aux|estar-Fin-Ind-3-Imp verb|conversar-Ger adv|depois pron|o-Prs-Acc-S3 verb|ir-Fin-Ind-3-Past verb|ir-Fin-Ind-3-Past adp|em~det|o-Def-Art noun|rua&Fem cconj|e verb|ver-Fin-Ind-3-Past det|um-Ind-Art noun|cachorrinho&Masc adp|de~adv|aí det|o-Def-Art noun|cachorrinho&Masc pron|se-Prs-Acc-S3 verb|vestir-Fin-Ind-3-Past adp|de noun|guarda&Fem sconj|porque adp|em adp|cima adp|de~det|o-Def-Art noun|casa&Fem adp|de~det|o-Def-Art noun|gatinho&Masc verb|ter-Fin-Ind-3-Imp det|um-Ind-Art noun|ladrão&Masc cconj|e det|o-Def-Art noun|gatinho&Masc verb|subir-Fin-Ind-3-Past adp|em~det|o-Def-Art noun|telhado&Masc sconj|pra verb|pegar-Inf det|o-Def-Art noun|ladrão&Masc adp|de~adv|aí det|o-Def-Art noun|gatinho&Masc verb|empurrar-Fin-Ind-3-Past det|o-Def-Art noun|ladrão&Masc adp|de adp|cima adp|de~det|o-Def-Art noun|telhado&Masc cconj|e det|o-Def-Art noun|ladrão&Masc verb|pular-Fin-Ind-3-Past adp|em adp|cima adp|de~det|o-Def-Art noun|cachorrinho&Masc adp|de~adv|aí det|o-Def-Art noun|moço&Masc verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|5|COP 2|3|DET 3|5|NMOD 4|5|DET 5|91|ROOT 6|8|CC 7|8|DET 8|5|CONJ 9|11|NSUBJ 10|11|ADVMOD 11|8|ACL-RELCL 12|11|ADVMOD 13|17|COP 14|15|DET 15|17|NMOD 16|17|DET 17|5|CONJ 18|20|CASE 19|20|DET 20|17|NMOD 21|23|NSUBJ 22|23|AUX 23|20|ACL-RELCL 24|23|ADVMOD 25|26|OBJ 26|23|CONJ 27|17|ACL-RELCL 28|30|CASE 29|30|DET 30|27|OBL 31|32|CC 32|27|CONJ 33|34|DET 34|32|OBJ 35|36|CASE 36|34|ADVMOD 37|38|DET 38|40|NSUBJ 39|40|EXPL 40|32|CCOMP 41|42|CASE 42|40|OBL 43|52|MARK 44|45|CASE 45|52|OBL 46|48|CASE 47|48|DET 48|45|NMOD 49|51|CASE 50|51|DET 51|48|NMOD 52|40|ADVCL 53|54|DET 54|52|OBJ 55|58|CC 56|57|DET 57|58|NSUBJ 58|52|CONJ 59|61|CASE 60|61|DET 61|58|OBL 62|63|MARK 63|58|ADVCL 64|65|DET 65|63|OBJ 66|67|CASE 67|65|ADVMOD 68|69|DET 69|70|NSUBJ 70|58|ADVCL 71|72|DET 72|70|OBJ 73|74|CASE 74|70|OBL 75|77|CASE 76|77|DET 77|74|NMOD 78|81|CC 79|80|DET 80|81|NSUBJ 81|70|CONJ 82|83|CASE 83|81|OBL 84|86|CASE 85|86|DET 86|83|NMOD 87|88|CASE 88|86|ADVMOD 89|90|DET 90|91|NSUBJ 91|81|CONJ 92|5|PUNCT
+*CHI:	+" parabéns <vocês co> [//] vocês ãhn@i ganharam uma estrela por capturar um ladrão que eu (es)tava procurando .
+%mor:	noun|parabéns&Masc-Plur pron|você-Prs-Nom-P3 x|ãhn verb|ganhar-Fin-Plur-Ind-3-Past det|um-Ind-Art noun|estrela&Fem sconj|por verb|capturar-Inf det|um-Ind-Art noun|ladrão&Masc pron|que-Rel-Acc-S1 pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-3-Imp verb|procurar-Ger .
+%gra:	1|4|OBL 2|4|NSUBJ 3|2|FLAT 4|14|ROOT 5|6|DET 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|10|DET 10|8|OBJ 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|10|ACL-RELCL 15|4|PUNCT
+*INV:	<hmn@i jóia> [!] <isso mesmo> [!] (.) perfeito .
+%mor:	x|hmn adj|jóia-Pos-S-1 pron|isso-Dem-Acc-S1 adv|mesmo adj|perfeito-Pos-S-1 .
+%gra:	1|5|FLAT 2|1|AMOD 3|1|APPOS 4|5|ADVMOD 5|1|AMOD 6|1|PUNCT
+*INV:	só perguntando da historinha (.) agora eu quero que tu conte [: contes] pra mim uma historinha de livrinho , de [//] sei lá , que tu viu [: viste] na televisão , que alguém te contou , uma historinha [!] não é uma história [!] .
+%mor:	adv|só verb|perguntar-Ger adp|de~det|o-Def-Art noun|historinha&Fem adv|agora pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 verb|cartir-Fin-Plur-Ind-1-Pres adp|pra pron|eu-Prs-Acc-S1 det|um-Ind-Art noun|historinha&Fem adp|de noun|livrinho&Masc cm|cm verb|saber-Fin-Ind-1-Past adv|lá cm|cm sconj|que pron|tu-Prs-Nom-S1 verb|vistir-Fin-Ind-1-Pres adp|em~det|o-Def-Art noun|televisão&Fem cm|cm pron|que-Rel-Acc-S1 pron|alguém-Ind-Acc-S1 pron|tu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Past cm|cm det|um-Ind-Art noun|historinha&Fem adv|não aux|ser-Fin-Ind-3-Pres det|um-Ind-Art noun|história&Fem .
+%gra:	1|2|ADVMOD 2|39|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|8|ADVMOD 7|8|NSUBJ 8|2|CCOMP 9|11|MARK 10|11|NSUBJ 11|8|CCOMP 12|13|CASE 13|11|OBL 14|15|DET 15|11|OBJ 16|17|CASE 17|15|NMOD 18|19|PUNCT 19|8|CONJ 20|19|ADVMOD 21|19|PUNCT 22|24|MARK 23|24|NSUBJ 24|19|CCOMP 25|27|CASE 26|27|DET 27|24|OBL 28|32|PUNCT 29|32|OBJ 30|32|NSUBJ 31|32|OBJ 32|27|ACL-RELCL 33|32|PUNCT 34|35|DET 35|39|NSUBJ 36|39|ADVMOD 37|39|COP 38|39|DET 39|8|CONJ 40|2|PUNCT
+*CHI:	deixa eu ver .
+%com:	no turno acima a criança conversa consigo mesma .
+%mor:	verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|ver-Inf .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|CCOMP 4|1|PUNCT
+*CHI:	hmn@i .
+%mor:	x|hmn .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	hmn@i .
+%com:	silêncio .
+%mor:	x|hmn .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	sei lá tu não lê [: lês] ?
+%mor:	verb|saber-Fin-Ind-1-Past adv|lá intj|tu intj|não verb|ler-Fin-Ind-1-Pres ?
+%gra:	1|5|ROOT 2|1|ADVMOD 3|5|DISCOURSE 4|5|ADVMOD 5|1|CCOMP 6|1|PUNCT
+*CHI:	leio .
+%mor:	verb|ler-Fin-Ind-1-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	uma história que tu lesse [: leste] num [: em um] livro .
+%mor:	det|um-Ind-Art noun|história&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 noun|leste&Masc adp|em det|um-Ind-Art noun|livro&Masc .
+%gra:	1|2|DET 2|8|ROOT 3|5|NSUBJ 4|5|NSUBJ 5|2|NMOD 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*CHI:	ah eu vou contar assim é que eu tive uma apresentação no colégio do teatro de fim de ano daí eu copiei essa [//] esse teatro de um livro a minha professora pediu pra gente fazer um roteiro daí eu vou te contar era assim era um menino que tinha medo do escuro né@i daí ele (es)tava brincando com os brinquedo(s) ele e a irmã dele quando [/] quando chegou a mãe dele e falou pra ele +"/.
+%mor:	intj|ah pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|contar-Inf adv|assim aux|ser-Inf sconj|que pron|eu-Prs-Nom-S1 verb|ter-Fin-Ind-1-Past det|um-Ind-Art noun|apresentação&Fem adp|em~det|o-Def-Art noun|colégio&Masc adp|de~det|o-Def-Art noun|teatro&Masc adp|de noun|fim&Masc adp|de noun|ano&Masc adp|de~adv|aí pron|eu-Prs-Nom-S1 verb|copiar-Fin-Ind-1-Past det|esse-Def-Dem noun|teatro&Masc adp|de det|um-Ind-Art noun|livro&Masc adp|a det|meu-Def-Prs noun|professora&Fem verb|pedir-Fin-Ind-3-Past adp|pra noun|gente&Fem verb|fazer-Inf det|um-Ind-Art noun|roteiro&Masc adp|de~adv|aí pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 verb|contar-Inf verb|ser-Fin-Ind-3-Imp adv|assim aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|menino&Masc pron|que-Rel-Acc-S1 verb|ter-Fin-Ind-3-Imp noun|medo&Masc adp|de~det|o-Def-Art noun|escuro&Masc x|né adp|de~adv|aí pron|ele-Prs-Nom-S3 aux|estar-Fin-Ind-3-Imp verb|brincar-Ger adp|com det|o-Def-Art noun|brinquedo&Masc-Plur pron|ele-Prs-Nom-S3 cconj|e det|o-Def-Art noun|irmã&Fem adp|de~pron|ele-Prs-Acc-S3 sconj|quando verb|chegar-Fin-Ind-3-Past det|o-Def-Art noun|mãe&Fem adp|de~pron|ele-Prs-Acc-S3 cconj|e verb|falar-Fin-Ind-3-Past adp|pra pron|ele-Prs-Acc-S3 +"/.
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|81|ROOT 5|4|ADVMOD 6|9|DISCOURSE 7|6|FIXED 8|9|NSUBJ 9|4|CCOMP 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|17|CASE 16|17|DET 17|14|NMOD 18|19|CASE 19|17|NMOD 20|21|CASE 21|19|NMOD 22|23|CASE 23|25|ADVMOD 24|25|NSUBJ 25|9|CONJ 26|27|DET 27|25|OBJ 28|30|CASE 29|30|DET 30|25|OBL 31|33|CASE 32|33|DET 33|30|NMOD 34|25|CONJ 35|36|CASE 36|34|OBL 37|34|XCOMP 38|39|DET 39|37|OBJ 40|41|CASE 41|39|ADVMOD 42|45|NSUBJ 43|45|AUX 44|45|OBJ 45|37|ADVCL 46|34|CONJ 47|50|ADVMOD 48|50|COP 49|50|DET 50|46|XCOMP 51|52|NSUBJ 52|50|ACL-RELCL 53|52|OBJ 54|56|CASE 55|56|DET 56|57|AMOD 57|53|FLAT 58|59|CASE 59|57|ADVMOD 60|62|NSUBJ 61|62|AUX 62|52|CONJ 63|65|CASE 64|65|DET 65|62|OBL 66|62|NSUBJ 67|69|CC 68|69|DET 69|66|CONJ 70|71|CASE 71|69|NMOD 72|73|MARK 73|62|ADVCL 74|75|DET 75|73|NSUBJ 76|77|CASE 77|75|NMOD 78|79|CC 79|73|CONJ 80|81|CASE 81|79|OBJ 82|4|PUNCT
+*CHI:	+" meu filho (es)tá na hora de você guardar os seus brinquedos .
+%mor:	det|meu-Def-Prs noun|filho&Masc aux|estar-Fin-Ind-3-Pres adp|em~det|o-Def-Art noun|hora&Fem sconj|de pron|você-Prs-Nom-S3 verb|guardar-Inf det|o-Def-Art det|seu-Def-Prs noun|brinquedo&Masc-Plur .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|12|ROOT 7|9|MARK 8|9|NSUBJ 9|6|ACL 10|12|DET 11|12|DET 12|9|OBJ 13|6|PUNCT
+*CHI:	daí ele +"/.
+%mor:	adp|de~adv|aí pron|ele-Prs-Nom-S3 +"/.
+%gra:	1|2|CASE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	+" ah mãe mas só deixa eu terminar uma brincadeira .
+%mor:	intj|ah noun|mãe&Fem cconj|mas adv|só verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|terminar-Inf det|um-Ind-Art noun|brincadeira&Fem .
+%gra:	1|9|ROOT 2|1|OBL 3|5|CC 4|5|ADVMOD 5|1|CONJ 6|7|NSUBJ 7|5|CCOMP 8|9|DET 9|7|OBJ 10|1|PUNCT
+*CHI:	daí ela disse +"/.
+%mor:	adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	+" não [!] guarde os seus brinquedos e vá dormir .
+%mor:	adv|não verb|guardar-Fin-Sub-3-Pres det|o-Def-Art det|seu-Def-Prs noun|brinquedo&Masc-Plur cconj|e aux|ir-Fin-Sub-3-Pres verb|dormir-Inf .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|8|CC 7|8|AUX 8|2|CONJ 9|2|PUNCT
+*CHI:	ele guardou os brinquedo(s) na prateleira e foi dormir (.) depois quando a mãe , a irmã e o pai saíram (.) pra dormir <o menino> [//] daí os brinquedos que eram muitos começaram a assustar o menino daí ãhn@i o menino começou a correr e se jogou debaixo da cama , se escondeu dentro do armário , fez a maior confusão daí depois a gente da uma [//] um [//] a gente dava sinal né@i pra elas virem guardar quando a gente (es)tiver tudo na prateleira daí [/] daí os bonecos foram pra prateleira e a mãe e a irmã e o pai fizeram [//] começaram a dar conselho <que não era> [/] que não eram os monstros que eram só seu(s) brinquedos daí [/] daí foi dormir de novo e os monstros assustaram o menino de novo (.) daí o menino fez [//] ficou com medo e fez a mesma coisa a mãe foi aconselhou e tá tá tá@g e tá tá tá@g e todos (es)tavam na mesma posição no mesmo lugar na mesma prateleira daí +...
+%mor:	pron|ele-Prs-Nom-S3 verb|guardar-Fin-Ind-3-Past det|o-Def-Art noun|brinquedo&Masc-Plur adp|em~det|o-Def-Art noun|prateleira&Fem cconj|e aux|ser-Fin-Ind-3-Past verb|dormir-Inf adv|depois adv|quando det|o-Def-Art noun|mãe&Fem cm|cm det|o-Def-Art noun|irmã&Fem cconj|e det|o-Def-Art noun|pai&Masc verb|sair-Fin-Plur-Ind-3-Past sconj|pra verb|dormir-Inf adp|de~adv|aí det|o-Def-Art noun|brinquedo&Masc-Plur pron|que-Rel-Acc-P1 aux|ser-Fin-Plur-Ind-3-Imp pron|muito-Ind-Acc-P1 verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|assustar-Inf det|o-Def-Art noun|menino&Masc adp|de~adv|aí x|ãhn det|o-Def-Art noun|menino&Masc verb|começar-Fin-Ind-3-Past sconj|a verb|correr-Inf cconj|e pron|se-Prs-Acc-S3 verb|jogar-Fin-Ind-3-Past adv|debaixo adp|de~det|o-Def-Art noun|cama&Fem cm|cm pron|se-Prs-Acc-S3 verb|esconder-Fin-Ind-3-Past adv|dentro adp|de~det|o-Def-Art noun|armário&Masc cm|cm verb|fazer-Fin-Ind-3-Past det|o-Def-Art adj|maior-Pos-S-1 noun|confusão&Fem adp|de~adv|aí adv|depois det|o-Def-Art pron|gente-Ind-Acc-S1 adp|de~adp|a det|o-Def-Art pron|gente-Ind-Acc-S1 verb|dar-Fin-Ind-3-Imp noun|sinal&Masc x|né adp|pra pron|ele-Prs-Acc-P3 verb|vir-Inf-Plur-3 verb|guardar-Inf adv|quando det|o-Def-Art noun|gente&Fem aux|estar-Fin-Sub-3-Fut pron|tudo-Ind-Acc-S1 adp|em~det|o-Def-Art noun|prateleira&Fem adp|de~adv|aí det|o-Def-Art noun|boneco&Masc-Plur verb|ir-Fin-Plur-Ind-3-Past adp|pra noun|prateleira&Fem cconj|e det|o-Def-Art noun|mãe&Fem cconj|e det|o-Def-Art noun|irmã&Fem cconj|e det|o-Def-Art noun|pai&Masc verb|começar-Fin-Plur-Ind-3-Past sconj|a verb|dar-Inf noun|conselho&Masc sconj|que adv|não aux|ser-Fin-Plur-Ind-3-Imp det|o-Def-Art noun|monstro&Masc-Plur pron|que-Rel-Acc-P1 aux|ser-Fin-Plur-Ind-3-Imp adv|só det|seu-Def-Prs noun|brinquedo&Masc-Plur adp|de~adv|aí aux|ser-Fin-Ind-3-Past verb|dormir-Inf adp|de noun|novo&Masc cconj|e det|o-Def-Art noun|monstro&Masc-Plur verb|assustar-Fin-Plur-Ind-3-Past det|o-Def-Art noun|menino&Masc adp|de noun|novo&Masc adp|de~adv|aí det|o-Def-Art noun|menino&Masc verb|ficar-Fin-Ind-3-Past adp|com noun|medo&Masc cconj|e verb|fazer-Fin-Ind-3-Past det|o-Def-Art adj|mesmo-Pos-S-1 noun|coisa&Fem det|o-Def-Art noun|mãe&Fem aux|ser-Fin-Ind-3-Past verb|aconselhar-Fin-Ind-3-Past cconj|e aux|estar-Fin-Ind-3-Pres aux|estar-Fin-Ind-3-Pres x|tá cconj|e aux|estar-Fin-Ind-3-Pres aux|estar-Fin-Ind-3-Pres x|tá cconj|e pron|todo-Tot-Acc-P1 aux|estar-Fin-Plur-Ind-3-Imp adp|em~det|o-Def-Art adj|mesmo-Pos-S-1 noun|posição&Fem adp|em~det|o-Def-Art adj|mesmo-Pos-S-1 noun|lugar&Masc adp|em~det|o-Def-Art adj|mesmo-Pos-S-1 noun|prateleira&Fem adj|daís-Pos-S-1 +...
+%gra:	1|2|NSUBJ 2|170|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|10|CC 9|10|COP 10|2|CONJ 11|10|ADVMOD 12|21|ADVMOD 13|14|DET 14|21|NSUBJ 15|17|PUNCT 16|17|DET 17|14|CONJ 18|20|CC 19|20|DET 20|14|CONJ 21|10|CCOMP 22|23|MARK 23|21|ADVCL 24|25|CASE 25|23|ADVMOD 26|27|DET 27|23|OBJ 28|31|OBJ 29|30|COP 30|31|NSUBJ 31|27|ACL-RELCL 32|33|MARK 33|31|XCOMP 34|35|DET 35|33|OBJ 36|37|CASE 37|35|ADVMOD 38|41|FLAT 39|40|DET 40|41|NSUBJ 41|31|CONJ 42|43|MARK 43|41|XCOMP 44|46|CC 45|46|EXPL 46|43|CONJ 47|46|ADVMOD 48|50|CASE 49|50|DET 50|47|OBL 51|53|PUNCT 52|53|EXPL 53|43|CONJ 54|53|ADVMOD 55|57|CASE 56|57|DET 57|54|OBL 58|59|PUNCT 59|2|CONJ 60|62|DET 61|62|AMOD 62|59|OBJ 63|64|CASE 64|62|ADVMOD 65|72|ADVMOD 66|67|DET 67|72|NSUBJ 68|71|CASE 69|71|CASE 70|71|DET 71|67|NMOD 72|59|CONJ 73|72|OBJ 74|73|FLAT 75|76|CASE 76|77|OBL 77|73|ACL 78|77|XCOMP 79|83|MARK 80|81|DET 81|83|NSUBJ 82|83|COP 83|77|ADVCL 84|86|CASE 85|86|DET 86|83|NMOD 87|88|CASE 88|86|ADVMOD 89|90|DET 90|91|NSUBJ 91|72|CONJ 92|93|CASE 93|91|OBL 94|103|CC 95|96|DET 96|103|NSUBJ 97|99|CC 98|99|DET 99|96|CONJ 100|102|CC 101|102|DET 102|96|CONJ 103|72|CONJ 104|105|MARK 105|103|XCOMP 106|105|OBJ 107|111|MARK 108|111|ADVMOD 109|111|COP 110|111|DET 111|105|ADVCL 112|120|NSUBJ 113|120|COP 114|116|ADVMOD 115|116|DET 116|120|NSUBJ 117|118|CASE 118|116|ADVMOD 119|120|COP 120|111|ACL-RELCL 121|120|ADVMOD 122|121|FIXED 123|126|CC 124|125|DET 125|126|NSUBJ 126|120|CONJ 127|128|DET 128|126|OBJ 129|135|ADVMOD 130|129|FIXED 131|132|CASE 132|135|ADVMOD 133|134|DET 134|135|NSUBJ 135|126|CONJ 136|137|CASE 137|135|XCOMP 138|139|CC 139|135|CONJ 140|142|DET 141|142|AMOD 142|139|OBJ 143|144|DET 144|146|NSUBJ 145|146|COP 146|139|CCOMP 147|150|CC 148|150|COP 149|150|COP 150|146|FLAT 151|154|CC 152|154|COP 153|154|COP 154|146|FLAT 155|157|CC 156|157|NSUBJ 157|146|CONJ 158|161|CASE 159|161|DET 160|161|AMOD 161|157|OBL 162|165|CASE 163|165|DET 164|165|AMOD 165|157|OBL 166|169|CASE 167|169|DET 168|169|AMOD 169|165|NMOD 170|169|AMOD 171|2|PUNCT
+*INV:	o menino via isso mas a mãe não entendia né@i ?
+%mor:	det|o-Def-Art noun|menino&Masc verb|ver-Fin-Ind-3-Imp pron|isso-Dem-Acc-S1 cconj|mas det|o-Def-Art noun|mãe&Fem adv|não verb|entender-Fin-Ind-3-Imp x|né ?
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|9|CC 6|7|DET 7|9|NSUBJ 8|9|ADVMOD 9|3|CONJ 10|9|FLAT 11|3|PUNCT
+*CHI:	é daí a mãe falou assim +"/.
+%mor:	sconj|é adp|de~adv|aí det|o-Def-Art noun|mãe&Fem verb|falar-Fin-Ind-3-Past adv|assim +"/.
+%gra:	1|6|MARK 2|3|CASE 3|6|ADVMOD 4|5|DET 5|6|NSUBJ 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+*CHI:	+" meu filho é só sua imaginação (vo)cê estava imaginando que os brinquedos iam te pegar .
+%mor:	det|meu-Def-Prs noun|filho&Masc aux|ser-Fin-Ind-3-Pres adv|só det|seu-Def-Prs noun|imaginação&Fem pron|você-Prs-Nom-S3 aux|estar-Fin-Ind-3-Imp verb|imaginar-Ger sconj|que det|o-Def-Art noun|brinquedo&Masc-Plur aux|ir-Fin-Plur-Ind-3-Imp pron|tu-Prs-Acc-S1 verb|pegar-Inf .
+%gra:	1|2|DET 2|9|NSUBJ 3|9|COP 4|6|ADVMOD 5|6|DET 6|9|CCOMP 7|9|NSUBJ 8|9|AUX 9|15|ROOT 10|15|MARK 11|12|DET 12|15|NSUBJ 13|15|AUX 14|15|OBJ 15|9|CCOMP 16|9|PUNCT
+*CHI:	daí ele disse +"/.
+%mor:	adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	+" (es)tá bem mas se vocês me pegarem outra vez eu mato vocês e nunca mais brinco com vocês e jogo vocês no lixo .
+%mor:	aux|estar-Fin-Ind-3-Pres adv|bem cconj|mas sconj|se pron|você-Prs-Nom-P1 pron|eu-Prs-Acc-S1 verb|pegar-Fin-Plur-Sub-3-Fut det|outro-Ind-Art noun|vez&Fem pron|eu-Prs-Nom-S1 verb|mato-Fin-Ind-1-Pres pron|você-Prs-Nom-P1 cconj|e adv|nunca adv|mais verb|bringir-Fin-Ind-1-Pres adp|com pron|você-Prs-Acc-P3 cconj|e verb|jogo-Fin-Ind-1-Pres pron|você-Prs-Nom-P3 adp|em~det|o-Def-Art noun|lixo&Masc .
+%gra:	1|2|COP 2|24|ROOT 3|11|CC 4|7|MARK 5|7|NSUBJ 6|7|OBJ 7|11|ADVCL 8|9|DET 9|7|OBL 10|11|NSUBJ 11|2|CONJ 12|11|NSUBJ 13|16|CC 14|16|ADVMOD 15|16|ADVMOD 16|2|CONJ 17|18|CASE 18|16|OBJ 19|20|CC 20|16|CONJ 21|20|OBJ 22|24|CASE 23|24|DET 24|20|OBL 25|2|PUNCT
+*CHI:	é um guri bem engraçado da nossa sala ali .
+%mor:	aux|ser-Fin-Ind-3-Pres det|um-Ind-Art noun|guri&Masc adv|bem adj|engraçado-Pos-S-1 adp|de~det|o-Def-Art det|nosso-Def-Prs noun|sala&Fem adv|ali .
+%gra:	1|3|COP 2|3|DET 3|10|ROOT 4|5|ADVMOD 5|3|AMOD 6|9|CASE 7|9|DET 8|9|DET 9|3|NMOD 10|3|ADVMOD 11|3|PUNCT
+*INV:	&=riso foi bar [>] +/.
+%mor:	aux|ser-Fin-Ind-3-Past noun|bar&Masc +/.
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	aí [<] né@i olha só [= gesticula pedindo atenção] o que ele fez comigo &=riso <ele er> [>] +/.
+%mor:	adv|aí x|né verb|olhar-Fin-Ind-3-Pres adv|só pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|ele-Prs-Nom-S3 verb|fazer-Fin-Ind-3-Past adv|comigo pron|ele-Prs-Nom-S3 verb|er-Fin-3 +/.
+%gra:	1|3|ADVMOD 2|3|FLAT 3|11|ROOT 4|3|ADVMOD 5|3|OBJ 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|ADVMOD 10|11|NSUBJ 11|8|CCOMP 12|3|PUNCT
+*INV:	<tu era [: eras]> [<] o que tu era [: eras] +...
+%mor:	pron|tu-Prs-Nom-S1 aux|ser-Fin-Plur-Ind-3-Imp pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|tu-Prs-Acc-S2 verb|ser-Fin-Plur-Ind-3-Pres +...
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|OBJ 6|3|ACL-RELCL 7|3|PUNCT
+*CHI:	++ era bruxa .
+%mor:	aux|ser-Fin-Ind-3-Imp noun|bruxa&Fem .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*INV:	era uma bruxa .
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|bruxa&Fem .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	daí eu era [//] eu sou gordinha daí ele fez assim depois na próxima vez ele foi contar pra mãe , pra irmã e pro [: para o] pai que ele não tinha mais medo dos brinquedo(s) daí ele [/] ele ficou examinando os brinquedo(s) daí ele fez guampinha <porque eles não brincavam> [//] porque eles não assustaram mais e começou a falar com os brinquedo(s) que eles +...
+%com:	fim do lado A da fita cassete .
+%mor:	adp|de~adv|aí pron|eu-Prs-Nom-S1 pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Pres adj|gordinho-Pos-S-1 adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|fazer-Fin-Ind-3-Past adv|assim adv|depois adp|em~det|o-Def-Art adj|próximo-Pos-S-1 noun|vez&Fem pron|ele-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past verb|contar-Inf adp|pra noun|mãe&Fem cm|cm adp|pra noun|irmã&Fem cconj|e adp|para det|o-Def-Art noun|pai&Masc sconj|que pron|ele-Prs-Nom-S3 adv|não verb|ter-Fin-Ind-3-Imp det|mais-Def-Ind noun|medo&Masc adp|de~det|o-Def-Art noun|brinquedo&Masc-Plur adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|ficar-Fin-Ind-3-Past verb|examinar-Ger det|o-Def-Art noun|brinquedo&Masc-Plur adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|fazer-Fin-Ind-3-Past noun|guampinha&Fem sconj|porque pron|eles-Prs-Nom-P3 adv|não verb|assustar-Fin-Plur-Ind-3-Past adv|mais cconj|e verb|começar-Fin-Ind-3-Past sconj|a verb|falar-Inf adp|com det|o-Def-Art noun|brinquedo&Masc-Plur sconj|que pron|eles-Prs-Nom-P3 +...
+%gra:	1|2|CASE 2|6|ADVMOD 3|6|NSUBJ 4|6|NSUBJ 5|6|COP 6|63|ROOT 7|8|CASE 8|6|ADVMOD 9|10|NSUBJ 10|6|CONJ 11|10|ADVMOD 12|10|ADVMOD 13|16|CASE 14|16|DET 15|16|AMOD 16|19|OBL 17|19|NSUBJ 18|19|COP 19|10|CCOMP 20|21|CASE 21|19|OBL 22|24|PUNCT 23|24|CASE 24|21|CONJ 25|28|CC 26|28|CASE 27|28|DET 28|21|CONJ 29|32|MARK 30|32|NSUBJ 31|32|ADVMOD 32|28|ACL-RELCL 33|34|DET 34|32|OBJ 35|37|CASE 36|37|DET 37|34|NMOD 38|39|CASE 39|37|ADVMOD 40|41|NSUBJ 41|32|CONJ 42|41|ADVCL 43|44|DET 44|42|OBJ 45|46|CASE 46|44|ADVMOD 47|48|NSUBJ 48|42|CONJ 49|48|OBJ 50|53|MARK 51|53|NSUBJ 52|53|ADVMOD 53|48|ADVCL 54|53|ADVMOD 55|56|CC 56|53|CONJ 57|58|MARK 58|56|XCOMP 59|61|CASE 60|61|DET 61|58|OBL 62|63|MARK 63|61|NMOD 64|6|PUNCT
+*CHI:	não assustavam mais ele e ficou assim botou a orelha na minha barriga e disse assim +"/.
+%mor:	adv|não verb|assustar-Fin-Plur-Ind-3-Imp adv|mais pron|ele-Prs-Acc-S3 cconj|e verb|ficar-Fin-Ind-3-Past adv|assim verb|botar-Fin-Ind-3-Past det|o-Def-Art noun|orelha&Fem adp|em~det|o-Def-Art det|meu-Def-Prs noun|barriga&Fem cconj|e verb|dizer-Fin-Ind-3-Past adv|assim +"/.
+%gra:	1|2|ADVMOD 2|17|ROOT 3|4|ADVMOD 4|2|OBJ 5|6|CC 6|2|CONJ 7|8|ADVMOD 8|2|CONJ 9|10|DET 10|8|OBJ 11|14|CASE 12|14|DET 13|14|DET 14|8|OBL 15|16|CC 16|2|CONJ 17|16|ADVMOD 18|2|PUNCT
+*CHI:	+" né@i tu (es)tá [: estás] grávida ?
+%mor:	x|né pron|tu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres adj|grávido-Pos-S-1 ?
+%gra:	1|4|FLAT 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	&=riso .
+*INV:	&=riso .
+*CHI:	é a fita [= aponta para o gravador e a entrevistadora troca o lado da fita] ?
+%com:	a gravação continua .
+%mor:	aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|fita&Fem ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	deu ?
+%mor:	verb|dar-Fin-Ind-3-Past ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	deu é que tinha acabado a fita ali .
+%mor:	verb|dar-Fin-Ind-3-Past aux|ser-Inf sconj|que aux|ter-Fin-Ind-3-Imp verb|acabar-Part det|o-Def-Art noun|fita&Fem adv|ali .
+%gra:	1|8|ROOT 2|5|DISCOURSE 3|2|FIXED 4|5|AUX 5|1|CCOMP 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|1|PUNCT
+*CHI:	+, tá@i daí ele <começou a guardar os [//] ele botou e disse> [>] +"/.
+%mor:	x|tá adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|começar-Fin-Ind-3-Past sconj|a verb|guardar-Inf pron|ele-Prs-Nom-S3 verb|botar-Fin-Ind-3-Past cconj|e verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|5|FLAT 2|3|CASE 3|1|ADVMOD 4|5|NSUBJ 5|11|ROOT 6|7|MARK 7|5|XCOMP 8|9|NSUBJ 9|7|CCOMP 10|11|CC 11|7|CONJ 12|5|PUNCT
+*CHI:	+" <você (es)tá grávida> [>] ?
+%mor:	pron|você-Prs-Nom-S3 aux|estar-Fin-Ind-3-Pres adj|grávido-Pos-S-1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	<ele botou a cabeça no [//] na tua barriga e disse> [<] +"/.
+%mor:	pron|ele-Prs-Nom-S3 verb|botar-Fin-Ind-3-Past det|o-Def-Art noun|cabeça&Fem adp|em~det|o-Def-Art det|teu-Def-Prs noun|barriga&Fem cconj|e verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|8|CASE 6|8|DET 7|8|DET 8|2|OBL 9|10|CC 10|2|CONJ 11|2|PUNCT
+*INV:	+" <ela (es)tá grávida> [<] !
+%mor:	pron|ela-Prs-Nom-S3 aux|estar-Fin-Ind-3-Pres adj|grávido-Pos-S-1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	daí ele [/] ele deu corda em todos os brinquedos e os brinquedos foram <lá pra> [/] lá pra fora né@i que tinha umas portinha(s) daí a gente foi lá deu as mãos e agradeceu .
+%mor:	adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|dar-Fin-Ind-3-Past noun|corda&Fem adp|em det|todo-Def-Tot det|o-Def-Art noun|brinquedo&Masc-Plur cconj|e det|o-Def-Art noun|brinquedo&Masc-Plur verb|ir-Fin-Plur-Ind-3-Past adv|lá adp|pra adv|fora x|né sconj|que verb|ter-Fin-Ind-3-Imp det|um-Def-Art noun|portinha&Fem-Plur adp|de~adv|aí det|o-Def-Art noun|gente&Fem verb|ir-Fin-Ind-3-Past adv|lá verb|dar-Fin-Ind-3-Past det|o-Def-Art noun|mão&Fem-Plur cconj|e verb|agradecer-Fin-Ind-3-Past .
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|32|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|DET 9|4|OBL 10|13|CC 11|12|DET 12|13|NSUBJ 13|4|CONJ 14|13|ADVMOD 15|16|CASE 16|14|ADVMOD 17|13|FLAT 18|19|MARK 19|13|CCOMP 20|21|DET 21|19|OBJ 22|23|CASE 23|21|ADVMOD 24|25|DET 25|26|NSUBJ 26|19|CONJ 27|26|ADVMOD 28|26|CONJ 29|30|DET 30|28|OBJ 31|32|CC 32|28|CONJ 33|4|PUNCT
+*INV:	ai@i que jóia legal !
+%mor:	x|ai det|que-Def-Int noun|jóia&Fem adj|legal-Pos-S-1 !
+%gra:	1|4|FLAT 2|3|DET 3|1|NMOD 4|3|AMOD 5|1|PUNCT
+@End

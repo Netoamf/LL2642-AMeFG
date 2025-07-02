@@ -1,0 +1,406 @@
+@UTF8
+@PID:	11312/c-00030333-1
+@Begin
+@Languages:	por
+@Participants:	CHI Alexandra Target_Child , INV Conceição Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|5;10.25|female|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	11-JUL-1993
+@Types:	long, narrative, TD
+*INV:	Alexandra tu não lembra [: lembras] como é que é o trabalho tu esqueceu [: esqueceste] ? 
+%mor:	noun|Alexandra&Fem pron|tu-Prs-Nom-S1 adv|não verb|lembrar-Fin-Plur-Ind-1-Pres adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|trabalho&Masc intj|tu verb|esquecer-Fin-Ind-1-Pres ?
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|ADVMOD 4|12|ROOT 5|10|ADVMOD 6|10|DISCOURSE 7|6|FIXED 8|10|COP 9|10|DET 10|4|CCOMP 11|12|OBJ 12|10|ACL-RELCL 13|4|PUNCT
+*INV:	tu fez [: fizeste] outra vez quando veio outra pessoa aqui ?
+%mor:	pron|tu-Prs-Nom-S1 verb|fazer-Fin-Ind-1-Past det|outro-Ind-Art noun|vez&Fem sconj|quando verb|vir-Fin-Ind-3-Past det|outro-Def-Ind noun|pessoa&Fem adv|aqui ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBL 5|6|ADVMOD 6|2|ADVCL 7|8|DET 8|6|NSUBJ 9|6|ADVMOD 10|2|PUNCT
+*CHI:	veio uma grávida . 
+%mor:	verb|vir-Fin-Ind-3-Past det|um-Ind-Art noun|grávida&Fem .
+%gra:	1|3|ROOT 2|3|DET 3|1|NSUBJ 4|1|PUNCT
+*INV:	uma grávida era eu &=riso .
+%mor:	det|um-Ind-Art noun|grávida&Fem aux|ser-Fin-Ind-3-Imp pron|eu-Prs-Nom-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	era ?
+%mor:	verb|ser-Fin-Ind-3-Imp ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	agora eu já tenho nenê .
+%mor:	adv|agora pron|eu-Prs-Nom-S1 adv|já verb|ter-Fin-Ind-1-Pres noun|nenê&Fem .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	é ?
+%mor:	aux|ser-Fin-Ind-3-Pres ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	é já tem dois meses o meu nenê .
+%mor:	sconj|é adv|já verb|ter-Fin-Ind-3-Pres num|dois noun|mês&Masc-Plur det|o-Def-Art det|meu-Def-Prs noun|nenê&Masc .
+%gra:	1|3|MARK 2|3|ADVMOD 3|8|ROOT 4|5|NUMMOD 5|3|OBL 6|8|DET 7|8|DET 8|3|OBJ 9|3|PUNCT
+*CHI:	dois ?
+%mor:	num|dois ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	dois &=riso a última vez que tu fez [: fizeste] foi comigo então quando eu (es)tava grávida ?
+%mor:	num|dois det|o-Def-Art adj|último-Pos-S-1 noun|vez&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 verb|fazer-Fin-Ind-1-Past verb|ir-Fin-Ind-3-Past adv|comigo adv|então adv|quando pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Imp adj|grávido-Pos-S-1 ?
+%gra:	1|4|NUMMOD 2|4|DET 3|4|AMOD 4|8|OBL 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|14|ROOT 9|8|ADVMOD 10|8|ADVMOD 11|14|ADVMOD 12|14|NSUBJ 13|14|COP 14|8|ADVCL 15|8|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tá@i tu não lembra [: lembras] então era assim ó vou te contar e vou te explicar outra vez daí a gente começa tá@i ?
+%mor:	x|tá pron|tu-Prs-Nom-S1 adv|não verb|lembrar-Fin-Plur-Ind-1-Pres adv|então verb|ser-Fin-Ind-1-Imp adv|assim adv|ó aux|ir-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 verb|contar-Inf cconj|e aux|ir-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 verb|explicar-Inf det|outro-Ind-Art noun|vez&Fem adp|de~adv|aí det|o-Def-Art noun|gente&Fem verb|começar-Fin-Ind-3-Pres x|tá ?
+%gra:	1|4|FLAT 2|4|NSUBJ 3|4|ADVMOD 4|23|ROOT 5|4|ADVMOD 6|4|CONJ 7|11|ADVMOD 8|11|ADVMOD 9|11|AUX 10|11|OBJ 11|6|CCOMP 12|15|CC 13|15|AUX 14|15|OBJ 15|4|CONJ 16|17|DET 17|15|OBL 18|19|CASE 19|17|ADVMOD 20|21|DET 21|22|NSUBJ 22|15|CCOMP 23|22|FLAT 24|4|PUNCT
+*INV:	era assim primeiro eu queria que tu contasse [: contasses] uma historinha de alguma coisa que aconteceu contigo não pode ser uma historinha que já existe essas Branca_de_Neve essas assim não servem tem que ser uma coisa que aconteceu contigo .
+%com:	silêncio .
+%mor:	verb|ser-Fin-Ind-3-Imp adv|assim adv|primeiro pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Imp sconj|que pron|tu-Prs-Nom-S1 verb|contar-Fin-Plur-Sub-1-Pres det|um-Ind-Art noun|historinha&Fem adp|de det|algum-Def-Ind noun|coisa&Fem pron|que-Rel-Acc-S1 verb|acontecer-Fin-Ind-3-Past adv|contigo adv|não verb|poder-Fin-Ind-3-Pres aux|ser-Inf det|um-Ind-Art noun|historinha&Fem pron|que-Rel-Acc-S1 adv|já verb|existir-Fin-Ind-3-Pres pron|esse-Dem-Acc-P1 noun|Brancade&Fem~noun|Neve&Fem pron|esse-Dem-Acc-P1 adv|assim adv|não verb|servir-Fin-Plur-Ind-3-Pres aux|ter-Fin-Ind-3-Pres sconj|que aux|ser-Inf det|um-Ind-Art noun|coisa&Fem pron|que-Rel-Acc-S1 verb|acontecer-Fin-Ind-3-Past adv|contigo .
+%gra:	1|39|ROOT 2|1|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|1|CCOMP 6|8|MARK 7|8|NSUBJ 8|5|CCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|15|NSUBJ 15|13|ACL-RELCL 16|15|ADVMOD 17|18|ADVMOD 18|1|CONJ 19|21|COP 20|21|DET 21|18|XCOMP 22|24|NSUBJ 23|24|ADVMOD 24|21|ACL-RELCL 25|24|NSUBJ 26|25|APPOS 27|26|APPOS 28|31|NSUBJ 29|31|ADVMOD 30|36|ADVMOD 31|18|ADVCL 32|36|AUX 33|36|MARK 34|36|COP 35|36|DET 36|31|XCOMP 37|38|NSUBJ 38|36|ACL-RELCL 39|38|ADVMOD 40|1|PUNCT
+*CHI:	quando (es)tava na sala B um dia aí eu ganhei papel de carta e fui pro [: para o] cinema ver Aladdin .
+%mor:	sconj|quando aux|estar-Fin-Ind-3-Imp adp|em~det|o-Def-Art noun|sala&Fem noun|b&Fem num|um noun|dia&Masc adv|aí pron|eu-Prs-Nom-S1 verb|ganhar-Fin-Ind-1-Past noun|papel&Masc adp|de noun|carta&Fem cconj|e aux|ser-Fin-Ind-1-Past adp|para det|o-Def-Art noun|cinema&Masc verb|ver-Inf noun|Aladdin&Masc .
+%gra:	1|5|MARK 2|5|COP 3|5|CASE 4|5|DET 5|11|ADVCL 6|5|NMOD 7|8|NUMMOD 8|5|NMOD 9|11|ADVMOD 10|11|NSUBJ 11|21|ROOT 12|11|OBJ 13|14|CASE 14|12|NMOD 15|16|CC 16|11|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|16|ADVCL 21|20|OBJ 22|11|PUNCT
+*INV:	ah é e tu gostou [: gostaste] do Aladdin ?
+%mor:	intj|ah verb|ser-Fin-Ind-3-Pres cconj|e pron|tu-Prs-Nom-S1 verb|gostar-Fin-Ind-1-Pres adp|de~det|o-Def-Art noun|Aladdin&Masc ?
+%gra:	1|8|ROOT 2|1|FIXED 3|5|CC 4|5|NSUBJ 5|1|CONJ 6|8|CASE 7|8|DET 8|5|OBJ 9|1|PUNCT
+*CHI:	ãh^hã@i .
+%mor:	x|ãhhã .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	e o que que vocês fizeram de [//] depois ?
+%mor:	cconj|e pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|que-Rel-Acc-S1 pron|você-Prs-Nom-P1 verb|fazer-Fin-Plur-Ind-3-Past adv|depois ?
+%gra:	1|3|CC 2|3|OBJ 3|7|ROOT 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|ADVMOD 8|3|PUNCT
+*CHI:	depois a gente foi pra casa e não lembro e tinha a Isabela junto .
+%mor:	adv|depois det|o-Def-Art pron|gente-Ind-Acc-S1 verb|ir-Fin-Ind-3-Past adp|pra noun|casa&Fem cconj|e adv|não verb|lembrar-Fin-Ind-1-Past cconj|e verb|ter-Fin-Ind-3-Imp det|o-Def-Art noun|Isabela&Fem adv|junto .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|14|ROOT 5|6|CASE 6|4|OBL 7|9|CC 8|9|ADVMOD 9|4|CONJ 10|11|CC 11|9|CONJ 12|13|DET 13|11|OBJ 14|11|ADVMOD 15|4|PUNCT
+*INV:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	uma amiga dela a Gabriela .
+%mor:	det|um-Ind-Art noun|amiga&Fem adp|de~pron|ela-Prs-Acc-S3 adp|a noun|Gabriela&Fem .
+%gra:	1|2|DET 2|6|ROOT 3|4|CASE 4|2|NMOD 5|6|CASE 6|2|NMOD 7|2|PUNCT
+*INV:	que mais vocês fizeram ?
+%mor:	pron|que-Rel-Acc-S1 adv|mais pron|você-Prs-Nom-P3 verb|fazer-Fin-Plur-Ind-3-Past ?
+%gra:	1|4|OBJ 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	mais nada daí eu fui pra casa dormir .
+%mor:	adv|mais pron|nada-Ind-Acc-S1 adp|de~adv|aí pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past adp|pra noun|casa&Fem verb|dormir-Inf .
+%gra:	1|2|ADVMOD 2|6|NSUBJ 3|4|CASE 4|2|ADVMOD 5|6|NSUBJ 6|9|ROOT 7|8|CASE 8|6|OBL 9|6|XCOMP 10|6|PUNCT
+*INV:	ah daí tu foi [: foste] dormir ?
+%mor:	intj|ah adp|de~adv|aí pron|tu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Pres verb|dormir-Inf ?
+%gra:	1|6|DISCOURSE 2|3|CASE 3|1|ADVMOD 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+*CHI:	é hm:@i só .
+%mor:	aux|ser-Fin-Ind-3-Pres x|hm adv|só .
+%gra:	1|2|COP 2|3|FLAT 3|2|ADVMOD 4|2|PUNCT
+*INV:	só (.) tá@i então vou te pedir pra tu fazer [: fazeres] sabe o que escrever a tua historinha pra mim aqui [: aponta para o papel] .
+%mor:	adv|só x|tá adv|então aux|ir-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 verb|pedir-Inf adp|pra pron|tu-Prs-Acc-S2 noun|fazer&Masc-Plur verb|saber-Fin-Ind-3-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 verb|escrever-Inf-3 det|o-Def-Art det|teu-Def-Prs noun|historinha&Fem adp|pra pron|eu-Prs-Acc-S1 verb|apontar-Fin-Ind-3-Pres adp|para det|o-Def-Art noun|papel&Masc .
+%gra:	1|2|ADVMOD 2|6|FLAT 3|6|ADVMOD 4|6|AUX 5|6|OBJ 6|22|ROOT 7|8|CASE 8|6|IOBJ 9|10|OBJ 10|6|CCOMP 11|12|DET 12|13|NSUBJ 13|10|CCOMP 14|16|DET 15|16|DET 16|13|OBJ 17|18|CASE 18|19|OBL 19|6|PARATAXIS 20|22|CASE 21|22|DET 22|19|OBJ 23|6|PUNCT
+*CHI:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	senta aqui .
+%mor:	verb|sentar-Fin-Ind-3-Pres adv|aqui .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	pode [: podes] sentar aí deixa eu pegar meus papéis aí tu senta [: sentas] aí ó .
+%com:	a criança escreve o relato pessoal .
+%mor:	verb|poder-Fin-Ind-1-Pres verb|sentar-Inf adv|aí verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|pegar-Inf det|meu-Def-Prs noun|papel&Masc-Plur adv|aí pron|tu-Prs-Nom-S2 verb|sentir-Fin-Plur-Ind-1-Pres adv|aí intj|ó .
+%gra:	1|13|ROOT 2|1|XCOMP 3|2|ADVMOD 4|2|CONJ 5|6|NSUBJ 6|4|CCOMP 7|8|DET 8|6|OBJ 9|11|ADVMOD 10|11|NSUBJ 11|2|PARATAXIS 12|11|ADVMOD 13|2|PUNCT 14|1|PUNCT
+*CHI:	não tem nada pra colorir ?
+%mor:	adv|não verb|ter-Fin-Ind-3-Pres pron|nada-Ind-Acc-S1 sconj|pra verb|colorir-Inf ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|MARK 5|3|ACL 6|2|PUNCT
+*INV:	hum^hum@i hoje não trouxe nada pra colorir .
+%mor:	x|humhum adv|hoje adv|não verb|trazer-Fin-Ind-3-Past pron|nada-Ind-Acc-S1 sconj|pra verb|colorir-Inf .
+%gra:	1|4|FLAT 2|4|ADVMOD 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|MARK 7|4|ADVCL 8|4|PUNCT
+*CHI:	e o teu estojo ?
+%mor:	cconj|e det|o-Def-Art det|teu-Def-Prs noun|estojo&Masc ?
+%gra:	1|4|CC 2|4|DET 3|4|DET 4|4|ROOT 5|4|PUNCT
+*INV:	o [/] no meu estojo não tem nada pra colorir esse estojo aqui (es)tá [/] (es)tá pobre hoje &=riso .
+%mor:	det|ele-Def-Art det|meu-Def-Prs noun|estojo&Masc adv|não verb|ter-Fin-Ind-3-Pres pron|nada-Ind-Acc-S1 sconj|pra verb|colorir-Inf det|esse-Def-Dem noun|estojo&Masc adv|aqui aux|estar-Fin-Ind-3-Pres adj|pobre-Pos-S-1 adv|hoje .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|ADVMOD 5|14|ROOT 6|5|OBJ 7|8|MARK 8|6|ACL 9|10|DET 10|8|OBJ 11|13|ADVMOD 12|13|COP 13|5|PARATAXIS 14|13|ADVMOD 15|5|PUNCT
+*INV:	já (es)tou de férias aí não tenho as canetinhas de colorir .
+%mor:	adv|já aux|estar-Fin-Ind-1-Pres adp|de noun|férias&Fem-Plur adv|aí adv|não verb|ter-Fin-Ind-1-Pres det|o-Def-Art noun|canetinha&Fem-Plur sconj|de verb|colorir-Inf .
+%gra:	1|7|ADVMOD 2|7|AUX 3|4|CASE 4|7|OBL 5|7|ADVMOD 6|7|ADVMOD 7|11|ROOT 8|9|DET 9|7|OBJ 10|11|MARK 11|9|ACL 12|7|PUNCT
+*CHI:	(es)tá [: estás] de férias ?
+%mor:	aux|estar-Fin-Ind-1-Pres adp|de noun|férias&Fem-Plur ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*INV:	é que eu (es)tou gra [//] (es)tava [//] (es)tou com um nenê pequeninho então a gente ganha licença .
+%mor:	aux|ser-Inf sconj|que pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres aux|estar-Fin-Ind-1-Pres adp|com det|um-Ind-Art noun|nenê&Masc adj|pequeninho-Pos-S-1 adv|então det|o-Def-Art noun|gente&Fem verb|ganhar-Fin-Ind-3-Pres noun|licença&Fem .
+%gra:	1|8|DISCOURSE 2|1|FIXED 3|8|NSUBJ 4|8|COP 5|8|COP 6|8|CASE 7|8|DET 8|14|ROOT 9|8|AMOD 10|13|ADVMOD 11|12|DET 12|13|NSUBJ 13|8|ACL-RELCL 14|13|OBJ 15|8|PUNCT
+*CHI:	ó .
+%mor:	intj|ó .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	hm:@i tu escreve [: escreves] pra mim então a historinha ?
+%mor:	x|hm pron|tu-Prs-Nom-S1 verb|escrever-Fin-Ind-1-Pres adp|pra pron|eu-Prs-Acc-S1 adv|então det|o-Def-Art noun|historinha&Fem ?
+%gra:	1|3|FLAT 2|3|NSUBJ 3|8|ROOT 4|5|CASE 5|3|OBL 6|3|ADVMOD 7|8|DET 8|3|OBJ 9|3|PUNCT
+*CHI:	uma historinha .
+%mor:	det|um-Ind-Art noun|historinha&Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	tudo bem .
+%mor:	pron|tudo-Ind-Acc-S1 adv|bem .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	sabe [: sabes] o que eu disse que fiz dia dezessete ?
+%mor:	verb|saber-Fin-Ind-1-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|eu-Prs-Nom-S1 verb|dizer-Fin-Ind-1-Past sconj|que verb|fazer-Fin-Ind-1-Past noun|dia&Masc num|dezessete ?
+%gra:	1|9|ROOT 2|3|DET 3|5|OBJ 4|5|NSUBJ 5|1|CCOMP 6|7|MARK 7|5|CCOMP 8|7|OBJ 9|8|NUMMOD 10|1|PUNCT
+*INV:	dia dezessete agora desse mês ?
+%mor:	noun|dia&Masc num|dezessete adv|agora adp|de~det|esse-Def-Dem noun|mês&Masc ?
+%gra:	1|6|ROOT 2|1|NUMMOD 3|1|ADVMOD 4|6|CASE 5|6|DET 6|1|NMOD 7|1|PUNCT
+*INV:	como é que é teu sobrenome Alexandra ?
+%mor:	adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Pres det|teu-Def-Prs noun|sobrenome&Masc noun|Alexandra&Fem ?
+%gra:	1|4|ADVMOD 2|4|DISCOURSE 3|2|FIXED 4|7|ROOT 5|6|DET 6|4|NSUBJ 7|6|APPOS 8|4|PUNCT
+*CHI:	Alexandra Lastname .
+%mor:	noun|Alexandra&Fem noun|Lastname&ComNeut .
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*INV:	ãh@i ?
+%mor:	x|ãh ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	assim ?
+%mor:	adv|assim ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sabe [: sabes] o que eu ganhei ?
+%mor:	verb|saber-Fin-Ind-1-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|eu-Prs-Nom-S1 verb|ganhar-Fin-Ind-1-Past ?
+%gra:	1|5|ROOT 2|3|OBJ 3|5|OBJ 4|5|NSUBJ 5|1|CCOMP 6|1|PUNCT
+*INV:	ãh@i ?
+%mor:	x|ãh ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	fazendo seis anos .
+%mor:	verb|fazer-Ger num|seis noun|ano&Masc-Plur .
+%gra:	1|3|ROOT 2|3|NUMMOD 3|1|OBJ 4|1|PUNCT
+*INV:	seis anos .
+%mor:	num|seis noun|ano&Masc-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	é eu vou ficar velha .
+%mor:	aux|ser-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*INV:	claro eu também vou ficar velha tá@i mais aí então escreve .
+%mor:	adv|claro pron|eu-Prs-Nom-S1 adv|também aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 x|tá adv|mais adv|aí adv|então verb|escrever-Fin-Ind-3-Pres .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|11|ROOT 6|5|XCOMP 7|5|FLAT 8|9|ADVMOD 9|11|ADVMOD 10|11|ADVMOD 11|5|PARATAXIS 12|5|PUNCT
+*CHI:	sabe [: sabes] como é que tu [/] tu tem [: tens] bebê e vai [: vais] ficar velha ?
+%mor:	verb|saber-Fin-Ind-1-Pres adv|como aux|ser-Inf sconj|que pron|tu-Prs-Nom-S1 verb|ter-Fin-Ind-1-Pres noun|bebê&Masc cconj|e aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 ?
+%gra:	1|11|ROOT 2|6|ADVMOD 3|6|DISCOURSE 4|3|FIXED 5|6|NSUBJ 6|1|CCOMP 7|6|OBJ 8|10|CC 9|10|AUX 10|6|CONJ 11|10|XCOMP 12|1|PUNCT
+*INV:	ãh@i ?
+%mor:	x|ãh ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	como é que tu tem [: tens] bebê e vai [: vais] ficar velha ?
+%mor:	adv|como aux|ser-Inf sconj|que pron|tu-Prs-Nom-S1 verb|ter-Fin-Ind-1-Pres noun|bebê&Masc cconj|e aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 ?
+%gra:	1|5|ADVMOD 2|5|DISCOURSE 3|2|FIXED 4|5|NSUBJ 5|10|ROOT 6|5|OBJ 7|9|CC 8|9|AUX 9|5|CONJ 10|9|XCOMP 11|5|PUNCT
+*INV:	todo mundo fica velho .
+%mor:	det|todo-Def-Tot noun|mundo&Masc verb|ficar-Fin-Ind-3-Pres adj|velho-Pos-S-1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	tá@i mas não quando cria bebê né@i .
+%mor:	x|tá cconj|mas adv|não adv|quando verb|criar-Fin-Ind-3-Pres noun|bebê&Masc x|né .
+%gra:	1|7|FLAT 2|5|CC 3|5|ADVMOD 4|5|ADVMOD 5|1|ACL-RELCL 6|5|OBJ 7|6|FLAT 8|1|PUNCT
+*INV:	quando a criança começa a ficar velha tem que crescer olha tu vai [: vais] ficar velha bem depois de mim tu ainda tem [: tens] que crescer ter bebê depois ficar velha agora eu (es)tou mais perto de ficar velhinha .
+%mor:	sconj|quando det|o-Def-Art noun|criança&Fem verb|começar-Fin-Ind-3-Pres sconj|a verb|ficar-Inf adj|velho-Pos-S-1 aux|ter-Fin-Ind-3-Pres sconj|que verb|crescer-Inf verb|olhar-Fin-Ind-3-Pres pron|tu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 adv|bem adv|depois adp|de pron|eu-Prs-Acc-S1 pron|tu-Prs-Nom-S1 adv|ainda aux|ter-Fin-Ind-1-Pres sconj|que verb|crescer-Inf verb|ter-Inf noun|bebê&Masc adv|depois verb|ficar-Inf adj|velho-Pos-S-1 adv|agora pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres adv|mais adv|perto adp|de verb|ficar-Inf adj|velhinho-Pos-S-1 .
+%gra:	1|6|MARK 2|3|DET 3|4|NSUBJ 4|11|ADVCL 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|11|AUX 9|10|MARK 10|11|CSUBJ 11|37|ROOT 12|14|NSUBJ 13|14|AUX 14|11|CCOMP 15|14|XCOMP 16|17|ADVMOD 17|14|ADVMOD 18|19|CASE 19|17|OBL 20|24|NSUBJ 21|24|ADVMOD 22|24|AUX 23|24|MARK 24|14|ADVCL 25|24|XCOMP 26|25|OBJ 27|28|ADVMOD 28|25|ADVCL 29|28|XCOMP 30|28|ADVMOD 31|33|NSUBJ 32|33|COP 33|28|ADVMOD 34|36|MARK 35|34|FIXED 36|33|ADVCL 37|36|XCOMP 38|11|PUNCT
+*CHI:	e como é que tu tem [: tens] um bebê de dois +...
+%mor:	cconj|e adv|como aux|ser-Inf sconj|que pron|tu-Prs-Acc-S1 verb|ter-Fin-Ind-1-Pres det|um-Ind-Art noun|bebê&Masc adp|de num|dois +...
+%gra:	1|6|CC 2|6|ADVMOD 3|6|DISCOURSE 4|3|FIXED 5|6|IOBJ 6|10|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|8|NMOD 11|6|PUNCT
+*INV:	++ meses .
+%mor:	noun|mês&Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	meses e vai [: vais] ficar velha ?
+%mor:	noun|mês&Masc-Plur cconj|e aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 ?
+%gra:	1|4|OBL 2|4|CC 3|4|AUX 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*INV:	bom um dia eu vou ficar velha não é hoje nem amanhã é daqui um tempo daqui um tempo (.) anos e anos .
+%mor:	adj|bom-Pos-S-1 num|um noun|dia&Masc pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adj|velho-Pos-S-1 adv|não aux|ser-Fin-Ind-3-Pres adv|hoje adv|nem adv|amanhã aux|ser-Fin-Ind-3-Pres adp|de~adv|aqui det|um-Ind-Art noun|tempo&Masc adp|de~adv|aqui det|um-Ind-Art noun|tempo&Masc noun|ano&Masc-Plur cconj|e noun|ano&Masc-Plur .
+%gra:	1|6|AMOD 2|3|NUMMOD 3|1|OBL 4|6|NSUBJ 5|6|AUX 6|24|ROOT 7|6|XCOMP 8|9|ADVMOD 9|6|CONJ 10|6|ADVMOD 11|12|ADVMOD 12|15|ADVMOD 13|17|COP 14|15|CASE 15|6|CONJ 16|17|DET 17|6|PARATAXIS 18|19|CASE 19|17|ADVMOD 20|21|DET 21|17|NMOD 22|17|NMOD 23|24|CC 24|22|CONJ 25|6|PUNCT
+*INV:	ãh@i ?
+%mor:	x|ãh ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	duzentos anos .
+%mor:	num|duzento noun|ano&Masc-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	vou botar o b@l aqui [= aponta para a folha] .
+%mor:	aux|ir-Fin-Ind-1-Pres verb|botar-Inf det|o-Def-Art x|b adv|aqui .
+%gra:	1|2|AUX 2|5|ROOT 3|4|DET 4|2|FLAT 5|2|ADVMOD 6|2|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	aí vai ficar Alexanda .
+%mor:	adv|aí aux|ir-Fin-Ind-3-Pres verb|ficar-Inf noun|Alexanda&Masc .
+%gra:	1|3|ADVMOD 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	Alexanda tá@i vou saber que é [: és] tu .
+%mor:	noun|Alexanda&Fem x|tá aux|ir-Fin-Ind-1-Pres verb|saber-Inf sconj|que aux|estar-Fin-Ind-2-Pres intj|tu .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|AUX 4|7|ROOT 5|7|MARK 6|7|COP 7|4|CCOMP 8|4|PUNCT
+*INV:	Alexandra agora eu queria que me contasse [: contasses] essa história que tu fez [: fizeste] aí .
+%mor:	noun|Alexandra&Fem adv|agora pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Imp sconj|que pron|eu-Prs-Acc-S1 verb|contar-Fin-Plur-Sub-1-Pres det|esse-Def-Dem noun|história&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 verb|fazer-Fin-Ind-1-Pres adv|aí .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|NSUBJ 4|13|ROOT 5|7|MARK 6|7|IOBJ 7|4|CCOMP 8|9|DET 9|7|OBJ 10|12|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|12|ADVMOD 14|4|PUNCT
+*CHI:	é (.) eu nem terminei .
+%mor:	aux|ser-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 adv|nem verb|terminar-Fin-Ind-1-Past .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*INV:	ah tá@i devia [: devias] ter terminado .
+%mor:	intj|ah x|tá verb|dever-Fin-Plur-Ind-1-Imp aux|ter-Inf verb|terminar-Part .
+%gra:	1|5|DISCOURSE 2|3|FLAT 3|5|ROOT 4|5|AUX 5|3|XCOMP 6|3|PUNCT
+*CHI:	Perla [?] .
+%mor:	noun|Perla&Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	daí é a Perla [?] .
+%mor:	intj|daí aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|Perla&Fem .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	a(s) figurinha(s) mágicas xxx .
+%mor:	det|o-Def-Art noun|figurinha&Fem-Plur adj|mágico-Pos-P-1 .
+%gra:	1|2|DET 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+*INV:	tem figurinhas mágicas ?
+%mor:	verb|ter-Fin-Ind-3-Pres noun|figurinha&Fem-Plur adj|mágico-Pos-P-1 ?
+%gra:	1|3|ROOT 2|1|OBJ 3|2|AMOD 4|1|PUNCT
+*CHI:	não (.) tem figurinhas mágicas .
+%mor:	adv|não verb|ter-Fin-Ind-3-Pres noun|figurinha&Fem-Plur adj|mágico-Pos-P-1 .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|3|AMOD 5|2|PUNCT
+*INV:	é propaganda que (es)tava passando ?
+%mor:	aux|ser-Fin-Ind-3-Pres noun|propaganda&Fem pron|que-Rel-Acc-S1 aux|estar-Fin-Ind-3-Imp verb|passar-Ger ?
+%gra:	1|2|COP 2|5|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|2|PUNCT
+*CHI:	uh^hum@i no doze deu .
+%mor:	x|uhhum adp|em~det|o-Def-Art noun|doze&Masc verb|dar-Fin-Ind-3-Past .
+%gra:	1|5|FLAT 2|4|CASE 3|4|DET 4|1|NMOD 5|5|ROOT 6|5|PUNCT
+*INV:	deu ?
+%mor:	verb|dar-Fin-Ind-3-Past ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	então me conta agora senta aqui mais pertinho de mim pra me contar .
+%mor:	adv|então pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres adv|agora verb|sentar-Fin-Ind-3-Pres adv|aqui adv|mais adv|pertinho adp|de pron|eu-Prs-Acc-S1 sconj|pra pron|eu-Prs-Acc-S1 verb|contar-Inf .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|13|ROOT 4|5|ADVMOD 5|3|CCOMP 6|5|ADVMOD 7|8|ADVMOD 8|5|ADVMOD 9|10|CASE 10|8|OBL 11|13|MARK 12|13|OBJ 13|5|ADVCL 14|3|PUNCT
+*CHI:	ah eu vou escrever Natália .
+%mor:	intj|ah pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|escrever-Inf noun|Natália&Fem .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	nata .
+%mor:	noun|nata&Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	t@l a@l .
+%mor:	x|t x|a .
+%gra:	1|2|FLAT 2|1|FLAT 3|1|PUNCT
+*INV:	t@l a@l .
+%mor:	x|t x|a .
+%gra:	1|2|FLAT 2|1|FLAT 3|1|PUNCT
+*CHI:	t@l a@l .
+%mor:	x|t x|a .
+%gra:	1|2|FLAT 2|1|FLAT 3|1|PUNCT
+*CHI:	Natasha Natália (...) eu vou fazer mais forte (.) como duas forte(s) .
+%mor:	noun|Natasha&Fem noun|Natália&ComNeut pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|fazer-Inf adv|mais adj|forte-Pos-S-1 adp|como num|dois noun|forte&Fem-Plur .
+%gra:	1|5|NSUBJ 2|1|FLAT-NAME 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|ADVMOD 7|5|OBJ 8|10|CASE 9|10|NUMMOD 10|5|OBL 11|5|PUNCT
+*INV:	tá@i mas não precisa [: precisas] fazer todas as mais forte(s) pode [: podes] deixar assim .
+%mor:	x|tá cconj|mas adv|não verb|preciso-Fin-Plur-Ind-1-Pres verb|fazer-Inf det|todo-Def-Tot pron|o-Art-Acc-P1 adv|mais adj|forte-Pos-P-1 verb|poder-Fin-Plur-Ind-1-Pres verb|deixar-Inf adv|assim .
+%gra:	1|12|FLAT 2|4|CC 3|4|ADVMOD 4|1|CONJ 5|4|XCOMP 6|7|DET 7|5|OBJ 8|9|ADVMOD 9|7|AMOD 10|1|PARATAXIS 11|10|XCOMP 12|11|ADVMOD 13|1|PUNCT
+*INV:	não vai [: vás] quebrar a ponta do meu lápis que eu não tenho apontador tá@i não aperta muito senão tu vai [: vais] quebrar a ponta .
+%mor:	adv|não aux|ir-Fin-Ind-1-Pres verb|quebrar-Inf det|o-Def-Art noun|ponta&Fem adp|de~det|o-Def-Art det|meu-Def-Prs noun|lápis&Masc sconj|que pron|eu-Prs-Nom-S1 adv|não verb|ter-Fin-Ind-1-Pres noun|apontador&Masc x|tá adv|não verb|aprrtar-Fin-Ind-3-Pres adv|muito adv|senão pron|tu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|quebrar-Inf det|o-Def-Art noun|ponta&Fem .
+%gra:	1|3|ADVMOD 2|3|AUX 3|24|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|DET 9|5|NMOD 10|13|MARK 11|13|NSUBJ 12|13|ADVMOD 13|3|ADVCL 14|13|OBJ 15|14|FLAT 16|17|ADVMOD 17|3|PARATAXIS 18|17|ADVMOD 19|22|ADVMOD 20|22|NSUBJ 21|22|AUX 22|17|CONJ 23|24|DET 24|22|OBJ 25|3|PUNCT
+*CHI:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	tá@i ?
+%mor:	x|tá ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	l@l .
+%mor:	x|l .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	é l@l l@l e .
+%mor:	aux|ser-Fin-Ind-3-Pres x|l x|l cconj|e .
+%gra:	1|2|COP 2|4|FLAT 3|2|FLAT 4|2|PUNCT 5|2|PUNCT
+*CHI:	e l@l ale e .
+%mor:	cconj|e x|l x|ale cconj|e .
+%gra:	1|2|CC 2|4|FLAT 3|2|FLAT-FOREIGN 4|2|CC 5|2|PUNCT
+*INV:	a Natália .
+%mor:	adp|a noun|Natália&Fem .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	o i@l .
+%mor:	det|o-Def-Art x|i .
+%gra:	1|2|DET 2|2|FLAT 3|2|PUNCT
+*INV:	a Natália agora é um h@l .
+%mor:	det|o-Def-Art noun|Natália&Fem adv|agora aux|ser-Fin-Ind-3-Pres det|um-Ind-Art x|h .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|ADVMOD 4|6|COP 5|6|DET 6|6|FLAT 7|6|PUNCT
+*CHI:	(...) deu .
+%mor:	verb|dar-Fin-Ind-3-Past .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	e um a@l (.) Natália .
+%mor:	cconj|e det|um-Ind-Art x|a noun|Natália&Fem .
+%gra:	1|3|CC 2|3|DET 3|4|FLAT 4|3|APPOS 5|3|PUNCT
+*CHI:	deu .
+%mor:	verb|dar-Fin-Ind-3-Past .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(...) tá@i Alexandra então senta aqui agora do meu lado e vamos ver [//] contar não mas tu pega [: pegas] a tua história junto <que tu> [/] que tu escreveu [: escreveste] e me [//] e lê pra mim conta pra mim .
+%mor:	x|tá noun|Alexandra&Fem adv|então verb|sentar-Fin-Ind-3-Pres adv|aqui adv|agora adp|de~det|o-Def-Art det|meu-Def-Prs noun|lado&Masc cconj|e aux|ir-Fin-Plur-Ind-1-Pres verb|contar-Inf intj|não cconj|mas pron|tu-Prs-Nom-S1 verb|pegar-Fin-Plur-Ind-1-Pres det|o-Def-Art det|teu-Def-Prs noun|história&Fem adv|junto sconj|que pron|tu-Prs-Nom-S1 verb|escrever-Fin-Ind-1-Pres cconj|e cconj|e verb|ler-Fin-Ind-3-Pres adp|pra pron|eu-Prs-Acc-S1 noun|conta&Fem adp|pra pron|eu-Prs-Acc-S1 .
+%gra:	1|4|FLAT 2|1|APPOS 3|4|ADVMOD 4|32|ROOT 5|4|ADVMOD 6|4|ADVMOD 7|10|CASE 8|10|DET 9|10|DET 10|4|OBL 11|13|CC 12|13|AUX 13|4|CONJ 14|13|ADVMOD 15|17|CC 16|17|NSUBJ 17|4|CONJ 18|20|DET 19|20|DET 20|17|OBJ 21|17|ADVMOD 22|24|MARK 23|24|NSUBJ 24|17|ADVCL 25|27|CC 26|27|CC 27|24|CONJ 28|29|CASE 29|27|OBL 30|27|OBJ 31|32|CASE 32|30|NMOD 33|4|PUNCT
+*CHI:	aqui (es)tava começando mostrar a Sandra daí aí (es)tava eu a prima daí a gente (es)tava numa fila e a gente não podia sair por ali tinha que sair por aqui daí tinha escrito aí e deu .
+%mor:	adv|aqui aux|estar-Fin-Ind-1-Imp verb|começar-Ger verb|mostrar-Inf adp|a noun|Sandra&Fem adp|de~adv|aí adv|aí aux|estar-Fin-Ind-1-Imp pron|eu-Prs-Nom-S1 det|o-Def-Art noun|primo&Fem adp|de~adv|aí det|o-Def-Art pron|gente-Ind-Acc-S1 aux|estar-Fin-Ind-3-Imp adp|em~det|um-Ind-Art noun|fila&Fem cconj|e det|o-Def-Art noun|gente&Fem adv|não verb|poder-Fin-Ind-3-Imp verb|sair-Inf adp|por adv|ali aux|ter-Fin-Ind-1-Imp sconj|que verb|sair-Inf adp|por adv|aqui adp|de~adv|aí aux|ter-Fin-Ind-3-Imp verb|escrever-Part adv|aí cconj|e verb|dar-Fin-Ind-3-Past .
+%gra:	1|3|ADVMOD 2|3|AUX 3|41|ROOT 4|3|XCOMP 5|6|CASE 6|4|IOBJ 7|8|CASE 8|6|ADVMOD 9|4|ADVMOD 10|13|COP 11|13|NSUBJ 12|13|DET 13|4|CSUBJ 14|15|CASE 15|13|ADVMOD 16|17|DET 17|18|NSUBJ 18|13|COP 19|21|CASE 20|21|DET 21|18|OBL 22|26|CC 23|24|DET 24|26|NSUBJ 25|26|ADVMOD 26|18|CONJ 27|26|XCOMP 28|29|CASE 29|32|ADVMOD 30|32|AUX 31|32|MARK 32|27|CONJ 33|34|CASE 34|32|ADVMOD 35|36|CASE 36|34|OBL 37|38|AUX 38|32|CONJ 39|38|ADVMOD 40|41|CC 41|38|CONJ 42|3|PUNCT
+*INV:	e deu ?
+%mor:	cconj|e verb|dar-Fin-Ind-3-Past ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(es)tá bem então agora eu vou te mostrar uma historinha que eu trouxe e quero que tu olhe [: olhes] ela e aí tu me conte [: contes] .
+%mor:	aux|estar-Fin-Ind-3-Pres adv|bem adv|então adv|agora pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 verb|mostrar-Inf det|um-Ind-Art noun|historinha&Fem pron|que-Rel-Acc-S1 pron|eu-Prs-Nom-S1 verb|trazer-Fin-Ind-3-Past cconj|e verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 verb|ser-Fin-Plur-Ind-1-Pres pron|ela-Prs-Acc-S3 cconj|e adv|aí pron|tu-Prs-Nom-S2 pron|eu-Prs-Acc-S1 verb|cartir-Fin-Ind-1-Pres .
+%gra:	1|2|COP 2|24|ROOT 3|2|ADVMOD 4|8|ADVMOD 5|8|NSUBJ 6|8|AUX 7|8|IOBJ 8|2|CSUBJ 9|10|DET 10|8|OBJ 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|15|CC 15|2|CONJ 16|18|MARK 17|18|NSUBJ 18|15|CCOMP 19|18|OBJ 20|24|CC 21|24|ADVMOD 22|24|NSUBJ 23|24|OBJ 24|18|CONJ 25|2|PUNCT
+*CHI:	eu não xxx como é <que não tem> [/] que não tem canetinha colorida [/] colorida .
+%mor:	pron|eu-Prs-Nom-S1 adv|não adv|como aux|ser-Inf sconj|que adv|não verb|ter-Fin-Ind-3-Pres noun|canetinha&Fem verb|colorir-Part .
+%gra:	1|7|NSUBJ 2|7|ADVMOD 3|7|ADVMOD 4|7|DISCOURSE 5|4|FIXED 6|7|ADVMOD 7|9|ROOT 8|7|OBJ 9|8|ACL 10|7|PUNCT
+*INV:	ah mas eu colori foi em casa antes de vir não colori agora .
+%mor:	intj|ah cconj|mas pron|eu-Prs-Nom-S1 verb|colorir-Fin-Ind-1-Pres verb|ir-Fin-Ind-3-Past adp|em noun|casa&Fem adv|antes adp|de verb|vir-Inf adv|não verb|colorir-Inf adv|agora .
+%gra:	1|5|DISCOURSE 2|4|CC 3|4|NSUBJ 4|1|CONJ 5|13|ROOT 6|7|CASE 7|5|OBL 8|10|MARK 9|8|FIXED 10|12|ADVCL 11|12|ADVMOD 12|5|ADVCL 13|12|ADVMOD 14|5|PUNCT
+*CHI:	então tá@i empresta a figurinha ?
+%mor:	adv|então x|tá verb|emprestar-Fin-Ind-3-Pres det|o-Def-Art noun|figurinha&Fem ?
+%gra:	1|3|ADVMOD 2|3|FLAT 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	eu (es)tou botando a data pra mim saber o dia .
+%mor:	pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres verb|botar-Ger det|o-Def-Art noun|data&Fem adp|pra pron|eu-Prs-Acc-S1 verb|saber-Inf det|o-Def-Art noun|dia&Masc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|ADVCL 9|10|DET 10|8|OBJ 11|3|PUNCT
+*CHI:	hm:@i .
+%mor:	x|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	dia onze de sete de noventa e três .
+%mor:	noun|dia&Masc num|onze adp|de num|sete adp|de num|noventa cconj|e num|três .
+%gra:	1|8|ROOT 2|1|NUMMOD 3|4|CASE 4|2|NMOD 5|6|CASE 6|4|NMOD 7|8|CC 8|6|CONJ 9|1|PUNCT
+*CHI:	hoje não é dia onze ?
+%mor:	adv|hoje adv|não aux|ser-Fin-Ind-3-Pres noun|dia&Masc num|onze ?
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|COP 4|5|ROOT 5|4|NUMMOD 6|4|PUNCT
+*INV:	é sim .
+%mor:	aux|ser-Fin-Ind-3-Pres adv|sim .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	hoje é dia doze .
+%mor:	adv|hoje aux|ser-Fin-Ind-3-Pres noun|dia&Masc num|doze .
+%gra:	1|3|ADVMOD 2|3|COP 3|4|ROOT 4|3|NUMMOD 5|3|PUNCT
+*INV:	doze ?
+%mor:	num|doze ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tem [: tens] certeza ?
+%mor:	verb|ter-Fin-Plur-Ind-1-Pres noun|certeza&Fem ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	tenho .
+%mor:	verb|ter-Fin-Ind-1-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tá@i eu vou botar dia doze &=riso pensei que era onze .
+%mor:	x|tá pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|botar-Inf noun|dia&Masc num|doze verb|pensar-Fin-Ind-1-Past sconj|que aux|ser-Fin-Ind-3-Imp num|onze .
+%gra:	1|4|FLAT 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|OBL 6|5|NUMMOD 7|4|PARATAXIS 8|10|MARK 9|10|COP 10|7|CCOMP 11|4|PUNCT
+*CHI:	ontem era dia onze .
+%mor:	adv|ontem aux|ser-Fin-Ind-3-Imp noun|dia&Masc num|onze .
+%gra:	1|3|ADVMOD 2|3|COP 3|4|ROOT 4|3|NUMMOD 5|3|PUNCT
+*INV:	tá@i então me conta aí a historinha que tu começou [: começaste] e eu te interrompi desculpa .
+%mor:	x|tá adv|então pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres adv|aí det|o-Def-Art noun|historinha&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 verb|começar-Fin-Ind-1-Pres cconj|e pron|eu-Prs-Nom-S1 pron|tu-Prs-Acc-S1 verb|interromper-Fin-Ind-1-Past noun|desculpa&Fem .
+%gra:	1|4|FLAT 2|4|ADVMOD 3|4|OBJ 4|15|ROOT 5|4|ADVMOD 6|7|DET 7|4|OBJ 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|14|CC 12|14|NSUBJ 13|14|OBJ 14|4|CONJ 15|14|OBJ 16|4|PUNCT
+*CHI:	eu vou contar uma historinha de uma mulher que foi roubar comida dela daí ela estourou pipoca e tirou um negócio logo começou e estourar pra tudo que é lado e caiu café e caiu tudo daí ela brigou com os dois filhos <e a> [/] e a filhinha cresceu do tamanho da mamãe .
+%mor:	pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|contar-Inf det|um-Ind-Art noun|historinha&Fem adp|de det|um-Ind-Art noun|mulher&Fem pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Past verb|roubar-Inf noun|comida&Fem adp|de~pron|ela-Prs-Acc-S3 adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|estourar-Fin-Ind-3-Past noun|pipoca&Fem cconj|e verb|tirar-Fin-Ind-3-Past det|um-Ind-Art noun|negócio&Masc adv|logo verb|começar-Fin-Ind-3-Past cconj|e verb|estourar-Inf adp|pra pron|tudo-Ind-Acc-S1 pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres noun|lado&Masc cconj|e verb|cair-Fin-Ind-3-Past noun|café&Masc cconj|e verb|cair-Fin-Ind-3-Past pron|tudo-Ind-Acc-S1 adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|brigar-Fin-Ind-3-Past adp|com det|o-Def-Art num|dois noun|filho&Masc-Plur cconj|e det|o-Def-Art noun|filhinha&Fem verb|crescer-Fin-Ind-3-Past adp|de~det|o-Def-Art noun|tamanho&Masc adp|de~det|o-Def-Art noun|mamãe&Fem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|56|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|11|OBJ 13|14|CASE 14|11|IOBJ 15|16|CASE 16|11|ADVMOD 17|18|NSUBJ 18|8|ACL-RELCL 19|18|OBJ 20|21|CC 21|3|CONJ 22|23|DET 23|21|OBJ 24|25|ADVMOD 25|3|CONJ 26|27|CC 27|25|CONJ 28|29|CASE 29|27|OBL 30|32|NSUBJ 31|32|COP 32|29|ACL-RELCL 33|34|CC 34|25|CONJ 35|34|OBJ 36|37|CC 37|3|CONJ 38|37|NSUBJ 39|40|CASE 40|37|ADVMOD 41|42|NSUBJ 42|37|ADVCL 43|46|CASE 44|46|DET 45|46|NUMMOD 46|42|OBL 47|50|CC 48|49|DET 49|50|NSUBJ 50|42|CONJ 51|53|CASE 52|53|DET 53|50|OBL 54|56|CASE 55|56|DET 56|53|NMOD 57|3|PUNCT
+*INV:	hm:@i que legal tu gostou [: gostaste] desta .
+%mor:	x|hm pron|que-Rel-Acc-S1 adj|legal-Pos-S-1 pron|tu-Prs-Nom-S1 verb|gostar-Fin-Ind-1-Pres adv|desta .
+%gra:	1|6|FLAT 2|5|OBJ 3|1|AMOD 4|5|NSUBJ 5|1|ACL-RELCL 6|5|ADVMOD 7|1|PUNCT
+*CHI:	gostei depois tu bota [: botas] um pedaço da fita pra mim ouvir [/] ouvir .
+%mor:	verb|gostar-Fin-Ind-1-Past adv|depois pron|tu-Prs-Nom-S1 noun|bota&Fem-Plur det|um-Ind-Art noun|pedaço&Masc adp|de~det|o-Def-Art noun|fita&Fem adp|pra pron|eu-Prs-Acc-S1 verb|ouvir-Inf .
+%gra:	1|12|ROOT 2|1|ADVMOD 3|4|DET 4|1|OBJ 5|6|DET 6|1|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|CASE 11|12|OBL 12|1|ADVCL 13|1|PUNCT
+*INV:	tá@i bem pouquinho tá@i ?
+%mor:	x|tá adv|bem adv|pouquinho x|tá ?
+%gra:	1|4|FLAT 2|3|ADVMOD 3|4|ADVMOD 4|1|FLAT 5|1|PUNCT
+*CHI:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+@End

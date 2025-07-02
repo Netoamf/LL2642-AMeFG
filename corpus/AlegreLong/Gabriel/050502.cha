@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/c-00030364-1
+@Begin
+@Languages:	por
+@Participants:	CHI Gabriel Target_Child , INV Conceição Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|5;05.02|male|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	04-MAY-1992
+@Types:	long, narrative, TD
+*CHI:	xxx . 
+*INV:	ãh@i ? 
+%mor:	x|ãh ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	Gabriel Lastname .
+%mor:	noun|Gabriel&Masc noun|Lastname&ComNeut .
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*INV:	Gabriel [/] Gabriel Lastname ?
+%mor:	noun|Gabriel&Masc noun|Lastname&ComNeut ?
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*INV:	tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	não Lastname [!] .
+%mor:	adv|não noun|Lastname&Masc .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*INV:	Lastname ?
+%mor:	noun|Lastname&Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	Gabriel Lastname ?
+%mor:	noun|Gabriel&Masc noun|Lastname&ComNeut ?
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*INV:	ah^tá@i então o Gabriel Lastname vai contar a historinha pra nós né@i ?
+%mor:	x|ahtá adv|então det|o-Def-Art noun|Gabriel&Masc noun|Lastname&ComNeut aux|ir-Fin-Ind-3-Pres verb|contar-Inf det|o-Def-Art noun|historinha&Fem adp|pra pron|nós-Prs-Acc-P1 x|né ?
+%gra:	1|7|FLAT 2|7|ADVMOD 3|4|DET 4|7|NSUBJ 5|4|FLAT-NAME 6|7|AUX 7|12|ROOT 8|9|DET 9|7|OBJ 10|11|CASE 11|7|OBL 12|11|FLAT 13|7|PUNCT
+*INV:	tu lembra [: lembras] que a tia tinha te pedido pra que tu ia [: ias] vim [: vir] aqui pra contar a historinha ?
+%mor:	pron|tu-Prs-Nom-S1 verb|lembrar-Fin-Plur-Ind-1-Pres sconj|que det|o-Def-Art noun|tia&Fem aux|ter-Fin-Ind-3-Imp pron|tu-Prs-Acc-S1 verb|pedir-Part adp|pra sconj|que pron|tu-Prs-Nom-S1 aux|ir-Fin-Plur-Ind-1-Pres verb|vir-Inf adv|aqui sconj|pra verb|contar-Inf det|o-Def-Art noun|historinha&Fem ?
+%gra:	1|2|NSUBJ 2|18|ROOT 3|8|MARK 4|5|DET 5|8|NSUBJ 6|8|AUX 7|8|OBJ 8|2|CCOMP 9|10|CASE 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|8|CCOMP 14|13|ADVMOD 15|16|MARK 16|13|ADVCL 17|18|DET 18|16|OBJ 19|2|PUNCT
+*CHI:	eu (es)tava no [/] no [//] correndo atrás de um futebol e [/] e toda hora passava um guri ami [/] amigo meu lá [/] lá pra xxx na minha frente né@i ele fez uma roda pra lançar depois quando a tia dele saiu a gente foi lá rua reta do [/] do [//] a [//] lá não dava ãhn@i tinha que fazer assim xxx depois tinha que fazer assim assim assim [= mostra com as mãos com deveria se fazer] depois quando a gente foi (.) não [//] ãhn@i a gente só ficava vendo xxx porque tinha maloqueiro xxx batalha na praça (.) a gente correu eu tinha uma [//] u [/] u [//] e daí a Lia ficou pra trás .
+%com:	silêncio; outra pessoa interrompe perguntando se voltaram para casa ou foram em mais algum lugar .
+%mor:	pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Imp verb|correr-Ger adv|atrás adp|de det|um-Ind-Art noun|futebol&Masc cconj|e det|todo-Def-Tot noun|hora&Fem verb|passar-Fin-Ind-3-Imp det|um-Ind-Art noun|guri&Masc noun|amigo&Masc det|meu-Def-Prs adv|lá adp|pra adp|em~det|o-Def-Art det|meu-Def-Prs noun|frente&Fem x|né pron|ele-Prs-Nom-S3 verb|fazer-Fin-Ind-3-Past det|um-Ind-Art noun|roda&Fem sconj|pra verb|lançar-Inf adv|depois adv|quando det|o-Def-Art noun|tia&Fem adp|de~pron|ele-Prs-Acc-S3 verb|sair-Fin-Ind-3-Past det|o-Def-Art noun|gente&Fem aux|ser-Fin-Ind-3-Past adv|lá noun|rua&Fem adj|reta-Pos-S-1 adv|lá adv|não verb|dar-Fin-Ind-3-Imp x|ãhn aux|ter-Fin-Ind-1-Imp sconj|que verb|fazer-Inf adv|assim adv|depois aux|ter-Fin-Ind-1-Imp sconj|que verb|fazer-Inf adv|assim adv|assim adv|assim adv|depois adv|quando det|o-Def-Art noun|gente&Fem aux|ser-Fin-Ind-3-Past x|ãhn det|o-Def-Art noun|gente&Fem adv|só verb|ficar-Fin-Ind-1-Imp verb|ver-Ger sconj|porque verb|ter-Fin-Ind-3-Imp adj|maloqueiro-Pos-S-1 noun|batalha&Fem adp|em~det|o-Def-Art noun|praça&Fem det|o-Def-Art noun|gente&Fem verb|correr-Fin-Ind-3-Past pron|eu-Prs-Nom-S1 verb|ter-Fin-Ind-1-Imp cconj|e adp|de~adv|aí det|o-Def-Art noun|Lia&Fem verb|ficar-Fin-Ind-3-Past adp|pra adv|trás .
+%gra:	1|3|NSUBJ 2|3|AUX 3|87|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|10|DET 10|11|OBL 11|3|CONJ 12|13|DET 13|11|OBJ 14|11|XCOMP 15|16|DET 16|14|ADVMOD 17|21|CASE 18|21|CASE 19|21|DET 20|21|DET 21|11|OBL 22|24|FLAT 23|24|NSUBJ 24|3|CONJ 25|26|DET 26|24|OBJ 27|28|MARK 28|24|ADVCL 29|28|ADVMOD 30|35|ADVMOD 31|32|DET 32|35|NSUBJ 33|34|CASE 34|32|NMOD 35|24|ADVCL 36|37|DET 37|35|OBJ 38|44|ADVCL 39|44|ADVMOD 40|44|OBL 41|40|AMOD 42|44|ADVMOD 43|44|ADVMOD 44|3|CONJ 45|44|FLAT 46|48|AUX 47|48|MARK 48|44|CCOMP 49|48|ADVMOD 50|53|ADVMOD 51|53|AUX 52|53|MARK 53|48|CONJ 54|53|ADVMOD 55|53|ADVMOD 56|55|ADVMOD 57|53|ADVMOD 58|62|ADVMOD 59|60|DET 60|62|NSUBJ 61|62|COP 62|53|FLAT 63|64|DET 64|66|NSUBJ 65|66|ADVMOD 66|53|ADVCL 67|66|XCOMP 68|69|MARK 69|67|ADVCL 70|71|AMOD 71|69|OBJ 72|74|CASE 73|74|DET 74|69|OBL 75|76|DET 76|77|NSUBJ 77|69|ADVCL 78|79|NSUBJ 79|77|CONJ 80|85|CC 81|82|CASE 82|85|ADVMOD 83|84|DET 84|85|NSUBJ 85|79|CONJ 86|87|CASE 87|85|ADVMOD 88|3|PUNCT
+*CHI:	hm:@i nenhum lugar .
+%mor:	x|hm det|nenhum-Def-Neg noun|lugar&Masc .
+%gra:	1|3|FLAT 2|3|DET 3|1|NMOD 4|1|PUNCT
+*INV:	&=riso (.) terminou [: terminaste] a tua historinha ?
+%mor:	verb|terminar-Fin-Ind-1-Pres det|o-Def-Art det|teu-Def-Prs noun|historinha&Fem ?
+%gra:	1|4|ROOT 2|4|DET 3|4|DET 4|1|OBJ 5|1|PUNCT
+*INV:	agora o Gabriel vai contar a historinha em seqüência .
+%com:	silêncio .
+%mor:	adv|agora det|o-Def-Art noun|Gabriel&Masc aux|ir-Fin-Ind-3-Pres verb|contar-Inf det|o-Def-Art noun|historinha&Fem adp|em noun|seqüência&Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+*CHI:	o cara (es)tava dormindo e depois o menino tocou água nele e [/] e ele se assustou (.) e xxx se jogou e xica@g [= gesticula demonstrando a água que respingava do menino] .
+%mor:	det|o-Def-Art noun|cara&Masc aux|estar-Fin-Ind-3-Imp adj|dormindo-Pos-S-1 cconj|e adv|depois det|o-Def-Art noun|menino&Masc verb|tocar-Fin-Ind-3-Past noun|água&Fem adp|em~pron|ele-Prs-Acc-S3 cconj|e pron|ele-Prs-Nom-S3 pron|se-Prs-Acc-S3 verb|assustar-Fin-Ind-3-Past cconj|e pron|se-Prs-Acc-S3 verb|jogar-Fin-Ind-3-Past cconj|e x|xica .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|21|ROOT 5|9|CC 6|9|ADVMOD 7|8|DET 8|9|NSUBJ 9|4|CONJ 10|9|OBJ 11|12|CASE 12|9|OBL 13|16|CC 14|16|NSUBJ 15|16|OBJ 16|4|CONJ 17|19|CC 18|19|EXPL 19|16|CONJ 20|21|CC 21|19|FLAT 22|4|PUNCT
+*INV:	&=riso .
+*CHI:	respinga água né@i ?
+%com:	silêncio .
+%mor:	verb|respingir-Fin-Ind-3-Pres noun|água&Fem x|né ?
+%gra:	1|3|ROOT 2|1|OBJ 3|2|FLAT 4|1|PUNCT
+@End

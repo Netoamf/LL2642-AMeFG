@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00030328-1
+@Begin
+@Languages:	por
+@Participants:	CHI Alexandra Target_Child , INV Conceição Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|4;08.17|female|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	04-MAY-1992
+@Types:	long, narrative, TD
+*INV:	como é que é o teu nome ? 
+%mor:	adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Pres det|o-Def-Art det|teu-Def-Prs noun|nome&Masc ?
+%gra:	1|4|ADVMOD 2|4|DISCOURSE 3|2|FIXED 4|7|ROOT 5|7|DET 6|7|DET 7|4|NSUBJ 8|4|PUNCT
+*CHI:	Alexandra . 
+%mor:	noun|Alexandra&Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	quantos aninhos tu tem [: tens] Alexandra ?
+%mor:	det|quanto-Def-Int noun|aninho&Masc-Plur pron|tu-Prs-Acc-S2 verb|ter-Fin-Ind-1-Pres noun|Alexandra&Fem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	quatro .
+%com:	silêncio .
+%mor:	num|quatro .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tu conta [: contas] pra nós então a história ?
+%mor:	intj|tu noun|conta&Fem-Plur adp|pra pron|nós-Prs-Acc-P1 adv|então det|o-Def-Art noun|história&Fem ?
+%gra:	1|7|ROOT 2|1|OBJ 3|4|CASE 4|1|NMOD 5|1|ADVMOD 6|7|DET 7|4|NMOD 8|1|PUNCT
+*INV:	como é que foi a história ?
+%mor:	adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Past det|o-Def-Art noun|história&Fem ?
+%gra:	1|4|ADVMOD 2|4|DISCOURSE 3|2|FIXED 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+*CHI:	é que o maiô velho daí eu comprei um com a minha mãe segunda feira daí<a a> [//] eu [/] eu fui na casa da Betina depois né@i <e e> [/] e lá a gente foi lá pegar do livro e a gente na saída a gente viu um cachorrinho .
+%mor:	aux|ser-Inf sconj|que det|o-Def-Art noun|maiô&Masc adj|velho-Pos-S-1 adp|de~adv|aí pron|eu-Prs-Nom-S1 verb|comprir-Fin-Ind-1-Past num|um adp|com det|o-Def-Art det|meu-Def-Prs adj|mãe-Pos-S-1 adj|segundo-Pos-S-1 noun|feira&Fem adp|de~adv|aí pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past adp|em~det|o-Def-Art noun|casa&Fem adp|de~det|o-Def-Art noun|Betina&Fem adv|depois x|né cconj|e adv|lá det|o-Def-Art noun|gente&Fem aux|ser-Fin-Ind-3-Past adv|lá verb|pegar-Inf adp|de~det|o-Def-Art noun|livro&Masc cconj|e det|o-Def-Art pron|gente-Ind-Acc-S1 adp|em~det|o-Def-Art noun|saída&Fem det|o-Def-Art pron|gente-Ind-Acc-S1 verb|ver-Fin-Ind-3-Past det|um-Ind-Art noun|cachorrinho&Masc .
+%gra:	1|9|DISCOURSE 2|1|FIXED 3|4|DET 4|9|NSUBJ 5|4|AMOD 6|7|CASE 7|4|ADVMOD 8|9|NSUBJ 9|49|ROOT 10|9|OBJ 11|16|CASE 12|16|DET 13|16|DET 14|16|AMOD 15|16|AMOD 16|9|OBL 17|18|CASE 18|16|ADVMOD 19|20|NSUBJ 20|9|CONJ 21|23|CASE 22|23|DET 23|20|OBL 24|26|CASE 25|26|DET 26|23|NMOD 27|20|ADVMOD 28|20|FLAT 29|33|CC 30|33|ADVMOD 31|32|DET 32|33|NSUBJ 33|9|CONJ 34|35|ADVMOD 35|33|XCOMP 36|38|CASE 37|38|DET 38|35|OBJ 39|47|CC 40|41|DET 41|47|NSUBJ 42|44|CASE 43|44|DET 44|47|OBL 45|46|DET 46|47|NSUBJ 47|9|CONJ 48|49|DET 49|47|OBJ 50|9|PUNCT
+*INV:	que tri@d e daí voltaram ?
+%mor:	det|que-Def-Int x|tri cconj|e adp|de~adv|aí verb|voltar-Fin-Plur-Ind-3-Past ?
+%gra:	1|2|DET 2|6|FLAT 3|5|CC 4|5|CASE 5|2|CONJ 6|6|ROOT 7|6|PUNCT
+*CHI:	e um gatinho .
+%mor:	cconj|e det|um-Ind-Art noun|gatinho&Masc .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*INV:	é ?
+%mor:	aux|ser-Fin-Ind-3-Pres ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	que jóia essa historinha !
+%com:	silêncio .
+%mor:	pron|que-Rel-Acc-S1 noun|jóia&Fem det|esse-Def-Dem noun|historinha&Fem !
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|NMOD 5|2|PUNCT
+*INV:	agora a Alexandra [//] Alessandra vai contar a historinha em sequência . [+ bch]
+%mor:	adv|agora det|o-Def-Art noun|Alessandra&Fem aux|ir-Fin-Ind-3-Pres verb|contar-Inf det|o-Def-Art noun|historinha&Fem adp|em noun|sequência&Fem .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+*INV:	com que essa historinha .
+%mor:	adp|com sconj|que det|esse-Def-Dem noun|historinha&Fem .
+%gra:	1|2|CASE 2|4|NMOD 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	(es)tou pensando .
+%mor:	aux|estar-Fin-Ind-1-Pres verb|pensar-Ger .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+*INV:	á@i pode [: podes] pensar .
+%com:	silêncio .
+%mor:	x|á verb|poder-Fin-Ind-1-Pres verb|pensar-Inf .
+%gra:	1|2|FLAT 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*INV:	olha pra a historinha .
+%mor:	verb|olhar-Fin-Ind-3-Pres adp|pra det|o-Def-Art noun|historinha&Fem .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*INV:	(...) o que que tu vê [: vês] aqui nessa historinha ?
+%mor:	pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|que-Rel-Acc-S1 pron|tu-Prs-Acc-S1 verb|vir-Fin-Ind-1-Pres adv|aqui adp|em~det|esse-Def-Dem noun|historinha&Fem ?
+%gra:	1|2|DET 2|9|ROOT 3|5|NSUBJ 4|5|OBJ 5|2|ACL-RELCL 6|5|ADVMOD 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+*CHI:	pra começar por aqui ?
+%mor:	sconj|pra verb|começar-Inf adp|por adv|aqui ?
+%gra:	1|2|MARK 2|4|ROOT 3|4|CASE 4|2|ADVMOD 5|2|PUNCT
+*INV:	pode [: podes] começar .
+%mor:	verb|poder-Fin-Ind-1-Pres verb|começar-Inf .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*CHI:	um dia os dois menino(s) (es)tavam brincando daí o outro que acordo ele levou um susto e o [/] o outro levou água na cara e o outro (es)tava dormindo .
+%com:	o pronome pessoal reto ele foi usado inadequadamente na função de objeto direto .
+%mor:	num|um noun|dia&Masc det|o-Def-Art num|dois noun|menino&Masc-Plur aux|estar-Fin-Plur-Ind-3-Imp verb|brincar-Ger adp|de~adv|aí det|o-Def-Art pron|outro-Ind-Acc-S1 sconj|que noun|acordo&Masc pron|ele-Prs-Nom-S3 verb|levar-Fin-Ind-3-Past det|um-Ind-Art noun|susto&Masc cconj|e det|o-Def-Art pron|outro-Ind-Acc-S1 verb|levar-Fin-Ind-3-Past noun|água&Fem adp|em~det|o-Def-Art noun|cara&Fem cconj|e det|o-Def-Art pron|outro-Ind-Acc-S1 aux|estar-Fin-Ind-3-Imp verb|dormir-Ger .
+%gra:	1|2|NUMMOD 2|7|OBL 3|5|DET 4|5|NUMMOD 5|7|NSUBJ 6|7|AUX 7|30|ROOT 8|9|CASE 9|7|ADVMOD 10|11|DET 11|7|OBJ 12|15|MARK 13|15|OBL 14|15|NSUBJ 15|7|CCOMP 16|17|DET 17|15|OBJ 18|21|CC 19|20|DET 20|21|NSUBJ 21|15|CONJ 22|21|OBJ 23|25|CASE 24|25|DET 25|21|OBL 26|30|CC 27|28|DET 28|30|NSUBJ 29|30|AUX 30|21|CONJ 31|7|PUNCT
+@End

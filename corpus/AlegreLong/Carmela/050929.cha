@@ -1,0 +1,118 @@
+@UTF8
+@PID:	11312/c-00030353-1
+@Begin
+@Languages:	por
+@Participants:	CHI Carmela Target_Child , INV Carla Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|5;09.29|female|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	26-NOV-1993
+@Types:	long, narrative, TD
+*INV:	eu quero que tu diga [: digas] pra mim todo o teu nome primeiro . 
+%mor:	pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 verb|dizer-Fin-Plur-Sub-1-Pres adp|pra pron|eu-Prs-Acc-S1 det|todo-Def-Tot det|o-Def-Art det|teu-Def-Prs noun|nome&Masc adj|primeiro-Pos-S-1 .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|7|CASE 7|5|OBL 8|11|DET 9|8|FIXED 10|11|DET 11|5|OBJ 12|11|AMOD 13|2|PUNCT
+*CHI:	Carmela Lastname . 
+%mor:	noun|Carmela&Fem noun|Lastname&ComNeut .
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*INV:	tá@i Carmela eu quero que tu conte [: contes] pra mim então uma historinha <que to> [//] aconteceu contigo nos últimos dias .
+%mor:	x|tá noun|Carmela&Fem pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 verb|cartir-Fin-Plur-Ind-1-Pres adp|pra pron|eu-Prs-Acc-S1 adv|então det|um-Ind-Art noun|historinha&Fem verb|acontecer-Fin-Ind-3-Past adv|contigo adp|em~det|o-Def-Art adj|último-Pos-P-1 noun|dia&Masc-Plur .
+%gra:	1|4|FLAT 2|1|APPOS 3|4|NSUBJ 4|18|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|9|CASE 9|7|OBL 10|13|ADVMOD 11|12|DET 12|13|NSUBJ 13|4|PARATAXIS 14|13|ADVMOD 15|18|CASE 16|18|DET 17|18|AMOD 18|13|OBL 19|4|PUNCT
+*CHI:	é que um dia eu fui no aniversário do meu colega ele ficou brincando com o cachorro da vó dele .
+%mor:	aux|ser-Inf sconj|que num|um noun|dia&Masc pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past adp|em~det|o-Def-Art noun|aniversário&Masc adp|de~det|o-Def-Art det|meu-Def-Prs noun|colega&Masc pron|ele-Prs-Nom-S3 verb|ficar-Fin-Ind-3-Past verb|brincar-Ger adp|com det|o-Def-Art noun|cachorro&Masc adp|de~det|o-Def-Art noun|vó&Fem adj|dele-Pos-S-1 .
+%gra:	1|6|DISCOURSE 2|1|FIXED 3|4|NUMMOD 4|6|OBL 5|6|NSUBJ 6|23|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|13|CASE 11|13|DET 12|13|DET 13|9|NMOD 14|15|NSUBJ 15|6|CONJ 16|15|XCOMP 17|19|CASE 18|19|DET 19|16|OBJ 20|22|CASE 21|22|DET 22|19|NMOD 23|22|AMOD 24|6|PUNCT
+*INV:	hmn@i (es)tava boa essa brincadeira com o cachorro ?
+%mor:	x|hmn aux|estar-Fin-Ind-3-Imp adj|bom-Pos-S-1 det|esse-Def-Dem noun|brincadeira&Fem adp|com det|o-Def-Art noun|cachorro&Masc ?
+%gra:	1|3|FLAT 2|3|COP 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*CHI:	(es)tava .
+%mor:	aux|estar-Fin-Ind-3-Imp .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<a gente> [/] a gente (es)tava correndo e ele ficava atrás da gente .
+%mor:	det|o-Def-Art noun|gente&Fem aux|estar-Fin-Ind-3-Imp verb|correr-Ger cconj|e pron|ele-Prs-Nom-S3 verb|ficar-Fin-Ind-3-Imp adv|atrás adp|de~det|o-Def-Art noun|gente&Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|7|CC 6|7|NSUBJ 7|4|CONJ 8|7|ADVMOD 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+*INV:	ah que legal !
+%mor:	intj|ah sconj|que adj|legal-Pos-S-1 !
+%gra:	1|3|ROOT 2|1|FIXED 3|1|XCOMP 4|1|PUNCT
+*INV:	que coisa boa !
+%mor:	det|que-Def-Int noun|coisa&Fem adj|bom-Pos-S-1 !
+%gra:	1|2|DET 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+*INV:	(en)tão (es)tava bom então brincar com o cachorro ?
+%mor:	adv|então aux|estar-Fin-Ind-3-Imp adj|bom-Pos-S-1 adv|então verb|brincar-Inf adp|com det|o-Def-Art noun|cachorro&Masc ?
+%gra:	1|3|ADVMOD 2|3|COP 3|8|ROOT 4|3|ADVMOD 5|3|CSUBJ 6|8|CASE 7|8|DET 8|5|OBJ 9|3|PUNCT
+*CHI:	0 .
+%com:	a criança responde positivamente com a cabeça .
+*INV:	como é que era o nome do cachorro ?
+%mor:	adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Imp det|o-Def-Art noun|nome&Masc adp|de~det|o-Def-Art noun|cachorro&Masc ?
+%gra:	1|4|ADVMOD 2|4|DISCOURSE 3|2|FIXED 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+*CHI:	não sei [= responde negativamente com a cabeça] .
+%mor:	adv|não verb|saber-Fin-Ind-1-Past .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*INV:	não lembra [: lembras] ?
+%mor:	adv|não verb|lembrar-Fin-Plur-Ind-1-Pres ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	0 .
+%com:	a criança responde negativamente com a cabeça .
+*INV:	tá@i ãhn@i Carmela tu me escreve [: escreves] essa historinha agora que tu me contou [: contaste] ?
+%mor:	x|tá x|ãhn noun|Carmela&Fem pron|tu-Prs-Nom-S1 pron|eu-Prs-Acc-S1 verb|escrever-Fin-Ind-1-Pres det|esse-Def-Dem noun|historinha&Fem adv|agora sconj|que pron|tu-Prs-Nom-S1 pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-1-Pres ?
+%gra:	1|6|FLAT 2|1|FLAT 3|1|APPOS 4|1|APPOS 5|6|IOBJ 6|13|ROOT 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|13|MARK 11|13|NSUBJ 12|13|OBJ 13|6|CCOMP 14|6|PUNCT
+*CHI:	vou desenhar .
+%mor:	aux|ir-Fin-Ind-1-Pres verb|desenhar-Inf .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+*INV:	tá@i pode ser (.) bota o teu nome lá no [/] no início da folha +/.
+%mor:	x|tá verb|poder-Fin-Ind-3-Pres aux|ser-Inf verb|botar-Fin-Ind-3-Pres det|o-Def-Art det|teu-Def-Prs noun|nome&Masc adv|lá adp|em~det|o-Def-Art noun|início&Masc adp|de~det|o-Def-Art noun|folha&Fem +/.
+%gra:	1|2|FLAT 2|14|ROOT 3|4|AUX 4|2|XCOMP 5|7|DET 6|7|DET 7|4|OBJ 8|4|ADVMOD 9|11|CASE 10|11|DET 11|4|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|2|PUNCT
+*CHI:	0 .
+%com:	a criança escreve o relato pessoal .
+*INV:	+, isso [!] (.) e me escreve a historinha .
+%com:	silêncio; o gravador é desligado e depois a filmagem é interrompida .
+%mor:	pron|isso-Dem-Acc-S1 cconj|e pron|eu-Prs-Acc-S1 verb|escrever-Fin-Ind-3-Pres det|o-Def-Art noun|historinha&Fem .
+%gra:	1|6|ROOT 2|4|CC 3|4|OBJ 4|1|CONJ 5|6|DET 6|4|NSUBJ 7|1|PUNCT
+*INV:	deu ?
+%mor:	verb|dar-Fin-Ind-3-Past ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 .
+%com:	a criança responde positivamente com a cabeça .
+*INV:	tá@i então agora eu quero que tu me leia [: leias] essa história então .
+%mor:	x|tá adv|então adv|agora pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 pron|eu-Prs-Acc-S1 verb|lazer-Fin-Plur-Sub-3-Pres det|esse-Def-Dem noun|história&Fem adv|então .
+%gra:	1|5|FLAT 2|5|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|12|ROOT 6|9|MARK 7|9|NSUBJ 8|9|IOBJ 9|5|CCOMP 10|11|DET 11|9|OBJ 12|9|ADVMOD 13|5|PUNCT
+*CHI:	aqui [= aponta para o desenho] (es)tá [/] (es)tá ele correndo atrás do cachorro o [/] o cachorro (es)tá correndo atrás de nós .
+%mor:	adv|aqui aux|estar-Fin-Ind-3-Pres pron|ele-Prs-Nom-S3 verb|correr-Ger adv|atrás adp|de~det|o-Def-Art noun|cachorro&Masc det|o-Def-Art noun|cachorro&Masc aux|estar-Fin-Ind-3-Pres verb|correr-Ger adv|atrás adp|de pron|nós-Prs-Acc-P1 .
+%gra:	1|4|ADVMOD 2|12|AUX 3|4|NSUBJ 4|12|ADVCL 5|4|ADVMOD 6|8|CASE 7|8|DET 8|5|OBL 9|10|DET 10|12|NSUBJ 11|12|AUX 12|15|ROOT 13|12|ADVMOD 14|15|CASE 15|13|OBL 16|12|PUNCT
+*INV:	um cachorro (es)tá correndo atrás de ti ?
+%mor:	det|um-Ind-Art noun|cachorro&Masc aux|estar-Fin-Ind-3-Pres verb|correr-Ger adv|atrás adp|de pron|tu-Prs-Acc-S2 ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|ADVMOD 6|7|CASE 7|5|OBL 8|4|PUNCT
+*CHI:	0 .
+%com:	a criança responde positivamente com a cabeça .
+*INV:	ah (es)tá bom então (es)tá bom deixa eu pegar aqui pra mim [= guarda a folha] .
+%mor:	adv|ah aux|estar-Fin-Ind-3-Pres adj|bom-Pos-S-1 adv|então aux|estar-Fin-Ind-3-Pres adj|bom-Pos-S-1 verb|deixar-Fin-Ind-3-Pres pron|eu-Prs-Nom-S1 verb|pegar-Inf adv|aqui adp|pra pron|eu-Prs-Acc-S1 .
+%gra:	1|3|ADVMOD 2|3|COP 3|12|ROOT 4|6|ADVMOD 5|6|COP 6|3|PARATAXIS 7|3|CSUBJ 8|9|NSUBJ 9|7|CCOMP 10|9|ADVMOD 11|12|CASE 12|9|OBL 13|3|PUNCT
+*INV:	ãhn@i eu quero agora que tu me conte [: contes] ãhn@i essa historinha aqui ó [= mostra a história em seqüência] me diz [: dize] o que que (es)tá acontecendo aqui ó deixa ela aqui em cima deixa a historinha aqui em cima [= põe a historinha em cima da mesa] pra [/] pra tia Lia <pegar e a historinha> [//] pegar o [//] os desenho(s) [>] .
+%mor:	x|ãhn pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres adv|agora sconj|que pron|tu-Prs-Nom-S1 pron|eu-Prs-Acc-S1 verb|cartir-Fin-Ind-1-Pres x|ãhn det|esse-Def-Dem noun|historinha&Fem adv|aqui pron|ó-Prs-Nom-S1 pron|eu-Prs-Acc-S1 verb|dizer-Fin-Ind-3-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|que-Rel-Acc-S1 aux|estar-Fin-Ind-3-Pres verb|acontecer-Ger adv|aqui pron|ó-Prs-Nom-S1 verb|deixar-Fin-Ind-3-Pres pron|ela-Prs-Acc-S3 adv|aqui adp|em noun|cima&Fem verb|deixar-Fin-Ind-3-Pres det|o-Def-Art noun|historinha&Fem adv|aqui adp|em noun|cima&Fem adp|pra noun|tia&Fem noun|Lia&Fem verb|pegar-Inf-3 det|o-Def-Art noun|desenho&Masc-Plur .
+%gra:	1|3|FLAT 2|3|NSUBJ 3|39|ROOT 4|3|ADVMOD 5|8|MARK 6|8|NSUBJ 7|8|OBJ 8|3|CCOMP 9|15|FLAT 10|11|DET 11|15|NSUBJ 12|15|ADVMOD 13|15|NSUBJ 14|15|IOBJ 15|3|CONJ 16|15|OBJ 17|20|OBJ 18|20|NSUBJ 19|20|AUX 20|16|ACL-RELCL 21|20|ADVMOD 22|23|NSUBJ 23|3|CONJ 24|23|OBJ 25|23|ADVMOD 26|27|CASE 27|25|OBL 28|3|PARATAXIS 29|30|DET 30|28|OBJ 31|28|ADVMOD 32|33|CASE 33|31|NMOD 34|35|CASE 35|28|OBL 36|37|NSUBJ 37|35|ACL 38|39|DET 39|37|OBJ 40|3|PUNCT
+*CHI:	aqui [= aponta para a figura] [<] ele (es)tá atirando uma flecha e aí o menino ãhn@i atirou aqui [= aponta para a figura] no quadro .
+%mor:	adv|aqui pron|ele-Prs-Nom-S3 aux|estar-Fin-Ind-3-Pres verb|atirar-Ger det|um-Ind-Art noun|flecha&Fem cconj|e adv|aí det|o-Def-Art noun|menino&Masc x|ãhn verb|atirar-Fin-Ind-3-Past adv|aqui adp|em~det|o-Def-Art noun|quadro&Masc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|6|DET 6|4|OBJ 7|12|CC 8|12|ADVMOD 9|10|DET 10|12|NSUBJ 11|10|FLAT 12|4|CONJ 13|12|ADVMOD 14|16|CASE 15|16|DET 16|12|OBL 17|4|PUNCT
+*INV:	ah (es)tá ok então .
+%mor:	intj|ah aux|estar-Fin-Ind-3-Pres adj|ok-Pos-S-1 adv|então .
+%gra:	1|3|DISCOURSE 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*INV:	e me conta mais uma coisa eu quero que tu me conte [: contes] uma história (.) me conta uma história que tu saiba [: saibas] (.) uma historinha que a professora contou .
+%mor:	cconj|e pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres adv|mais num|um noun|coisa&Fem pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres sconj|que pron|tu-Prs-Nom-S1 pron|eu-Prs-Acc-S1 verb|cartir-Fin-Ind-1-Pres det|um-Ind-Art noun|história&Fem pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres det|um-Ind-Art noun|história&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 verb|sair-Fin-Plur-Ind-1-Pres det|um-Ind-Art noun|historinha&Fem pron|que-Rel-Acc-S1 det|o-Def-Art noun|professora&Fem verb|contar-Fin-Ind-3-Past .
+%gra:	1|3|CC 2|3|OBJ 3|27|ROOT 4|5|ADVMOD 5|6|NUMMOD 6|3|OBJ 7|8|NSUBJ 8|3|CCOMP 9|12|MARK 10|12|NSUBJ 11|12|OBJ 12|8|CCOMP 13|14|DET 14|12|OBJ 15|16|IOBJ 16|8|CCOMP 17|18|DET 18|16|OBJ 19|21|OBJ 20|21|NSUBJ 21|18|ACL-RELCL 22|23|DET 23|21|OBJ 24|27|OBJ 25|26|DET 26|27|NSUBJ 27|23|ACL-RELCL 28|3|PUNCT
+*CHI:	um dia “Os Três Porquinhos” (es)tavam passeando na floresta .
+%mor:	num|um noun|dia&Masc det|o-Def-Art noun|Três&Masc-Plur noun|Porquinhos&ComNeut aux|estar-Fin-Plur-Ind-3-Imp verb|passear-Ger adp|em~det|o-Def-Art noun|floresta&Fem .
+%gra:	1|2|NUMMOD 2|7|OBL 3|4|DET 4|7|NSUBJ 5|4|FLAT-NAME 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*INV:	hmn@i pode ser agora só fala bem alto tá@i ?
+%mor:	x|hmn verb|poder-Fin-Ind-3-Pres aux|ser-Inf adv|agora adv|só verb|falar-Fin-Ind-3-Pres adv|bem adj|alto-Pos-S-1 x|tá ?
+%gra:	1|2|FLAT 2|9|ROOT 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|2|XCOMP 7|8|ADVMOD 8|9|AMOD 9|6|FLAT 10|2|PUNCT
+*CHI:	“Os Três Porquinhos” (es)tavam passeando na floresta encontraram o lobo e o [/] o lobo queria comer “Os Três Porquinhos” xxx .
+%mor:	det|o-Def-Art noun|Três&Masc-Plur noun|Porquinhos&ComNeut aux|estar-Fin-Plur-Ind-3-Imp verb|passear-Ger adp|em~det|o-Def-Art noun|floresta&Fem verb|encontrar-Fin-Plur-Ind-3-Past det|o-Def-Art noun|lobo&Masc cconj|e det|o-Def-Art noun|lobo&Masc verb|querer-Fin-Ind-3-Imp verb|comer-Inf noun|Os&Masc-Plur noun|Três&ComNeut noun|Porquinhos&ComNeut .
+%gra:	1|2|DET 2|5|NSUBJ 3|2|FLAT-NAME 4|5|AUX 5|19|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|CONJ 10|11|DET 11|9|OBJ 12|15|CC 13|14|DET 14|15|NSUBJ 15|5|CONJ 16|15|XCOMP 17|16|OBJ 18|17|FLAT-NAME 19|17|FLAT-NAME 20|5|PUNCT
+*INV:	hmn@i e daí o que aconteceu ?
+%mor:	x|hmn cconj|e adp|de~adv|aí pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 verb|acontecer-Fin-Ind-3-Past ?
+%gra:	1|7|FLAT 2|4|CC 3|4|CASE 4|1|CONJ 5|1|PARATAXIS 6|7|NSUBJ 7|5|ACL-RELCL 8|1|PUNCT
+*CHI:	aí <os porq> [//] <o lobo> [//] ãhn@i <o lo> [/] <o lo> [//] “Os Três Porquinhos” começaram xxx .
+%mor:	adv|aí x|ãhn det|o-Def-Art noun|Três&Masc noun|Porquinhos&ComNeut verb|começar-Fin-Plur-Ind-3-Past .
+%gra:	1|6|ADVMOD 2|6|FLAT 3|4|DET 4|6|NSUBJ 5|4|FLAT-NAME 6|6|ROOT 7|6|PUNCT
+*INV:	hmn@i <ai@i que legal> [!] que legal (o)brigada .
+%mor:	x|hmn x|ai pron|que-Rel-Acc-S1 adj|legal-Pos-S-1 sconj|que adj|legal-Pos-S-1 adj|obrigado-Pos-S-1 .
+%gra:	1|7|FLAT 2|1|FLAT 3|4|NSUBJ 4|1|ACL-RELCL 5|6|MARK 6|4|AMOD 7|4|ADVCL 8|1|PUNCT
+@End

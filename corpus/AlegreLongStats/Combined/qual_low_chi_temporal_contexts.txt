@@ -1,0 +1,41 @@
+Contextos de Expressões Temporais para Sessões de CHI Extrema
+
+--- Criança: Alexandra, Arquivo: 080519.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Camila, Arquivo: 050116.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Camila, Arquivo: 041114.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Carmela, Arquivo: 060305.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Matheus, Arquivo: 080602.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Matheus, Arquivo: 080907.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Matheus, Arquivo: 060203.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Matheus, Arquivo: 060813.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Matheus, Arquivo: 090002.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Gabriel, Arquivo: 090017.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Gabriel, Arquivo: 080911.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Gabriel, Arquivo: 061122.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+
+--- Criança: Natalia, Arquivo: 051025.cha, Freq CHI: 0.00 ---
+  Nenhum contexto de expressão temporal encontrado para esta sessão.
+

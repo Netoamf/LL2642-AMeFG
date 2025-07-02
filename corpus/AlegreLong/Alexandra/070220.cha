@@ -1,0 +1,249 @@
+@UTF8
+@PID:	11312/c-00030339-1
+@Begin
+@Languages:	por
+@Participants:	CHI Alexandra Target_Child , INV Ana Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|7;02.20|female|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	07-NOV-1994
+@Types:	long, narrative, TD
+*CHI:	meu nome é Alexandra . 
+%mor:	det|meu-Def-Prs noun|nome&Masc aux|ser-Fin-Ind-3-Pres noun|Alexandra&Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*INV:	fala um pouquinho mais alto . 
+%mor:	verb|falar-Fin-Ind-3-Pres det|um-Ind-Art noun|pouquinho&Masc adv|mais adj|alto-Pos-S-1 .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|ADVMOD 5|3|AMOD 6|1|PUNCT
+*CHI:	meu nome é Alexandra e ãhn@i eu ontem eu (es)tava jogando bola eu pisei na bola escorreguei e fiquei com um corte no joelho .
+%mor:	det|meu-Def-Prs noun|nome&Masc aux|ser-Fin-Ind-3-Pres noun|Alexandra&Fem cconj|e x|ãhn pron|eu-Prs-Nom-S1 adv|ontem pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Imp verb|jogar-Ger noun|bola&Fem pron|eu-Prs-Nom-S1 verb|pisar-Fin-Ind-1-Past adp|em~det|o-Def-Art noun|bola&Fem verb|escorregar-Fin-Ind-1-Past cconj|e verb|ficar-Fin-Ind-1-Past adp|com det|um-Ind-Art noun|corte&Masc adp|em~det|o-Def-Art noun|joelho&Masc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|26|ROOT 5|11|CC 6|11|FLAT 7|11|NSUBJ 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|4|CONJ 12|11|OBJ 13|14|NSUBJ 14|4|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|4|CONJ 19|20|CC 20|18|CONJ 21|23|CASE 22|23|DET 23|20|OBJ 24|26|CASE 25|26|DET 26|23|NMOD 27|4|PUNCT
+*INV:	sangrou bastante ?
+%mor:	verb|sangrar-Fin-Ind-3-Past adv|bastante ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	0 .
+%com:	a criança mostra o joelho machucado .
+*INV:	ai@i que grande teve que ir no hospital levar ponto ou não ?
+%mor:	x|ai pron|que-Rel-Acc-S1 adj|grande-Pos-S-1 aux|ter-Fin-Ind-3-Past sconj|que verb|ir-Inf adp|em~det|o-Def-Art noun|hospital&Masc verb|levar-Inf noun|ponto&Masc cconj|ou intj|não ?
+%gra:	1|13|FLAT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|AUX 5|6|MARK 6|1|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVCL 11|10|OBJ 12|13|CC 13|11|CONJ 14|1|PUNCT
+*CHI:	não .
+%mor:	intj|não .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eu (es)tava com mercúrio e band-aid@s:eng .
+%mor:	pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Imp adp|com noun|mercúrio&Masc cconj|e noun|band-xbxxx&Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|6|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+*INV:	já colocaste o quê ?
+%mor:	adv|já verb|colocar-Fin-Ind-1-Pres pron|o-Dem-Acc-S1 pron|quê-Rel-Acc-S1 ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	fala um pouquinho mais perto . [+ bch]
+%mor:	verb|falar-Fin-Ind-3-Pres det|um-Ind-Art noun|pouquinho&Masc adv|mais adv|perto .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|ADVMOD 5|1|ADVMOD 6|1|PUNCT
+*CHI:	um mercúrio e band-aid@s:eng .
+%mor:	det|um-Ind-Art noun|mercúrio&Masc cconj|e noun|band-xbxxx&Masc .
+%gra:	1|2|DET 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*INV:	então tá@i .
+%mor:	adv|então x|tá .
+%gra:	1|2|ADVMOD 2|2|FLAT 3|2|PUNCT
+*INV:	ãhn@i escreve [: escreva] pra mim agora teu nome e como é que foi o teu machucado de ontem .
+%mor:	x|ãhn verb|escrever-Fin-Sub-3-Pres adp|pra pron|eu-Prs-Acc-S1 adv|agora det|teu-Def-Prs noun|nome&Masc cconj|e adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Past det|o-Def-Art det|teu-Def-Prs noun|machucado&Masc adp|de adv|ontem .
+%gra:	1|2|FLAT 2|17|ROOT 3|4|CASE 4|2|OBL 5|2|ADVMOD 6|7|DET 7|2|OBJ 8|12|CC 9|12|ADVMOD 10|12|DISCOURSE 11|10|FIXED 12|2|CONJ 13|15|DET 14|15|DET 15|12|NSUBJ 16|17|CASE 17|15|ADVMOD 18|2|PUNCT
+*CHI:	eu (es)tava jogando bola e fui na bola e rolei no chão e machuquei [>] meu joelho .
+%mor:	pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Imp verb|jogar-Ger noun|bola&Fem cconj|e aux|ser-Fin-Ind-1-Past adp|em~det|o-Def-Art noun|bola&Fem cconj|e verb|rolar-Fin-Ind-1-Past adp|em~det|o-Def-Art noun|chão&Masc cconj|e verb|machuar-Fin-Ind-1-Past det|meu-Def-Prs noun|joelho&Masc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|18|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|3|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|16|CC 16|3|CONJ 17|18|DET 18|16|OBJ 19|3|PUNCT
+*INV:	tira a mão da boca [<] .
+%mor:	verb|tirar-Fin-Ind-3-Pres det|o-Def-Art noun|mão&Fem adp|de~det|o-Def-Art noun|boca&Fem .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+*INV:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	quer [: queres] desenhar agora rapidinho ?
+%mor:	verb|querer-Fin-Ind-1-Pres verb|desenhar-Inf adv|agora noun|rapidinho&Masc ?
+%gra:	1|4|ROOT 2|1|XCOMP 3|2|ADVMOD 4|2|OBJ 5|1|PUNCT
+*CHI:	uh^hum@i .
+%mor:	x|uhhum .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	0 .
+%com:	a criança responde positivamente com a cabeça .
+*INV:	desenha rapidinho .
+%com:	a criança escreve o relato pessoal .
+%mor:	verb|desenhar-Fin-Ind-3-Pres noun|rapidinho&Masc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	o que que é isso que tu (es)tá [: estás] desenhando agora ?
+%mor:	pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 sconj|que aux|ser-Fin-Ind-3-Pres pron|isso-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|tu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres verb|desenhar-Ger adv|agora ?
+%gra:	1|2|DET 2|10|ROOT 3|2|PARATAXIS 4|5|COP 5|2|NSUBJ 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|9|ADVMOD 11|2|PUNCT
+*CHI:	uma bola .
+%mor:	det|um-Ind-Art noun|bola&Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	hmn@i .
+%mor:	x|hmn .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	conta pra mim alguma historinha que te contaram enquanto tu vai [: vais] desenhando .
+%mor:	noun|conta&Fem adp|pra pron|eu-Prs-Acc-S1 det|algum-Def-Ind noun|historinha&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Acc-S1 verb|contar-Fin-Plur-Ind-3-Past adv|enquanto pron|tu-Prs-Nom-S1 verb|ir-Fin-Ind-1-Pres verb|desenhar-Ger .
+%gra:	1|12|ROOT 2|3|CASE 3|1|NMOD 4|5|DET 5|1|NSUBJ 6|8|NSUBJ 7|8|OBJ 8|5|ACL-RELCL 9|11|ADVMOD 10|11|NSUBJ 11|8|ADVCL 12|11|ADVCL 13|1|PUNCT
+*CHI:	ãh^hã@i .
+%mor:	x|ãhhã .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	era uma vez uma linda bruxinha que era muito bonita e ainda não tinha visto ela adorava catar todo o dela aí ela foi no castelo da bruxa que era um castelo mágico e entrou e ela disse +"/.
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art adj|lindo-Pos-S-1 noun|bruxinha&Fem pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Imp adv|muito adj|bonito-Pos-S-1 cconj|e adv|ainda adv|não aux|ter-Fin-Ind-3-Imp verb|ver-Part pron|ela-Prs-Acc-S3 verb|adorar-Fin-Ind-3-Imp verb|catar-Inf det|todo-Def-Tot pron|o-Dem-Acc-S1 adp|de~pron|ela-Prs-Acc-S3 adv|aí pron|ela-Prs-Nom-S3 verb|ir-Fin-Ind-3-Past adp|em~det|o-Def-Art noun|castelo&Masc adp|de~det|o-Def-Art noun|bruxa&Fem pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|castelo&Masc adj|mágico-Pos-S-1 cconj|e verb|entrar-Fin-Ind-3-Past cconj|e pron|ela-Prs-Nom-S3 verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|6|COP 2|3|DET 3|6|NMOD 4|6|DET 5|6|AMOD 6|41|ROOT 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|6|ACL-RELCL 11|15|CC 12|13|ADVMOD 13|15|ADVMOD 14|15|AUX 15|10|CONJ 16|15|OBJ 17|6|ACL-RELCL 18|17|XCOMP 19|20|DET 20|18|OBJ 21|22|CASE 22|20|NMOD 23|25|ADVMOD 24|25|NSUBJ 25|17|CONJ 26|28|CASE 27|28|DET 28|25|OBL 29|31|CASE 30|31|DET 31|28|NMOD 32|35|NSUBJ 33|35|COP 34|35|DET 35|28|ACL-RELCL 36|35|AMOD 37|38|CC 38|35|CONJ 39|41|CC 40|41|NSUBJ 41|35|CONJ 42|6|PUNCT
+*CHI:	+" ai meu Deus entrei aí ela fez a gente entrar (.) ela não conseguiu fugir .
+%mor:	intj|ai intj|meu intj|deus verb|entrar-Fin-Ind-1-Past adv|aí pron|ela-Prs-Nom-S3 verb|fazer-Fin-Ind-3-Past det|o-Def-Art noun|gente&Fem verb|entrar-Inf-3 pron|ela-Prs-Acc-S3 adv|não verb|conseguir-Fin-Ind-3-Past verb|fugir-Inf .
+%gra:	1|4|DISCOURSE 2|1|FIXED 3|1|FIXED 4|14|ROOT 5|4|ADVMOD 6|7|NSUBJ 7|4|PARATAXIS 8|9|DET 9|10|NSUBJ 10|7|CCOMP 11|10|OBJ 12|13|ADVMOD 13|4|CONJ 14|13|XCOMP 15|4|PUNCT
+*CHI:	e a bruxa pegou ele e xxx dizendo +"/.
+%mor:	cconj|e det|o-Def-Art noun|bruxa&Fem verb|pegar-Fin-Ind-3-Past pron|ele-Prs-Acc-S3 cconj|e verb|dizer-Ger +"/.
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|CC 7|4|CONJ 8|4|PUNCT
+*CHI:	+" eu vou pegar a menininha para escrava minha .
+%mor:	pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|pegar-Inf det|o-Def-Art noun|menininha&Fem adp|para adj|escravo-Pos-S-1 det|meu-Def-Prs .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|7|DET 9|3|PUNCT
+*CHI:	e aí a mãe falou +"/.
+%mor:	cconj|e adv|aí det|o-Def-Art noun|mãe&Fem verb|falar-Fin-Ind-3-Past +"/.
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	+" eu não vou deixar não vou deixar isso .
+%mor:	pron|eu-Prs-Nom-S1 adv|não aux|ir-Fin-Ind-1-Pres verb|deixar-Inf adv|não aux|ir-Fin-Ind-1-Pres verb|deixar-Inf pron|isso-Dem-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|AUX 4|8|ROOT 5|7|ADVMOD 6|7|AUX 7|4|CCOMP 8|7|OBJ 9|4|PUNCT
+*CHI:	+" é pro [: para o] bem de tua filha .
+%mor:	aux|ser-Fin-Ind-3-Pres adp|para det|o-Def-Art noun|bem&Masc adp|de det|teu-Def-Prs noun|filha&Fem .
+%gra:	1|4|COP 2|4|CASE 3|4|DET 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*CHI:	aí (.) ela [//] daí a bruxa insistiu [/] insistiu e aí ela acabou deixando a Rapunzel mesmo ela não tinha dado nome ainda <pra Rap> [//] pra a menininha que nasceu aí a bruxa falou depois +"/.
+%mor:	adv|aí adp|de~adv|aí det|o-Def-Art noun|bruxa&Fem verb|insistir-Fin-Ind-3-Past cconj|e adv|aí pron|ela-Prs-Nom-S3 verb|acabar-Fin-Ind-3-Past verb|deixar-Ger adp|a noun|Rapunzel&Fem adv|mesmo pron|ela-Prs-Acc-S3 adv|não aux|ter-Fin-Ind-3-Imp verb|dar-Part noun|nome&Masc adv|ainda adp|pra det|o-Def-Art noun|menininha&Fem pron|que-Rel-Acc-S1 verb|nascer-Fin-Ind-3-Past adv|aí det|o-Def-Art noun|bruxa&Fem verb|falar-Fin-Ind-3-Past adv|depois +"/.
+%gra:	1|6|ADVMOD 2|3|CASE 3|1|OBL 4|5|DET 5|6|NSUBJ 6|30|ROOT 7|11|CC 8|11|ADVMOD 9|10|NSUBJ 10|6|CONJ 11|10|XCOMP 12|13|CASE 13|11|IOBJ 14|18|ADVMOD 15|18|NSUBJ 16|18|ADVMOD 17|18|AUX 18|11|CCOMP 19|18|OBJ 20|23|ADVMOD 21|23|CASE 22|23|DET 23|18|OBL 24|25|NSUBJ 25|23|ACL-RELCL 26|25|ADVMOD 27|28|DET 28|29|NSUBJ 29|23|ACL-RELCL 30|29|ADVMOD 31|6|PUNCT
+*CHI:	+" teu nome vai ser Rapunzel tá@i bom menina ?
+%mor:	det|teu-Def-Prs noun|nome&Masc aux|ir-Fin-Ind-3-Pres aux|ser-Inf noun|Rapunzel&Fem x|tá adj|bom-Pos-S-1 noun|menina&Fem ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|COP 5|8|ROOT 6|5|FLAT 7|8|AMOD 8|5|NMOD 9|5|PUNCT
+*CHI:	+" tá@i .
+%mor:	x|tá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	a menina era pra ser escrava da bruxa mas como ela não podia falar com a mãe dela aí a bruxa levou ela pra uma torre bem alta que tinha porta e uma janelinha lá em cima aí plim@g ela [/] ela plim@o a porta desapareceu plim@o a outra desapareceu aí ela foi bem [/] bem sossegada né@i ?
+%mor:	det|o-Def-Art noun|menina&Fem verb|ser-Fin-Ind-3-Imp sconj|pra aux|ser-Inf adj|escravo-Pos-S-1 adp|de~det|o-Def-Art noun|bruxa&Fem cconj|mas adv|como pron|ela-Prs-Nom-S3 adv|não verb|poder-Fin-Ind-3-Imp verb|falar-Inf adp|com det|o-Def-Art noun|mãe&Fem adp|de~pron|ela-Prs-Acc-S3 adv|aí det|o-Def-Art noun|bruxa&Fem verb|levar-Fin-Ind-3-Past pron|ela-Prs-Acc-S3 adp|pra det|um-Ind-Art noun|torre&Fem adv|bem adj|alto-Pos-S-1 pron|que-Rel-Acc-S1 verb|ter-Fin-Ind-3-Imp noun|porta&Fem cconj|e det|um-Ind-Art noun|janelinha&Fem adv|lá adp|em noun|cima&Fem adv|aí x|plim pron|ela-Prs-Acc-S3 x|plim det|o-Def-Art noun|porta&Fem verb|desaparecer-Fin-Ind-3-Past x|plim adp|a pron|outro-Ind-Acc-S1 verb|desaparecer-Fin-Ind-3-Past adv|aí pron|ela-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past adv|bem adj|sossegado-Pos-S-1 x|né ?
+%gra:	1|2|DET 2|3|NSUBJ 3|56|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|14|CC 11|14|ADVMOD 12|14|NSUBJ 13|14|ADVMOD 14|3|CONJ 15|14|XCOMP 16|18|CASE 17|18|DET 18|15|OBJ 19|20|CASE 20|18|NMOD 21|24|ADVMOD 22|23|DET 23|24|NSUBJ 24|15|CCOMP 25|24|OBJ 26|28|CASE 27|28|DET 28|24|IOBJ 29|30|ADVMOD 30|28|AMOD 31|32|NSUBJ 32|28|ACL-RELCL 33|32|OBJ 34|36|CC 35|36|DET 36|33|CONJ 37|32|ADVMOD 38|39|CASE 39|37|OBL 40|46|ADVMOD 41|46|FLAT 42|46|NSUBJ 43|42|FLAT 44|45|DET 45|46|NSUBJ 46|32|CONJ 47|46|FLAT 48|49|CASE 49|46|OBL 50|46|CONJ 51|50|ADVMOD 52|55|NSUBJ 53|55|COP 54|55|ADVMOD 55|50|ADVCL 56|55|FLAT 57|3|PUNCT
+*INV:	aí ?
+%mor:	adv|aí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	aí ela foi levada pra casa e ela conseguiu sair da torre né@i porque essas portas de bruxa não duram quase nada daí ela foi lá e perguntou +"/.
+%mor:	adv|aí pron|ela-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past verb|levar-Part adp|pra noun|casa&Fem cconj|e pron|ela-Prs-Nom-S3 verb|conseguir-Fin-Ind-3-Past verb|sair-Inf adp|de~det|o-Def-Art noun|torre&Fem x|né sconj|porque det|esse-Def-Dem noun|porta&Fem-Plur adp|de noun|bruxa&Fem adv|não verb|durar-Fin-Plur-Ind-3-Pres adv|quase pron|nada-Ind-Acc-S1 adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|ir-Fin-Ind-3-Past adv|lá cconj|e verb|perguntar-Fin-Ind-3-Past +"/.
+%gra:	1|4|ADVMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|30|ROOT 5|6|CASE 6|4|OBL 7|9|CC 8|9|NSUBJ 9|4|CONJ 10|9|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|13|FLAT 15|21|MARK 16|17|DET 17|21|NSUBJ 18|19|CASE 19|17|NMOD 20|21|ADVMOD 21|9|ADVCL 22|23|ADVMOD 23|21|OBJ 24|25|CASE 25|23|ADVMOD 26|27|NSUBJ 27|4|PARATAXIS 28|30|ADVMOD 29|30|CC 30|27|CONJ 31|4|PUNCT
+*CHI:	+" Rapunzel joga suas tranças !
+%mor:	noun|Rapunzel&Fem verb|jogar-Fin-Ind-3-Pres det|seu-Def-Prs noun|trança&Fem-Plur !
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	ela pediu pra uma duas três cinco vezes e viu que as portas estavam abertas mas quando ela olhou ela furiosa e foi procurar Rapunzel .
+%mor:	pron|ela-Prs-Nom-S3 verb|pedir-Fin-Ind-3-Past adp|pra num|um num|dois num|três num|cinco noun|vez&Fem-Plur cconj|e verb|ver-Fin-Ind-3-Past sconj|que det|o-Def-Art noun|porta&Fem-Plur aux|estar-Fin-Plur-Ind-3-Imp adj|aberto-Pos-P-1 cconj|mas adv|quando pron|ela-Prs-Nom-S3 verb|olhar-Fin-Ind-3-Past pron|ela-Prs-Acc-S3 adj|furioso-Pos-S-1 cconj|e aux|ser-Fin-Ind-3-Past verb|procurar-Inf noun|Rapunzel&Fem .
+%gra:	1|2|NSUBJ 2|25|ROOT 3|4|CASE 4|8|NUMMOD 5|8|NUMMOD 6|8|NUMMOD 7|8|NUMMOD 8|2|OBL 9|10|CC 10|2|CONJ 11|15|MARK 12|13|DET 13|15|NSUBJ 14|15|COP 15|10|CCOMP 16|19|CC 17|19|ADVMOD 18|19|NSUBJ 19|15|CONJ 20|19|OBJ 21|20|AMOD 22|24|CC 23|24|COP 24|19|CONJ 25|24|OBJ 26|2|PUNCT
+*CHI:	+" Rapunzel [/] Rapunzel aonde é que tu te meteu [: meteste] ?
+%mor:	noun|Rapunzel&Fem adv|aonde aux|ser-Inf sconj|que pron|tu-Prs-Acc-S2 pron|tu-Prs-Acc-S1 verb|meter-Fin-Ind-1-Pres ?
+%gra:	1|7|NSUBJ 2|7|ADVMOD 3|7|DISCOURSE 4|3|FIXED 5|7|OBJ 6|7|OBJ 7|7|ROOT 8|7|PUNCT
+*CHI:	aí o príncipe que ouviu encontrou a Rapunzel e a mãe dele (es)tava procurando ele e daí o nome dele era Romeu aí a mãe dele falou para ele +"/.
+%mor:	adv|aí det|o-Def-Art noun|príncipe&Masc pron|que-Rel-Acc-S1 verb|ouvir-Fin-Ind-3-Past verb|encontrar-Fin-Ind-3-Past adp|a noun|Rapunzel&Fem cconj|e det|o-Def-Art noun|mãe&Fem adp|de~pron|ele-Prs-Acc-S3 aux|estar-Fin-Ind-3-Imp verb|procurar-Ger pron|ele-Prs-Acc-S3 cconj|e adp|de~adv|aí det|o-Def-Art noun|nome&Masc adp|de~pron|ele-Prs-Acc-S3 aux|ser-Fin-Ind-3-Imp noun|Romeu&Masc adv|aí det|o-Def-Art noun|mãe&Fem adp|de~pron|ele-Prs-Nom-S3 verb|falar-Fin-Ind-3-Past adp|para pron|ele-Prs-Acc-S3 +"/.
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|33|ROOT 7|8|CASE 8|6|OBJ 9|15|CC 10|11|DET 11|15|NSUBJ 12|13|CASE 13|11|NMOD 14|15|AUX 15|6|CONJ 16|15|OBJ 17|25|CC 18|19|CASE 19|25|ADVMOD 20|21|DET 21|25|NSUBJ 22|23|CASE 23|21|NMOD 24|25|COP 25|6|CONJ 26|25|ADVMOD 27|28|DET 28|31|NSUBJ 29|30|CASE 30|28|NMOD 31|25|ACL-RELCL 32|33|CASE 33|31|OBJ 34|6|PUNCT
+*CHI:	+" Romeu [/] Romeu filho meu aonde é que você se meteu ?
+%mor:	intj|romeu intj|filho intj|meu adv|aonde aux|ser-Inf sconj|que pron|você-Prs-Nom-S3 pron|se-Prs-Acc-S3 verb|meter-Fin-Ind-3-Past ?
+%gra:	1|9|DISCOURSE 2|1|FIXED 3|5|FIXED 4|9|ADVMOD 5|9|DISCOURSE 6|5|FIXED 7|9|NSUBJ 8|9|EXPL 9|9|ROOT 10|9|PUNCT
+*CHI:	aí ele falou +"/.
+%mor:	adv|aí pron|ele-Prs-Nom-S3 verb|falar-Fin-Ind-3-Past +"/.
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	+" mamãe é que eu (es)tou aqui na floresta não vou ficar com problemas .
+%mor:	noun|mamãe&Fem aux|ser-Inf sconj|que pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres adv|aqui adp|em~det|o-Def-Art noun|floresta&Fem adv|não aux|ir-Fin-Ind-1-Pres verb|ficar-Inf adp|com noun|problema&Masc-Plur .
+%gra:	1|6|NSUBJ 2|6|DISCOURSE 3|2|FIXED 4|6|NSUBJ 5|6|COP 6|14|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|12|ADVMOD 11|12|AUX 12|6|ADVCL 13|14|CASE 14|12|OBJ 15|6|PUNCT
+*CHI:	+" (es)tá bom filho !
+%mor:	aux|estar-Fin-Ind-3-Pres adj|bom-Pos-S-1 noun|filho&Masc !
+%gra:	1|2|COP 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+*CHI:	aí ela pegou o filho dela assim na mão que aí ele espiou ninguém olhou pra porta secreta a porta secreta se abriu e a bruxa pegou o príncipe aí ela falou +"/.
+%mor:	adv|aí pron|ela-Prs-Nom-S3 verb|pegar-Fin-Ind-3-Past det|o-Def-Art noun|filho&Masc adp|de~pron|ela-Prs-Acc-S3 adv|assim adp|em~det|o-Def-Art noun|mão&Fem pron|que-Rel-Acc-S1 adv|aí pron|ele-Prs-Nom-S3 verb|espiar-Fin-Ind-3-Past pron|ninguém-Ind-Acc-S1 verb|olhar-Fin-Ind-3-Past adp|pra noun|porta&Fem adj|secreto-Pos-S-1 det|o-Def-Art noun|porta&Fem adj|secreto-Pos-S-1 pron|se-Prs-Acc-S3 verb|abrir-Fin-Ind-3-Past cconj|e det|o-Def-Art noun|bruxa&Fem verb|pegar-Fin-Ind-3-Past det|o-Def-Art noun|príncipe&Masc adv|aí pron|ela-Prs-Nom-S3 verb|falar-Fin-Ind-3-Past +"/.
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|34|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|ADVMOD 9|11|CASE 10|11|DET 11|3|OBL 12|15|OBJ 13|15|ADVMOD 14|15|NSUBJ 15|11|ACL-RELCL 16|15|OBJ 17|3|CONJ 18|19|CASE 19|17|OBL 20|19|AMOD 21|22|DET 22|25|NSUBJ 23|22|AMOD 24|25|EXPL 25|17|CONJ 26|29|CC 27|28|DET 28|29|NSUBJ 29|3|CONJ 30|31|DET 31|29|OBJ 32|34|ADVMOD 33|34|NSUBJ 34|29|CONJ 35|3|PUNCT
+*CHI:	+" ah <foi você> [/] foi você que salvou a Rapunzel .
+%mor:	intj|ah aux|ser-Fin-Ind-3-Past pron|você-Prs-Nom-S3 sconj|que verb|salvar-Fin-Ind-3-Past adp|a noun|Rapunzel&Fem .
+%gra:	1|5|DISCOURSE 2|1|COP 3|5|NSUBJ 4|5|MARK 5|7|ROOT 6|7|CASE 7|5|OBJ 8|5|PUNCT
+*CHI:	+" <nã nã> [/] nã [//] não fui .
+%mor:	adv|não aux|ser-Fin-Ind-1-Past .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	+" claro que foi você você tem medo de [//] que ela na torre e decidiu casar com ela .
+%mor:	adv|claro sconj|que aux|ser-Fin-Ind-3-Past pron|você-Prs-Nom-S3 pron|você-Prs-Nom-S3 verb|ter-Fin-Ind-3-Pres noun|medo&Masc sconj|que pron|ela-Prs-Nom-S3 adp|em~det|o-Def-Art noun|torre&Fem cconj|e verb|decidir-Fin-Ind-3-Past verb|casar-Inf adp|com pron|ela-Prs-Acc-S3 .
+%gra:	1|17|ROOT 2|6|MARK 3|6|COP 4|6|NSUBJ 5|6|NSUBJ 6|1|CSUBJ 7|6|OBJ 8|9|MARK 9|14|NSUBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|CC 14|6|CONJ 15|14|XCOMP 16|17|CASE 17|15|OBJ 18|1|PUNCT
+*CHI:	+" eu nunca vi essa moça !
+%mor:	pron|eu-Prs-Nom-S1 adv|nunca verb|ver-Fin-Ind-1-Past det|esse-Def-Dem noun|moça&Fem !
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	aí a bruxa +"/.
+%mor:	adv|aí det|o-Def-Art noun|bruxa&Fem +"/.
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	+" <(es)tá bom> [/] (es)tá bom você vai viver só por um dia .
+%mor:	aux|estar-Fin-Ind-3-Pres adj|bom-Pos-S-1 pron|você-Prs-Nom-S3 aux|ir-Fin-Ind-3-Pres verb|viver-Inf adv|só adp|por num|um noun|dia&Masc .
+%gra:	1|2|COP 2|9|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CSUBJ 6|9|ADVMOD 7|9|CASE 8|9|NUMMOD 9|5|OBL 10|2|PUNCT
+*CHI:	aí ele tinha visto a Rapunzel porque ela não tinha saído (.) aí a Rapunzel (es)tava lá no palácio daí quando ele chegou [/] quando ele chegou aí [/] aí ele pediu se ela queria se casar com ele (.) aí ela falou +"/.
+%mor:	adv|aí pron|ele-Prs-Nom-S3 aux|ter-Fin-Ind-3-Imp verb|ver-Part adp|a noun|Rapunzel&Fem sconj|porque pron|ela-Prs-Nom-S3 adv|não aux|ter-Fin-Ind-3-Imp verb|sair-Part adv|aí adp|a noun|Rapunzel&Fem aux|estar-Fin-Ind-3-Imp adv|lá adp|em~det|o-Def-Art noun|palácio&Masc adp|de~adv|aí adv|quando pron|ele-Prs-Nom-S3 adv|quando pron|ele-Prs-Nom-S3 verb|chegar-Fin-Ind-3-Past adv|aí pron|ele-Prs-Nom-S3 verb|pedir-Fin-Ind-3-Past sconj|se pron|ela-Prs-Nom-S3 verb|querer-Fin-Ind-3-Imp pron|se-Prs-Acc-S3 verb|casar-Inf-3 adp|com pron|ele-Prs-Acc-S3 adv|aí pron|ela-Prs-Nom-S3 verb|falar-Fin-Ind-3-Past +"/.
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|39|ROOT 5|6|CASE 6|4|OBJ 7|11|MARK 8|11|NSUBJ 9|11|ADVMOD 10|11|AUX 11|4|ADVCL 12|11|ADVMOD 13|14|CASE 14|11|IOBJ 15|11|ADVCL 16|11|ADVMOD 17|19|CASE 18|19|DET 19|16|OBL 20|21|CASE 21|19|ADVMOD 22|29|ADVMOD 23|29|NSUBJ 24|26|ADVMOD 25|26|NSUBJ 26|29|ADVCL 27|26|ADVMOD 28|29|NSUBJ 29|4|ADVCL 30|32|MARK 31|32|NSUBJ 32|29|CCOMP 33|34|EXPL 34|32|XCOMP 35|36|CASE 36|34|OBL 37|34|ADVMOD 38|39|NSUBJ 39|29|CCOMP 40|4|PUNCT
+*CHI:	+" <não posso> [/] não posso a gente [//] eu vou [/] vou ter que ir lá com a bruxa .
+%mor:	adv|não verb|poder-Fin-Ind-1-Pres adp|a pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres aux|ter-Inf sconj|que verb|ir-Inf adv|lá adp|com det|o-Def-Art noun|bruxa&Fem .
+%gra:	1|2|ADVMOD 2|12|ROOT 3|4|CASE 4|8|NSUBJ 5|8|AUX 6|8|AUX 7|8|MARK 8|2|XCOMP 9|8|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|2|PUNCT
+*CHI:	aí ele começou a perguntar se a Rapunzel queria ir lá com ele foi lá pra [/] pra ai como é que é pra lá pra (.) pedir pra bruxa a mão dela em casamento aí a bruxa falou +"/.
+%mor:	adv|aí pron|ele-Prs-Nom-S3 verb|começar-Fin-Ind-3-Past sconj|a verb|perguntar-Inf sconj|se det|o-Def-Art noun|Rapunzel&Fem verb|querer-Fin-Ind-3-Imp verb|ir-Inf adv|lá adp|com pron|ele-Prs-Acc-S3 verb|ir-Fin-Ind-3-Past adv|lá adp|pra adv|ai adv|como aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Pres adp|pra adv|lá sconj|pra verb|pedir-Inf adp|pra noun|bruxa&Fem det|o-Def-Art noun|mão&Fem adp|de~pron|ela-Prs-Acc-S3 adp|em noun|casamento&Masc adv|aí det|o-Def-Art noun|bruxa&Fem verb|falar-Fin-Ind-3-Past +"/.
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|37|ROOT 4|5|MARK 5|3|XCOMP 6|9|MARK 7|8|DET 8|9|NSUBJ 9|5|CCOMP 10|9|XCOMP 11|10|ADVMOD 12|13|CASE 13|10|OBL 14|5|CCOMP 15|14|ADVMOD 16|17|CASE 17|14|ADVMOD 18|21|ADVMOD 19|21|DISCOURSE 20|19|FIXED 21|14|ADVCL 22|23|CASE 23|21|ADVMOD 24|25|MARK 25|21|ADVCL 26|27|CASE 27|25|OBL 28|29|DET 29|25|OBJ 30|31|CASE 31|29|NMOD 32|33|CASE 33|29|NMOD 34|37|ADVMOD 35|36|DET 36|37|NSUBJ 37|14|CCOMP 38|3|PUNCT
+*CHI:	+" então você mentiu para mim .
+%mor:	adv|então pron|você-Prs-Nom-S3 verb|mentir-Fin-Ind-3-Past adp|para pron|eu-Prs-Acc-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	<que mais que mais que mais que mais que mais que mais> [/] que mais .
+%mor:	pron|que-Rel-Acc-S1 adv|mais .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	+" eu vou botar no calabouço e vou lhe dar espinhos .
+%mor:	pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|botar-Inf adp|em~det|o-Def-Art noun|calabouço&Masc cconj|e aux|ir-Fin-Ind-1-Pres pron|ele-Prs-Dat-S3 verb|dar-Inf noun|espinho&Masc-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|CC 8|10|AUX 9|10|IOBJ 10|3|CONJ 11|10|OBJ 12|3|PUNCT
+*CHI:	+" quê ?
+%mor:	pron|quê-Rel-Acc-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+" espinhos ?
+%mor:	noun|espinho&Masc-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+" não saia daqui .
+%com:	a gravação foi interrompida para mudança de fita .
+%mor:	adv|não verb|saia-Fin-Sub-3-Pres adv|daqui .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	aí a bruxa falou +"/.
+%mor:	adv|aí det|o-Def-Art noun|bruxa&Fem verb|falar-Fin-Ind-3-Past +"/.
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	+" você é boa ?
+%mor:	pron|você-Prs-Nom-S3 aux|ser-Fin-Ind-3-Pres adj|bom-Pos-S-1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	aí lhe deu uma cotovelada ela a bruxa sem querer morreu por causa do príncipe e a Rapunzel pode se casar com o príncipe Romeu (.) e eles viveram felizes para sempre .
+%mor:	adv|aí pron|ele-Prs-Dat-S3 verb|dar-Fin-Ind-3-Past det|um-Ind-Art noun|cotovelada&Fem pron|ela-Prs-Nom-S3 det|o-Def-Art noun|bruxa&Fem sconj|sem verb|querer-Inf verb|morrer-Fin-Ind-3-Past adp|por noun|causa&Fem adp|de~det|o-Def-Art noun|príncipe&Masc cconj|e det|o-Def-Art noun|Rapunzel&Fem verb|poder-Fin-Ind-3-Pres pron|se-Prs-Acc-S3 verb|casar-Inf adp|com det|o-Def-Art noun|príncipe&Masc noun|Romeu&Masc cconj|e pron|eles-Prs-Nom-P3 verb|viver-Fin-Plur-Ind-3-Past adj|feliz-Pos-P-1 adp|para adv|sempre .
+%gra:	1|3|ADVMOD 2|3|IOBJ 3|32|ROOT 4|5|DET 5|3|OBJ 6|11|NSUBJ 7|8|DET 8|11|NSUBJ 9|10|MARK 10|8|ACL 11|3|ADVCL 12|13|CASE 13|11|OBL 14|16|CASE 15|16|DET 16|13|NMOD 17|22|CC 18|19|DET 19|20|NSUBJ 20|11|CONJ 21|22|EXPL 22|20|XCOMP 23|25|CASE 24|25|DET 25|22|OBJ 26|25|APPOS 27|29|CC 28|29|NSUBJ 29|22|CONJ 30|29|XCOMP 31|32|CASE 32|29|ADVMOD 33|3|PUNCT
+*INV:	então tá@i .
+%mor:	adv|então x|tá .
+%gra:	1|2|ADVMOD 2|2|FLAT 3|2|PUNCT
+*INV:	agora tu me conta [: contas] essa outra historinha aqui (.) essa aqui [= mostra a figura] obrigado essa outra historinha aqui me conta ela .
+%com:	a criança fica em silêncio .
+%mor:	adv|agora intj|tu pron|eu-Prs-Acc-S1 noun|conta&Fem-Plur det|esse-Def-Dem det|outro-Def-Ind noun|historinha&Fem adv|aqui pron|esse-Dem-Acc-S1 adv|aqui adj|obrigado-Pos-S-1 det|esse-Def-Dem det|outro-Def-Ind noun|historinha&Fem adv|aqui pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres pron|ela-Prs-Acc-S3 .
+%gra:	1|17|ADVMOD 2|1|FIXED 3|4|DET 4|1|OBL 5|7|DET 6|7|DET 7|4|NSUBJ 8|17|ADVMOD 9|17|NSUBJ 10|17|ADVMOD 11|9|AMOD 12|14|DET 13|14|DET 14|11|NSUBJ 15|17|ADVMOD 16|17|OBJ 17|18|ROOT 18|17|OBJ 19|17|PUNCT
+*CHI:	ôpa@g .
+%mor:	x|ôpa .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	era uma vez um +...
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem num|um +...
+%gra:	1|4|COP 2|3|DET 3|4|NMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	eu posso pintar ?
+%mor:	pron|eu-Prs-Nom-S1 verb|poder-Fin-Ind-1-Pres verb|pintar-Inf ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*INV:	era uma vez um +...
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem num|um +...
+%gra:	1|4|COP 2|3|DET 3|4|NMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	++ era uma vez um cavalo que ia pular a cerca aí <ele ele> [/] ele ia pedir pra vaca +"/.
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|cavalo&Masc pron|que-Rel-Acc-S1 aux|ir-Fin-Ind-3-Imp verb|pular-Inf adp|a noun|cerca&Fem adv|aí pron|ele-Prs-Nom-S3 aux|ir-Fin-Ind-3-Imp verb|pedir-Inf adp|pra noun|vaca&Fem +"/.
+%gra:	1|5|COP 2|3|DET 3|5|NMOD 4|5|DET 5|16|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|CASE 10|8|OBL 11|8|ADVMOD 12|14|NSUBJ 13|14|AUX 14|8|CONJ 15|16|CASE 16|14|OBJ 17|5|PUNCT
+*CHI:	+" vaca posso pular ?
+%mor:	noun|vaca&Fem verb|poder-Fin-Ind-1-Pres verb|pular-Inf ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	ela +"/.
+%mor:	pron|ela-Prs-Nom-S3 +"/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+" pode .
+%mor:	verb|poder-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	aí ele +"/.
+%mor:	adv|aí pron|ele-Prs-Nom-S3 +"/.
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*CHI:	+" por aqui se machucou .
+%mor:	adp|por adv|aqui pron|se-Prs-Acc-S1 verb|machucar-Fin-Ind-3-Past .
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	aí a vaca foi lá fez um curativo na perna dele e deu eles ficaram amigos e foram felizes para sempre .
+%mor:	adv|aí det|o-Def-Art noun|vaca&Fem verb|ir-Fin-Ind-3-Past adv|lá verb|fazer-Fin-Ind-3-Past det|um-Ind-Art noun|curativo&Masc adp|em~det|o-Def-Art noun|perna&Fem adp|de~pron|ele-Prs-Acc-S3 cconj|e verb|dar-Fin-Ind-3-Past pron|eles-Prs-Nom-P3 verb|ficar-Fin-Plur-Ind-3-Past noun|amigo&Masc-Plur cconj|e aux|ser-Fin-Plur-Ind-3-Past adj|feliz-Pos-P-1 adp|para adv|sempre .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|23|ROOT 5|6|ADVMOD 6|4|CONJ 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|13|CASE 13|11|NMOD 14|15|CC 15|4|CONJ 16|15|NSUBJ 17|15|CCOMP 18|17|XCOMP 19|21|CC 20|21|COP 21|17|CONJ 22|23|CASE 23|21|ADVMOD 24|4|PUNCT
+*INV:	(es)tá bom (o)brigado .
+%mor:	aux|estar-Fin-Ind-3-Pres adj|bom-Pos-S-1 adj|obrigado-Pos-S-1 .
+%gra:	1|2|COP 2|3|ROOT 3|2|CSUBJ 4|2|PUNCT
+@End

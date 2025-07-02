@@ -1,0 +1,145 @@
+@UTF8
+@PID:	11312/c-00043049-1
+@Begin
+@Languages:	por
+@Participants:	CHI Camila Target_Child , INV AnaCristina Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|7;03.16||||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	13-SEP-1994
+@Types:	long, narrative, TD
+*INV:	como é o teu nome ? 
+%mor:	adv|como aux|ser-Fin-Ind-3-Pres det|o-Def-Art det|teu-Def-Prs noun|nome&Masc ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|DET 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*CHI:	Camila Verzeletti La . 
+%mor:	noun|Camila&Fem noun|Verzeletti&ComNeut noun|La&ComNeut .
+%gra:	1|3|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*INV:	fala um pouquinho mais alto .
+%mor:	verb|falar-Fin-Ind-3-Pres det|um-Ind-Art noun|pouquinho&Masc adv|mais adj|alto-Pos-S-1 .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|ADVMOD 5|3|AMOD 6|1|PUNCT
+*CHI:	Camila Verzeletti La .
+%mor:	noun|Camila&Fem noun|Verzeletti&ComNeut noun|La&ComNeut .
+%gra:	1|3|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*INV:	tá@i Camila conta pra mim uma coisa que aconteceu contigo assim uma historinha emocionante com a tua prima .
+%mor:	x|tá noun|Camila&Fem verb|contar-Fin-Ind-3-Pres adp|pra pron|eu-Prs-Acc-S1 det|um-Ind-Art noun|coisa&Fem pron|que-Rel-Acc-S1 verb|acontecer-Fin-Ind-3-Past adv|contigo adv|assim det|um-Ind-Art noun|historinha&Fem adj|emocionante-Pos-S-1 adp|com det|o-Def-Art det|teu-Def-Prs noun|primo&Fem .
+%gra:	1|3|FLAT 2|1|APPOS 3|18|ROOT 4|5|CASE 5|3|OBL 6|7|DET 7|3|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|ADVMOD 11|9|ADVMOD 12|13|DET 13|9|NSUBJ 14|13|AMOD 15|18|CASE 16|18|DET 17|18|DET 18|13|NMOD 19|3|PUNCT
+*CHI:	xxx a gente (es)tava lá em Torres né@i daí eu fui comprar bóia com a minha vó né@i não daí ãhn@i quando eu (es)tava lá fora comprando bóia a minha prima foi sem bóia que ela não sabia nadar sem bóia né@i <dentro do mar> [?] agora ela já tem oito anos ela tem seis aí [//] daí <ela não> [//] ela foi e se afogou e a minha mãe tinha visto os cabelo(s) e ela foi beber água ali na piscina e <só viu> [>] os cabelo(s) dela daí a minha mãe puxou pelos cabelos e era ela .
+%mor:	det|o-Def-Art noun|gente&Fem aux|estar-Fin-Ind-3-Imp adv|lá adp|em noun|Torres&Masc x|né adp|de~adv|aí pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past verb|comprar-Inf noun|bóia&Fem adp|com det|o-Def-Art det|meu-Def-Prs noun|vó&Fem x|né adv|não adp|de~adv|aí x|ãhn adv|quando pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Imp adv|lá adv|fora verb|comprar-Ger noun|bóia&Fem det|o-Def-Art det|meu-Def-Prs noun|primo&Fem verb|ir-Fin-Ind-3-Past adp|sem noun|bóia&Fem sconj|que pron|ela-Prs-Nom-S3 adv|não verb|saber-Fin-Ind-3-Imp verb|nadar-Inf adp|sem noun|bóia&Fem x|né adv|dentro adp|de~det|o-Def-Art noun|mar&Masc adv|agora pron|ela-Prs-Nom-S3 adv|já verb|ter-Fin-Ind-3-Pres num|oito noun|ano&Masc-Plur pron|ela-Prs-Nom-S3 verb|ter-Fin-Ind-3-Pres num|seis adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|ir-Fin-Ind-3-Past cconj|e pron|se-Prs-Acc-S3 verb|afogar-Fin-Ind-3-Past cconj|e det|o-Def-Art det|meu-Def-Prs noun|mãe&Fem aux|ter-Fin-Ind-3-Imp verb|ver-Part det|o-Def-Art noun|cabelo&Masc-Plur cconj|e pron|ela-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past verb|beber-Inf noun|água&Fem adv|ali adp|em~det|o-Def-Art noun|piscina&Fem cconj|e adv|só verb|ver-Fin-Ind-3-Past det|o-Def-Art noun|cabelo&Masc-Plur adp|de~pron|ela-Prs-Acc-S3 adp|de~adv|aí det|o-Def-Art det|meu-Def-Prs noun|mãe&Fem verb|puxar-Fin-Ind-3-Past adp|por~det|o-Def-Art noun|cabelo&Masc-Plur cconj|e aux|ser-Fin-Ind-3-Imp pron|ela-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|99|ROOT 4|3|ADVMOD 5|6|CASE 6|4|OBL 7|6|FLAT 8|9|CASE 9|12|ADVMOD 10|12|NSUBJ 11|12|COP 12|3|CONJ 13|12|OBJ 14|17|CASE 15|17|DET 16|17|DET 17|12|OBL 18|17|FLAT 19|21|ADVMOD 20|21|CASE 21|12|ADVMOD 22|12|FLAT 23|26|ADVMOD 24|25|NSUBJ 25|26|COP 26|28|ADVMOD 27|28|ADVMOD 28|12|ADVCL 29|28|OBJ 30|32|DET 31|32|DET 32|28|OBJ 33|12|CONJ 34|35|CASE 35|33|OBL 36|39|MARK 37|39|NSUBJ 38|39|ADVMOD 39|33|CCOMP 40|39|XCOMP 41|42|CASE 42|40|OBL 43|42|FLAT 44|40|ADVMOD 45|47|CASE 46|47|DET 47|44|OBL 48|51|ADVMOD 49|51|NSUBJ 50|51|ADVMOD 51|33|ADVCL 52|53|NUMMOD 53|51|OBJ 54|55|NSUBJ 55|51|PARATAXIS 56|55|OBJ 57|58|CASE 58|56|ADVMOD 59|60|NSUBJ 60|55|CONJ 61|63|CC 62|63|EXPL 63|60|CONJ 64|69|CC 65|67|DET 66|67|DET 67|69|NSUBJ 68|69|AUX 69|60|CONJ 70|71|DET 71|69|OBJ 72|75|CC 73|75|NSUBJ 74|75|AUX 75|69|CONJ 76|75|OBJ 77|75|ADVMOD 78|80|CASE 79|80|DET 80|75|OBL 81|83|CC 82|83|ADVMOD 83|75|CONJ 84|85|DET 85|83|OBJ 86|87|CASE 87|85|NMOD 88|89|CASE 89|93|ADVMOD 90|92|DET 91|92|DET 92|93|NSUBJ 93|83|CONJ 94|96|CASE 95|96|DET 96|93|OBL 97|99|CC 98|99|COP 99|93|CONJ 100|3|PUNCT
+*INV:	&=riso .
+*INV:	ela (es)tava se afogando ?
+%mor:	pron|ela-Prs-Nom-S3 aux|estar-Fin-Ind-3-Imp pron|se-Prs-Acc-S3 verb|afogar-Ger ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|EXPL 4|4|ROOT 5|4|PUNCT
+*CHI:	0 .
+%com:	responde positivamente com a cabeça .
+*INV:	hmn@i é des [/] desenha ou escreve pra mim essa historinha aí que tu acabaste de contar ?
+%mor:	x|hmn aux|ser-Fin-Ind-3-Pres verb|desenhar-Fin-Ind-3-Pres cconj|ou verb|escrever-Fin-Ind-3-Pres adp|pra pron|eu-Prs-Acc-S1 det|esse-Def-Dem noun|historinha&Fem adv|aí sconj|que pron|tu-Prs-Nom-S1 verb|acabar-Fin-Ind-1-Pres sconj|de verb|contar-Inf ?
+%gra:	1|3|FLAT 2|3|COP 3|15|ROOT 4|5|CC 5|3|CONJ 6|7|CASE 7|5|OBL 8|9|DET 9|5|OBJ 10|5|ADVMOD 11|15|MARK 12|13|NSUBJ 13|3|CCOMP 14|15|MARK 15|13|XCOMP 16|3|PUNCT
+*CHI:	0 .
+%com:	responde positivamente com a cabeça; o gravador é desligado e a criança escreve o relato pessoal .
+*INV:	deu agora explica pra mim o desenho o que que é aquele pretinho ali no meio da água .
+%mor:	verb|dar-Fin-Ind-3-Past adv|agora verb|explicar-Fin-Ind-3-Pres adp|pra pron|eu-Prs-Acc-S1 det|o-Def-Art noun|desenho&Masc pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres det|aquele-Def-Dem noun|pretinho&Masc adv|ali adp|em~det|o-Def-Art noun|meio&Masc adp|de~det|o-Def-Art noun|água&Fem .
+%gra:	1|20|ROOT 2|1|ADVMOD 3|1|CCOMP 4|5|CASE 5|3|OBL 6|7|DET 7|3|OBJ 8|7|DET 9|13|NSUBJ 10|13|NSUBJ 11|13|COP 12|13|DET 13|8|ACL-RELCL 14|13|ADVMOD 15|17|CASE 16|17|DET 17|14|OBL 18|20|CASE 19|20|DET 20|17|NMOD 21|1|PUNCT
+*CHI:	é [: sou] eu os cabelo(s) da minha prima aqui [= aponta para o papel] é a minha mãe aqui [= aponta para o papel] ela foi beber água daí os cabelo(s) dela daí aqui [= aponta para o papel] é a minha tia a minha mãe daí ela a minha mãe né@i ela [/] ela xxx eu depois a minha mãe levantou os cabelo(s) e aí viu os cabelo(s) dela .
+%mor:	aux|ser-Fin-Ind-1-Pres pron|eu-Prs-Nom-S1 det|o-Def-Art noun|cabelo&Masc-Plur adp|de~det|o-Def-Art det|meu-Def-Prs noun|primo&Fem adv|aqui aux|ser-Fin-Ind-3-Pres det|o-Def-Art det|meu-Def-Prs noun|mãe&Fem adv|aqui pron|ela-Prs-Acc-S3 aux|ser-Fin-Ind-3-Past verb|beber-Inf noun|água&Fem adp|de~adv|aí det|o-Def-Art noun|cabelo&Masc-Plur adp|de~pron|ela-Prs-Acc-S3 adp|de~adv|aí adv|aqui aux|ser-Fin-Ind-3-Pres det|o-Def-Art det|meu-Def-Prs noun|tia&Fem det|o-Def-Art det|meu-Def-Prs noun|mãe&Fem adp|de~adv|aí pron|ela-Prs-Acc-S3 det|o-Def-Art det|meu-Def-Prs noun|mãe&Fem x|né pron|ela-Prs-Acc-S3 pron|eu-Prs-Nom-S1 adv|depois det|o-Def-Art det|meu-Def-Prs noun|mãe&Fem verb|levantar-Fin-Ind-3-Past det|o-Def-Art noun|cabelo&Masc-Plur cconj|e adv|aí verb|ver-Fin-Ind-3-Past det|o-Def-Art noun|cabelo&Masc-Plur adj|delo-Pos-P-1 .
+%gra:	1|2|COP 2|56|ROOT 3|4|DET 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|DET 8|4|NMOD 9|2|ADVMOD 10|2|COP 11|13|DET 12|13|DET 13|17|NSUBJ 14|17|ADVMOD 15|16|NSUBJ 16|2|ADVCL 17|16|XCOMP 18|17|OBJ 19|20|CASE 20|17|ADVMOD 21|22|DET 22|17|OBJ 23|24|CASE 24|22|NMOD 25|26|CASE 26|24|ADVMOD 27|31|ADVMOD 28|31|COP 29|31|DET 30|31|DET 31|17|CONJ 32|34|DET 33|34|DET 34|48|NSUBJ 35|36|CASE 36|31|ADVMOD 37|48|NSUBJ 38|40|DET 39|40|DET 40|48|NSUBJ 41|40|FLAT 42|40|APPOS 43|48|NSUBJ 44|48|ADVMOD 45|47|DET 46|47|DET 47|48|NSUBJ 48|31|ACL-RELCL 49|50|DET 50|48|OBJ 51|53|CC 52|53|ADVMOD 53|48|CONJ 54|55|DET 55|53|OBJ 56|55|AMOD 57|2|PUNCT
+*INV:	hmn@i então coloca o teu nome agora .
+%com:	silêncio .
+%mor:	x|hmn adv|então verb|colocar-Fin-Ind-3-Pres det|o-Def-Art det|teu-Def-Prs noun|nome&Masc adv|agora .
+%gra:	1|3|FLAT 2|3|ADVMOD 3|7|ROOT 4|6|DET 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*INV:	tá@i agora tu vai [: vais] contar pra mim uma história que contaram pra ti .
+%mor:	x|tá adv|agora pron|tu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|contar-Inf adp|pra pron|eu-Prs-Acc-S1 det|um-Ind-Art noun|história&Fem pron|que-Rel-Acc-S1 verb|contar-Fin-Plur-Ind-3-Past adp|pra pron|tu-Prs-Acc-S2 .
+%gra:	1|5|FLAT 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|7|CASE 7|5|OBL 8|9|DET 9|5|OBJ 10|11|OBJ 11|9|ACL-RELCL 12|13|CASE 13|11|OBL 14|5|PUNCT
+*CHI:	mas eu conto sempre a do Chapeuzinho Vermelho@q .
+%mor:	cconj|mas pron|eu-Prs-Nom-S1 verb|contar-Fin-Ind-1-Pres adv|sempre pron|ela-Dem-Acc-S1 adp|de~det|o-Def-Art noun|Chapeuzinho&Masc x|Vermelho .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|3|ADVMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|8|FLAT 10|3|PUNCT
+*INV:	hmn@i a do Chapeuzinho Vermelho@q .
+%mor:	x|hmn pron|ela-Dem-Acc-S1 adp|de~det|o-Def-Art noun|Chapeuzinho&Masc x|Vermelho .
+%gra:	1|6|FLAT 2|1|DET 3|5|CASE 4|5|DET 5|2|NMOD 6|5|FLAT 7|1|PUNCT
+*CHI:	era uma vez uma menininha chamada Chapeuzinho Vermelho@q ela gostava <de chamar> [//] de levar doces para a vovó daí a mãe dela chamou ela e mandou ela levar docinhos , pizza e xxx [>] .
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|menininha&Fem verb|chamar-Part noun|Chapeuzinho&Fem x|Vermelho pron|ela-Prs-Nom-S3 verb|gostar-Fin-Ind-3-Imp sconj|de verb|levar-Inf noun|doce&Masc-Plur adp|para det|o-Def-Art noun|vovó&Fem adp|de~adv|aí det|o-Def-Art noun|mãe&Fem adp|de~pron|ela-Prs-Acc-S3 verb|chamar-Fin-Ind-3-Past pron|ela-Prs-Acc-S3 cconj|e verb|mandar-Fin-Ind-3-Past pron|ela-Prs-Acc-S3 verb|levar-Inf-3 noun|docinho&Masc-Plur cm|cm noun|pizza&Fem cconj|e .
+%gra:	1|5|COP 2|3|DET 3|5|NMOD 4|5|DET 5|32|ROOT 6|5|ACL 7|6|XCOMP 8|10|FLAT 9|10|NSUBJ 10|5|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|12|OBJ 14|16|CASE 15|16|DET 16|12|OBL 17|18|CASE 18|16|ADVMOD 19|20|DET 20|23|NSUBJ 21|22|CASE 22|20|NMOD 23|10|CONJ 24|23|OBJ 25|26|CC 26|23|CONJ 27|26|OBJ 28|26|CCOMP 29|28|OBJ 30|31|PUNCT 31|29|CONJ 32|10|PUNCT 33|5|PUNCT
+*INV:	<fala mais alto> [<] .
+%mor:	verb|falar-Fin-Ind-3-Pres adv|mais adv|alto .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	&=suspiro docinhos , pizza e refri@i daí ãhn@i ela [//] a mãe dela disse +"/.
+%mor:	noun|docinho&Masc-Plur cm|cm noun|pizza&Fem cconj|e x|refri adp|de~adv|aí x|ãhn det|o-Def-Art noun|mãe&Fem adp|de~pron|ela-Prs-Acc-S3 verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|13|NSUBJ 2|3|PUNCT 3|1|CONJ 4|5|CC 5|1|FLAT 6|7|CASE 7|5|ADVMOD 8|5|FLAT 9|10|DET 10|13|NSUBJ 11|12|CASE 12|10|NMOD 13|13|ROOT 14|13|PUNCT
+*CHI:	+" não vá [: vás] pelo caminho do Lobo Mau@q vai pelo caminho certo .
+%mor:	adv|não verb|vir-Fin-Ind-1-Pres adp|por~det|o-Def-Art noun|caminho&Masc adp|de~det|o-Def-Art noun|Lobo&Masc x|Mau verb|ir-Fin-Ind-3-Pres adp|por~det|o-Def-Art noun|caminho&Masc adj|certo-Pos-S-1 .
+%gra:	1|2|ADVMOD 2|14|ROOT 3|5|CASE 4|5|DET 5|10|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|8|FLAT 10|2|PARATAXIS 11|13|CASE 12|13|DET 13|10|OBL 14|13|AMOD 15|2|PUNCT
+*CHI:	daí ela teimou e foi pelo caminho do Lobo Mau@q encontrou [>] daí ela encontrou o Lobo né@i [//] daí depois ela [//] o Lobo encontrou um atalho e [/] e se vestiu de Chapeuzinho Vermelho@q daí depois ãhn@i a vó disse pro Lobo bateu na porta ponponpon@o +"/.
+%mor:	adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|teimar-Fin-Ind-3-Past cconj|e verb|ir-Fin-Ind-3-Past adp|por~det|o-Def-Art noun|caminho&Masc adp|de~det|o-Def-Art noun|Lobo&Masc x|Mau verb|encontrar-Fin-Ind-3-Past adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|encontrar-Fin-Ind-3-Past det|o-Def-Art noun|Lobo&Masc adp|de~adv|aí adv|depois det|o-Def-Art noun|Lobo&Masc verb|encontrar-Fin-Ind-3-Past det|um-Ind-Art noun|atalho&Masc cconj|e pron|se-Prs-Acc-S3 verb|vestir-Fin-Ind-3-Past adp|de noun|Chapeuzinho&Fem x|Vermelho adp|de~adv|aí adv|depois x|ãhn adp|a noun|vó&Fem verb|dizer-Fin-Ind-3-Past adp|pro noun|Lobo&Masc verb|bater-Fin-Ind-3-Past adp|em~det|o-Def-Art noun|porta&Fem x|ponponpon +"/.
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|48|ROOT 5|6|CC 6|4|CONJ 7|9|CASE 8|9|DET 9|14|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|12|FLAT 14|4|CONJ 15|16|CASE 16|14|ADVMOD 17|18|NSUBJ 18|14|CCOMP 19|20|DET 20|18|OBJ 21|22|CASE 22|18|ADVMOD 23|26|ADVMOD 24|25|DET 25|26|NSUBJ 26|18|CONJ 27|28|DET 28|26|OBJ 29|31|CC 30|31|EXPL 31|26|CONJ 32|33|CASE 33|31|OBL 34|33|FLAT 35|36|CASE 36|31|ADVMOD 37|41|ADVMOD 38|31|FLAT 39|40|CASE 40|41|OBL 41|4|CONJ 42|43|CASE 43|44|OBL 44|41|CCOMP 45|47|CASE 46|47|DET 47|44|OBL 48|47|FLAT 49|4|PUNCT
+*CHI:	+" quem é minha filha quem é ?
+%mor:	pron|quem-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres det|meu-Def-Prs noun|filha&Fem pron|quem-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|4|NSUBJ 6|5|COP 7|4|PUNCT
+*CHI:	daí o Lobo disse +"/.
+%mor:	intj|daí det|o-Def-Art noun|Lobo&Masc verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	+" é a Chapeuzinho Vermelho@q .
+%mor:	aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|Chapeuzinho&Fem x|Vermelho .
+%gra:	1|3|COP 2|3|DET 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*CHI:	daí o Lobo disse +"/.
+%mor:	intj|daí det|o-Def-Art noun|Lobo&Masc verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	+" pode entrar a porta está aberta .
+%mor:	verb|poder-Fin-Ind-3-Pres verb|entrar-Inf det|o-Def-Art noun|porta&Fem aux|estar-Fin-Ind-3-Pres adj|aberto-Pos-S-1 .
+%gra:	1|6|ROOT 2|1|XCOMP 3|4|DET 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|1|PUNCT
+*CHI:	daí ele entrou <e come> [//] e correu atrás da vovozinha comeu ela daí depois o Chapeuzinho Vermelho@q o [//] quer dizer daí depois o [/] o Lobo Mau@q tinha comido a vovozinha daí depois o Chapeuzinho Vermelho@q bateu na porta ponponpon@o .
+%mor:	adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|entrar-Fin-Ind-3-Past cconj|e verb|correr-Fin-Ind-3-Past adv|atrás adp|de~det|o-Def-Art noun|vovozinha&Fem verb|começar-Fin-Ind-3-Past pron|ela-Prs-Acc-S3 adp|de~adv|aí adv|depois det|o-Def-Art noun|Chapeuzinho&Masc x|Vermelho verb|querer-Fin-Ind-3-Pres verb|dizer-Inf adp|de~adv|aí adv|depois det|o-Def-Art noun|Lobo&Masc x|Mau aux|ter-Fin-Ind-3-Imp verb|comer-Part det|o-Def-Art noun|vovozinha&Fem adp|de~adv|aí adv|depois det|o-Def-Art noun|Chapeuzinho&Masc x|Vermelho verb|bater-Fin-Ind-3-Past adp|em~det|o-Def-Art noun|porta&Fem x|ponponpon .
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|41|ROOT 5|6|CC 6|4|CONJ 7|6|ADVMOD 8|10|CASE 9|10|DET 10|7|OBL 11|4|CONJ 12|11|OBJ 13|14|CASE 14|11|ADVMOD 15|19|ADVMOD 16|17|DET 17|19|NSUBJ 18|17|FLAT 19|4|CONJ 20|19|XCOMP 21|22|CASE 22|20|ADVMOD 23|28|ADVMOD 24|25|DET 25|28|NSUBJ 26|25|FLAT 27|28|AUX 28|20|CCOMP 29|30|DET 30|28|OBJ 31|32|CASE 32|30|ADVMOD 33|37|ADVMOD 34|35|DET 35|37|NSUBJ 36|35|FLAT 37|28|CONJ 38|40|CASE 39|40|DET 40|37|OBL 41|40|FLAT 42|4|PUNCT
+*CHI:	+" quem é ?
+%mor:	pron|quem-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres ?
+%gra:	1|2|ROOT 2|1|COP 3|1|PUNCT
+*CHI:	+" é o Chapeuzinho Vermelho@q .
+%mor:	aux|ser-Fin-Ind-3-Pres det|o-Def-Art noun|Chapeuzinho&Masc x|Vermelho .
+%gra:	1|3|COP 2|3|DET 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*CHI:	+" pode entrar a porta está aberta .
+%mor:	verb|poder-Fin-Ind-3-Pres verb|entrar-Inf det|o-Def-Art noun|porta&Fem aux|estar-Fin-Ind-3-Pres adj|aberto-Pos-S-1 .
+%gra:	1|6|ROOT 2|1|XCOMP 3|4|DET 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|1|PUNCT
+*CHI:	daí ela entrou e o Lobo ficou correndo correndo atrás dela daí ela chamou +"/.
+%mor:	adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|entrar-Fin-Ind-3-Past cconj|e det|o-Def-Art noun|Lobo&Masc verb|ficar-Fin-Ind-3-Past verb|correr-Ger verb|correr-Ger adv|atrás adp|de~pron|ela-Prs-Acc-S3 adp|de~adv|aí pron|ela-Prs-Nom-S3 verb|chamar-Fin-Ind-3-Past +"/.
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|NSUBJ 4|17|ROOT 5|9|CC 6|7|DET 7|8|NSUBJ 8|4|CONJ 9|8|XCOMP 10|9|ADVCL 11|10|ADVMOD 12|13|CASE 13|11|OBL 14|15|CASE 15|13|ADVMOD 16|17|NSUBJ 17|10|CCOMP 18|4|PUNCT
+*CHI:	+" socorro seu caçador !
+%mor:	intj|socorro det|seu-Def-Prs noun|caçador&Masc !
+%gra:	1|3|ROOT 2|3|DET 3|1|NSUBJ 4|1|PUNCT
+*CHI:	daí o caçador escutou foi lá pular a janela né@i daí ele disse +"/.
+%mor:	adp|de~adv|aí det|o-Def-Art noun|caçador&Masc verb|escutar-Fin-Ind-3-Past aux|ser-Fin-Ind-3-Past adv|lá verb|pular-Inf det|o-Def-Art noun|janela&Fem x|né adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|dizer-Fin-Ind-3-Past +"/.
+%gra:	1|2|CASE 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|15|ROOT 6|5|COP 7|5|ADVMOD 8|5|XCOMP 9|10|DET 10|8|OBJ 11|10|FLAT 12|13|CASE 13|15|ADVMOD 14|15|NSUBJ 15|5|PARATAXIS 16|5|PUNCT
+*CHI:	+" ah Chapeuzinho Vermelho@q eu (es)tou indo te buscar .
+%mor:	intj|ah intj|chapeuzinho x|Vermelho pron|eu-Prs-Nom-S1 aux|estar-Fin-Ind-1-Pres verb|ir-Ger pron|tu-Prs-Acc-S1 verb|buscar-Inf .
+%gra:	1|6|DISCOURSE 2|1|FIXED 3|1|FLAT 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|OBJ 8|6|XCOMP 9|6|PUNCT
+*CHI:	daí né@i depois ele entrou ali chamou um guarda daí enquanto [/] o [//] ele (es)tava dormindo o Lobo né@i e ele abriu a barriga dele e encheu de pedra daí quando ele foi ele [//] daí ele tirou a vovozinha de dentro e o Chapeuzinho@q também daí ãhn@i o Lobo que (es)tava cheio de a [//] pedra [//] de pedra dentro da barriga dele né@i daí <o Lobo> [/] o Lobo quando ele foi levantar ele não conseguiu daí eles vive [/] viveram felizes pra sempre (.) acabou .
+%mor:	adp|de~adv|aí x|né adv|depois pron|ele-Prs-Nom-S3 verb|entrar-Fin-Ind-3-Past adv|ali verb|chamar-Fin-Ind-3-Past det|um-Ind-Art noun|guarda&Masc adp|de~adv|aí pron|ele-Prs-Nom-S3 aux|estar-Fin-Ind-3-Imp verb|dormir-Ger det|o-Def-Art noun|Lobo&Masc x|né cconj|e pron|ele-Prs-Nom-S3 verb|abrir-Fin-Ind-3-Past det|o-Def-Art noun|barriga&Fem adp|de~pron|ele-Prs-Acc-S3 cconj|e verb|enchar-Fin-Ind-3-Past adp|de noun|pedra&Fem adp|de~adv|aí adv|quando pron|ele-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|tirar-Fin-Ind-3-Past det|o-Def-Art noun|vovozinha&Fem adp|de adv|dentro cconj|e det|o-Def-Art x|Chapeuzinho adv|também adp|de~adv|aí x|ãhn det|o-Def-Art noun|Lobo&Masc pron|que-Rel-Acc-S1 aux|estar-Fin-Ind-3-Imp adj|cheio-Pos-S-1 adp|de adp|de noun|pedra&Fem adv|dentro adp|de~det|o-Def-Art noun|barriga&Fem adp|de~pron|ele-Prs-Acc-S3 x|né adp|de~adv|aí det|o-Def-Art noun|Lobo&Masc adv|quando pron|ele-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past verb|levantar-Inf pron|ele-Prs-Nom-S3 adv|não verb|conseguir-Fin-Ind-3-Past adp|de~adv|aí pron|eles-Prs-Nom-P3 verb|viver-Fin-Plur-Ind-3-Past adj|feliz-Pos-P-1 adp|pra adv|sempre verb|acabar-Fin-Ind-3-Past .
+%gra:	1|2|CASE 2|6|ADVMOD 3|6|FLAT 4|6|ADVMOD 5|6|NSUBJ 6|8|ADVCL 7|8|ADVMOD 8|83|ROOT 9|10|DET 10|8|OBJ 11|12|CASE 12|10|ADVMOD 13|15|NSUBJ 14|15|AUX 15|8|CCOMP 16|17|DET 17|15|OBJ 18|17|FLAT 19|21|CC 20|21|NSUBJ 21|15|CONJ 22|23|DET 23|21|OBJ 24|25|CASE 25|23|NMOD 26|27|CC 27|15|CONJ 28|29|CASE 29|27|OBJ 30|31|CASE 31|29|ADVMOD 32|38|ADVMOD 33|38|NSUBJ 34|38|ADVCL 35|36|CASE 36|34|ADVMOD 37|38|NSUBJ 38|27|ADVCL 39|40|DET 40|38|OBJ 41|42|CASE 42|38|ADVMOD 43|45|CC 44|45|DET 45|51|FLAT 46|48|ADVMOD 47|48|CASE 48|45|ADVMOD 49|45|FLAT 50|51|DET 51|38|NSUBJ 52|54|NSUBJ 53|54|COP 54|51|ACL-RELCL 55|57|CASE 56|57|CASE 57|54|OBL 58|54|ADVMOD 59|61|CASE 60|61|DET 61|58|OBL 62|63|CASE 63|61|NMOD 64|63|FLAT 65|66|CASE 66|64|ADVMOD 67|68|DET 68|54|NSUBJ 69|72|ADVMOD 70|72|NSUBJ 71|72|COP 72|75|ADVCL 73|72|NSUBJ 74|75|ADVMOD 75|68|ACL-RELCL 76|77|CASE 77|79|ADVMOD 78|79|NSUBJ 79|75|CCOMP 80|79|XCOMP 81|82|CASE 82|79|ADVMOD 83|75|CONJ 84|8|PUNCT
+*INV:	&=riso acabou agora eu vou te mostrar uma historinha e tu vai [: vais] contar pra mim tá@i ?
+%mor:	verb|acabar-Fin-Ind-3-Past adv|agora pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres pron|tu-Prs-Acc-S1 verb|mostrar-Inf det|um-Ind-Art noun|historinha&Fem cconj|e pron|tu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Pres verb|contar-Inf adp|pra pron|eu-Prs-Acc-S1 x|tá ?
+%gra:	1|15|ROOT 2|6|ADVMOD 3|6|NSUBJ 4|6|AUX 5|6|IOBJ 6|1|CSUBJ 7|8|DET 8|6|OBJ 9|12|CC 10|12|NSUBJ 11|12|AUX 12|6|CONJ 13|14|CASE 14|12|OBL 15|12|FLAT 16|1|PUNCT
+*INV:	é essa historinha [= entregando a história em seqüência para a criança] .
+%mor:	aux|ser-Fin-Ind-3-Pres det|esse-Def-Dem noun|historinha&Fem .
+%gra:	1|3|ROOT 2|3|DET 3|1|NSUBJ 4|1|PUNCT
+*CHI:	essa ?
+%mor:	pron|esse-Dem-Acc-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	0 .
+%com:	responde positivamente com a cabeça .
+*CHI:	era uma vez um passarinho muito bonitinho que vivia no seu ninho ele foi buscar comida para seus filhinho(s) enquanto o gato (es)tava embaixo e ele queria comer <os bichinho(s) de vez em quando> [//] os passarinho(s) de vez em quando que a mamãe passarinha foi [/] ãhn@i buscar comida pra eles e subir e pra comer os passarinho(s) daí depois o [/] o cachorro veio e pegou o rabo do gato depois o cachorro correu atrás do gato e a mamãe passarinha voltou .
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|passarinho&Masc adv|muito adj|bonitinho-Pos-S-1 pron|que-Rel-Acc-S1 verb|viver-Fin-Ind-3-Imp adp|em~det|o-Def-Art det|seu-Def-Prs noun|ninho&Masc pron|ele-Prs-Nom-S3 aux|ser-Fin-Ind-3-Past verb|buscar-Inf noun|comida&Fem adp|para det|seu-Def-Prs noun|filhinho&Masc-Plur adv|enquanto det|o-Def-Art noun|gato&Masc aux|estar-Fin-Ind-3-Imp adv|embaixo cconj|e pron|ele-Prs-Nom-S3 verb|querer-Fin-Ind-3-Imp verb|comer-Inf det|o-Def-Art noun|passarinho&Masc-Plur adp|de noun|vez&Fem adp|em adv|quando sconj|que det|o-Def-Art noun|mamãe&Fem noun|passarinha&Fem x|ãhn verb|buscar-Inf noun|comida&Fem adp|pra pron|eles-Prs-Acc-P3 cconj|e verb|subir-Inf cconj|e sconj|pra verb|comer-Inf det|o-Def-Art noun|passarinho&Masc-Plur adp|de~adv|aí adv|depois det|o-Def-Art noun|cachorro&Masc verb|vir-Fin-Ind-3-Past cconj|e verb|pegar-Fin-Ind-3-Past det|o-Def-Art noun|rabo&Masc adp|de~det|o-Def-Art noun|gato&Masc adv|depois det|o-Def-Art noun|cachorro&Masc verb|correr-Fin-Ind-3-Past adv|atrás adp|de~det|o-Def-Art noun|gato&Masc cconj|e det|o-Def-Art noun|mamãe&Fem noun|passarinha&Fem verb|voltar-Fin-Ind-3-Past .
+%gra:	1|5|COP 2|3|DET 3|5|NMOD 4|5|DET 5|77|ROOT 6|7|ADVMOD 7|5|AMOD 8|9|NSUBJ 9|5|ACL-RELCL 10|13|CASE 11|13|DET 12|13|DET 13|9|OBL 14|16|NSUBJ 15|16|COP 16|5|CONJ 17|16|OBJ 18|20|CASE 19|20|DET 20|16|OBL 21|25|ADVMOD 22|23|DET 23|25|NSUBJ 24|25|COP 25|16|ADVCL 26|28|CC 27|28|NSUBJ 28|16|CONJ 29|28|XCOMP 30|31|DET 31|29|OBJ 32|33|CASE 33|29|OBL 34|35|CASE 35|33|ADVMOD 36|41|MARK 37|38|DET 38|41|NSUBJ 39|38|NMOD 40|38|FLAT 41|29|ADVCL 42|41|OBJ 43|44|CASE 44|41|IOBJ 45|46|CC 46|41|CONJ 47|49|CC 48|49|MARK 49|41|CONJ 50|51|DET 51|49|OBJ 52|53|CASE 53|51|ADVMOD 54|57|ADVMOD 55|56|DET 56|57|NSUBJ 57|41|CONJ 58|59|CC 59|57|CONJ 60|61|DET 61|59|OBJ 62|64|CASE 63|64|DET 64|61|NMOD 65|68|ADVMOD 66|67|DET 67|68|NSUBJ 68|59|ADVCL 69|68|ADVMOD 70|72|CASE 71|72|DET 72|69|OBL 73|77|CC 74|75|DET 75|77|NSUBJ 76|75|APPOS 77|68|CONJ 78|5|PUNCT
+*INV:	hmn@i final feliz também .
+%mor:	x|hmn adj|final-Pos-S-1 adj|feliz-Pos-S-1 adv|também .
+%gra:	1|4|FLAT 2|1|AMOD 3|1|AMOD 4|1|ADVMOD 5|1|PUNCT
+*CHI:	ãhn@i ?
+%mor:	x|ãhn ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	final feliz também .
+%mor:	noun|final&Fem adj|feliz-Pos-S-1 adv|também .
+%gra:	1|3|ROOT 2|1|AMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	&=riso obrigada Camila .
+%mor:	adj|obrigado-Pos-S-1 noun|Camila&Fem .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+@End

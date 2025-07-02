@@ -1,0 +1,109 @@
+@UTF8
+@PID:	11312/c-00030338-1
+@Begin
+@Languages:	por
+@Participants:	CHI Alexandra Target_Child , INV Jerusa Investigator
+@Options:	multi
+@ID:	por|AlegreLong|CHI|7;00.27|female|MC||Target_Child|||
+@ID:	por|AlegreLong|INV|||||Investigator|||
+@Date:	13-SEP-1994
+@Types:	long, narrative, TD
+*INV:	diz todo o teu nome . 
+%mor:	verb|dizer-Fin-Ind-3-Pres det|todo-Def-Tot det|o-Def-Art det|teu-Def-Prs noun|nome&Masc .
+%gra:	1|5|ROOT 2|5|DET 3|2|FIXED 4|5|DET 5|1|OBJ 6|1|PUNCT
+*CHI:	Alexandra . 
+%mor:	noun|Alexandra&Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tá@i Alexandra conta uma coisa que aconteceu contigo .
+%mor:	x|tá noun|Alexandra&Fem verb|contar-Fin-Ind-3-Pres det|um-Ind-Art noun|coisa&Fem pron|que-Rel-Acc-S1 verb|acontecer-Fin-Ind-3-Past adv|contigo .
+%gra:	1|3|FLAT 2|1|APPOS 3|8|ROOT 4|5|DET 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|ADVMOD 9|3|PUNCT
+*CHI:	um dia eu fui bri [/] brincar no [//] eu fui lá na casa do meu amigo brincar aí eu [/] eu ia subir na [/] na [/] na rede aí eu caí e machuquei minhas costas e a marca (es)tá até hoje .
+%mor:	num|um noun|dia&Masc pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past verb|brincar-Inf pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past adv|lá adp|em~det|o-Def-Art noun|casa&Fem adp|de~det|o-Def-Art det|meu-Def-Prs noun|amigo&Masc verb|brincar-Inf-3 adv|aí pron|eu-Prs-Nom-S1 aux|ir-Fin-Ind-1-Imp verb|subir-Inf adp|em~det|o-Def-Art noun|rede&Fem adv|aí pron|eu-Prs-Nom-S1 verb|cair-Fin-Ind-1-Past cconj|e verb|machuar-Fin-Ind-1-Past det|meu-Def-Prs noun|costa&Fem-Plur cconj|e det|o-Def-Art noun|marca&Fem aux|estar-Fin-Ind-3-Pres adp|até adv|hoje .
+%gra:	1|2|NUMMOD 2|5|OBL 3|5|NSUBJ 4|5|COP 5|36|ROOT 6|5|NSUBJ 7|5|PARATAXIS 8|5|ADVMOD 9|11|CASE 10|11|DET 11|16|OBL 12|15|CASE 13|15|DET 14|15|DET 15|11|NMOD 16|5|ADVCL 17|16|ADVMOD 18|20|NSUBJ 19|20|AUX 20|16|CONJ 21|23|CASE 22|23|DET 23|20|OBL 24|20|ADVMOD 25|26|NSUBJ 26|20|CONJ 27|28|CC 28|26|CONJ 29|30|DET 30|28|OBJ 31|34|CC 32|33|DET 33|34|NSUBJ 34|5|CONJ 35|36|CASE 36|34|ADVMOD 37|5|PUNCT
+*INV:	ah e aonde é que era a tua casa do teu amigo ?
+%mor:	intj|ah cconj|e adv|aonde aux|ser-Inf sconj|que aux|ser-Fin-Ind-3-Imp det|o-Def-Art det|teu-Def-Prs noun|casa&Fem adp|de~det|o-Def-Art det|teu-Def-Prs noun|amigo&Masc ?
+%gra:	1|6|DISCOURSE 2|3|CC 3|1|CONJ 4|6|DISCOURSE 5|4|FIXED 6|13|ROOT 7|9|DET 8|9|DET 9|6|NSUBJ 10|13|CASE 11|13|DET 12|13|DET 13|9|NMOD 14|6|PUNCT
+*CHI:	é lá em Viamão .
+%mor:	aux|ser-Fin-Ind-3-Pres adv|lá adp|em noun|Viamão&Masc .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|CASE 4|1|OBL 5|1|PUNCT
+*INV:	ah foi do passeio de ontem ?
+%mor:	intj|ah verb|ir-Fin-Ind-3-Past adp|de~det|o-Def-Art noun|passeio&Masc adp|de adv|ontem ?
+%gra:	1|2|ADVMOD 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|7|CASE 7|5|ADVMOD 8|2|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	hmn@i tá@i .
+%mor:	x|hmn x|tá .
+%gra:	1|2|FLAT 2|1|FLAT 3|1|PUNCT
+*INV:	quer [: queres] desenhar isso ou tu quer [: queres] escrever ?
+%mor:	verb|querer-Fin-Ind-1-Pres verb|desenhar-Inf pron|isso-Dem-Acc-S1 cconj|ou pron|tu-Prs-Acc-S1 verb|querer-Fin-Ind-1-Pres verb|escrever-Inf ?
+%gra:	1|7|ROOT 2|1|XCOMP 3|2|OBJ 4|6|CC 5|6|NSUBJ 6|2|CONJ 7|6|XCOMP 8|1|PUNCT
+*CHI:	eu quero escrever .
+%mor:	pron|eu-Prs-Nom-S1 verb|querer-Fin-Ind-1-Pres verb|escrever-Inf .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*INV:	então escreve .
+%com:	o gravador foi desligado e a criança escreve o relato pessoal .
+%mor:	adv|então verb|escrever-Fin-Ind-3-Pres .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*INV:	Alexandra me cont [//] me explica o que que tu fez [: fizeste] aí .
+%mor:	noun|Alexandra&Fem pron|eu-Prs-Acc-S1 pron|eu-Prs-Acc-S1 verb|explicar-Fin-Ind-3-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 sconj|que pron|tu-Prs-Acc-S1 verb|fazer-Fin-Ind-1-Pres adv|aí .
+%gra:	1|4|NSUBJ 2|4|IOBJ 3|4|IOBJ 4|10|ROOT 5|6|OBJ 6|9|OBJ 7|9|MARK 8|9|OBJ 9|4|CCOMP 10|9|ADVMOD 11|4|PUNCT
+*CHI:	eu escrevi um dia eu fui numa [: em uma] casa (.) do meu amigo Jonatas eu fui andar na rede e [/] e eu caí Alexandra “beijinho beijinho tchau tchau” .
+%mor:	pron|eu-Prs-Nom-S1 verb|escrever-Fin-Ind-1-Past num|um noun|dia&Masc pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past adp|em det|um-Ind-Art noun|casa&Fem adp|de~det|o-Def-Art det|meu-Def-Prs noun|amigo&Masc noun|Jonatas&Masc pron|eu-Prs-Nom-S1 aux|ser-Fin-Ind-1-Past verb|andar-Inf adp|em~det|o-Def-Art noun|rede&Fem cconj|e pron|eu-Prs-Nom-S1 verb|cair-Fin-Ind-1-Past noun|Alexandra&Fem intj|beijinho noun|beijinho&Masc intj|tchau noun|tchau&Masc .
+%gra:	1|2|NSUBJ 2|28|ROOT 3|4|NUMMOD 4|2|OBL 5|6|NSUBJ 6|2|CONJ 7|9|CASE 8|9|DET 9|2|OBL 10|13|CASE 11|13|DET 12|13|DET 13|9|NMOD 14|13|APPOS 15|17|NSUBJ 16|17|COP 17|6|CONJ 18|20|CASE 19|20|DET 20|17|OBL 21|23|CC 22|23|NSUBJ 23|17|CONJ 24|23|OBJ 25|24|FLAT-NAME 26|24|NMOD 27|28|CASE 28|26|NMOD 29|2|PUNCT
+*INV:	e o que que é isso [= aponta para o desenho] é uma rede ?
+%mor:	cconj|e pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 pron|que-Rel-Acc-S1 aux|ser-Fin-Ind-3-Pres pron|isso-Dem-Acc-S1 aux|ser-Fin-Ind-3-Pres det|um-Ind-Art noun|rede&Fem ?
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|3|PARATAXIS 5|6|COP 6|4|NSUBJ 7|9|COP 8|9|DET 9|9|ROOT 10|9|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	ah^tá@i .
+%mor:	x|ahtá .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	eu brinco na mancha .
+%mor:	pron|eu-Prs-Nom-S1 verb|bringir-Fin-Ind-1-Pres adp|em~det|o-Def-Art noun|mancha&Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*INV:	uh^hum@i (es)tá bonito mesmo .
+%mor:	x|uhhum aux|estar-Fin-Ind-3-Pres adj|bonito-Pos-S-1 adj|mesmo-Pos-S-1 .
+%gra:	1|3|FLAT 2|3|COP 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*INV:	então agora me conta uma historinha que te contaram .
+%mor:	adv|então adv|agora pron|eu-Prs-Acc-S1 verb|contar-Fin-Ind-3-Pres det|um-Ind-Art noun|historinha&Fem pron|que-Rel-Acc-S1 pron|tu-Prs-Acc-S1 verb|contar-Fin-Plur-Ind-3-Past .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|IOBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|OBJ 9|6|ACL-RELCL 10|4|PUNCT
+*CHI:	era uma vez uma menina que se chamava Rapunzel aí <ela começou> [//] ela veio pra casa e depois ela acabou sem ir para casa aí ela veio aí a bruxa transformou ela numa [: em uma] [//] num monstro .
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|menina&Fem pron|que-Rel-Acc-S1 pron|se-Prs-Acc-S3 verb|chamar-Fin-Ind-3-Imp noun|Rapunzel&Fem adv|aí pron|ela-Prs-Nom-S3 verb|vir-Fin-Ind-3-Past adp|pra noun|casa&Fem cconj|e adv|depois pron|ela-Prs-Nom-S3 verb|acabar-Fin-Ind-3-Past sconj|sem verb|ir-Inf adp|para noun|casa&Fem adv|aí pron|ela-Prs-Nom-S3 verb|vir-Fin-Ind-3-Past adv|aí det|o-Def-Art noun|bruxa&Fem verb|transformar-Fin-Ind-3-Past pron|ela-Prs-Acc-S3 adp|em~det|um-Ind-Art noun|monstro&Masc .
+%gra:	1|5|COP 2|3|DET 3|5|NMOD 4|5|DET 5|33|ROOT 6|8|NSUBJ 7|8|EXPL 8|5|ACL-RELCL 9|8|XCOMP 10|12|ADVMOD 11|12|NSUBJ 12|5|CONJ 13|14|CASE 14|12|OBL 15|18|CC 16|18|ADVMOD 17|18|NSUBJ 18|12|CONJ 19|20|MARK 20|18|XCOMP 21|22|CASE 22|20|OBL 23|20|ADVMOD 24|25|NSUBJ 25|20|CONJ 26|25|ADVMOD 27|28|DET 28|29|NSUBJ 29|25|CCOMP 30|29|OBJ 31|33|CASE 32|33|DET 33|29|IOBJ 34|5|PUNCT
+*INV:	ah acabou assim ?
+%mor:	intj|ah verb|acabar-Fin-Ind-3-Past adv|assim ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	0 .
+%com:	a criança responde positivamente com a cabeça .
+*INV:	é ?
+%mor:	aux|ser-Fin-Ind-3-Pres ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 .
+%com:	a criança responde positivamente com a cabeça .
+*INV:	que triste né@i ?
+%mor:	det|que-Def-Int adj|triste-Pos-S-1 x|né ?
+%gra:	1|3|DET 2|3|AMOD 3|3|FLAT 4|3|PUNCT
+*CHI:	é .
+%mor:	aux|ser-Fin-Ind-3-Pres .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	bom então agora olha essa historinha aqui [= mostra a figura] e diz [: dize] o que que tu acha [: achas] que (es)tá acontecendo .
+%mor:	adj|bom-Pos-S-1 adv|então adv|agora verb|olhar-Fin-Ind-3-Pres det|esse-Def-Dem noun|historinha&Fem adv|aqui cconj|e verb|dizer-Fin-Ind-3-Pres pron|o-Dem-Acc-S1 pron|que-Rel-Acc-S1 sconj|que pron|tu-Prs-Acc-S2 verb|achar-Fin-Plur-Ind-1-Pres sconj|que aux|estar-Fin-Ind-3-Pres verb|acontecer-Ger .
+%gra:	1|4|AMOD 2|4|ADVMOD 3|4|ADVMOD 4|17|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|9|CC 9|4|CONJ 10|11|DET 11|14|OBJ 12|14|MARK 13|14|NSUBJ 14|9|CCOMP 15|17|MARK 16|17|AUX 17|14|CCOMP 18|4|PUNCT
+*CHI:	era uma vez um [/] um pássaro que botou ovos daí ele saiu daí tinha um gatinho pegou subiu aí o cachorro que (es)tava junto ele pegou mordeu o rabo tirou ele aí o gato saiu correndo e o cachorro atrás .
+%mor:	aux|ser-Fin-Ind-3-Imp det|um-Ind-Art noun|vez&Fem det|um-Ind-Art noun|pássaro&Masc pron|que-Rel-Acc-S1 verb|botar-Fin-Ind-3-Past noun|ovo&Masc-Plur adp|de~adv|aí pron|ele-Prs-Nom-S3 verb|sair-Fin-Ind-3-Past adp|de~adv|aí verb|ter-Fin-Ind-3-Imp det|um-Ind-Art noun|gatinho&Masc verb|pegar-Fin-Ind-3-Past verb|subir-Fin-Ind-3-Past adv|aí det|o-Def-Art noun|cachorro&Masc pron|que-Rel-Acc-S1 aux|estar-Fin-Ind-3-Imp adv|junto pron|ele-Prs-Nom-S3 verb|pegar-Fin-Ind-3-Past verb|morder-Fin-Ind-3-Past det|o-Def-Art noun|rabo&Masc verb|tirar-Fin-Ind-3-Past pron|ele-Prs-Nom-S3 adv|aí det|o-Def-Art noun|gato&Masc verb|sair-Fin-Ind-3-Past verb|correr-Ger cconj|e det|o-Def-Art noun|cachorro&Masc adv|atrás .
+%gra:	1|5|COP 2|3|DET 3|5|NMOD 4|5|DET 5|41|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|10|CASE 10|7|ADVMOD 11|12|NSUBJ 12|7|CONJ 13|14|CASE 14|12|ADVMOD 15|12|CONJ 16|17|DET 17|15|OBJ 18|5|ACL-RELCL 19|18|XCOMP 20|19|ADVMOD 21|22|DET 22|19|OBJ 23|27|OBJ 24|27|AUX 25|27|ADVMOD 26|27|NSUBJ 27|22|ACL-RELCL 28|27|XCOMP 29|30|DET 30|28|OBJ 31|19|CONJ 32|31|NSUBJ 33|36|ADVMOD 34|35|DET 35|36|NSUBJ 36|31|CCOMP 37|36|ADVCL 38|40|CC 39|40|DET 40|37|CONJ 41|40|ADVMOD 42|5|PUNCT
+*INV:	hmn@i quer [: queres] dar uma [//] um nome pra essa historinha ?
+%mor:	x|hmn verb|querer-Fin-Ind-1-Pres verb|dar-Inf det|um-Ind-Art noun|nome&Masc adp|pra det|esse-Def-Dem noun|historinha&Fem ?
+%gra:	1|2|FLAT 2|8|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|IOBJ 9|2|PUNCT
+*CHI:	o passarinho .
+%mor:	det|o-Def-Art noun|passarinho&Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	o passarinho ?
+%mor:	det|o-Def-Art noun|passarinho&Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	(es)tá bom (o)brigado .
+%mor:	aux|estar-Fin-Ind-3-Pres adj|bom-Pos-S-1 adj|obrigado-Pos-S-1 .
+%gra:	1|2|COP 2|3|ROOT 3|2|CSUBJ 4|2|PUNCT
+@End
