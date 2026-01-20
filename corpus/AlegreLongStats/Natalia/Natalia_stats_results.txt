@@ -1,0 +1,129 @@
+Resultados de Análise Individual - Natalia
+
+--- Correlação de Pearson ---
+CDS Freq vs. CHI Freq: r = 0.181, p = 0.536
+Idade Meses vs. CHI Freq: r = -0.497, p = 0.071
+Idade Meses vs. CDS Freq: r = -0.113, p = 0.700
+
+--- Correlação de Spearman ---
+CDS Freq vs. CHI Freq: rho = 0.266, p = 0.358
+Idade Meses vs. CHI Freq: rho = -0.433, p = 0.122
+Idade Meses vs. CDS Freq: rho = -0.174, p = 0.553
+
+--- Regressão Linear Múltipla (Modelo Aditivo): CHI Freq ~ CDS Freq + Idade Meses ---
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     chi_deictic_freq_per_1k   R-squared:                       0.263
+Model:                                 OLS   Adj. R-squared:                  0.129
+Method:                      Least Squares   F-statistic:                     1.961
+Date:                     Tue, 20 Jan 2026   Prob (F-statistic):              0.187
+Time:                             09:34:38   Log-Likelihood:                -47.153
+No. Observations:                       14   AIC:                             100.3
+Df Residuals:                           11   BIC:                             102.2
+Df Model:                                2                                         
+Covariance Type:                 nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+Intercept                  48.5898     16.249      2.990      0.012      12.825      84.355
+cds_deictic_freq_per_1k     0.1033      0.213      0.485      0.638      -0.366       0.573
+child_age_months           -0.3174      0.171     -1.853      0.091      -0.694       0.060
+==============================================================================
+Omnibus:                        1.532   Durbin-Watson:                   1.763
+Prob(Omnibus):                  0.465   Jarque-Bera (JB):                1.123
+Skew:                          -0.640   Prob(JB):                        0.570
+Kurtosis:                       2.464   Cond. No.                         693.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- Tabela LaTeX (Modelo Aditivo) ---
+\begin{table}
+\caption{}
+\label{}
+\begin{center}
+\begin{tabular}{ll}
+\hline
+                            & Modelo Aditivo  \\
+\hline
+Intercept                   & 48.590**        \\
+                            & (16.249)        \\
+cds\_deictic\_freq\_per\_1k & 0.103           \\
+                            & (0.213)         \\
+child\_age\_months          & -0.317*         \\
+                            & (0.171)         \\
+R-squared                   & 0.263           \\
+R-squared Adj.              & 0.129           \\
+R2                          & 0.263           \\
+N                           & 14              \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+\bigskip
+Standard errors in parentheses. \newline 
+* p<.1, ** p<.05, ***p<.01
+
+
+--- Regressão Linear Múltipla (Modelo com Interação): CHI Freq ~ CDS Freq * Idade Meses ---
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     chi_deictic_freq_per_1k   R-squared:                       0.450
+Model:                                 OLS   Adj. R-squared:                  0.286
+Method:                      Least Squares   F-statistic:                     2.732
+Date:                     Tue, 20 Jan 2026   Prob (F-statistic):             0.0997
+Time:                             09:34:38   Log-Likelihood:                -45.097
+No. Observations:                       14   AIC:                             98.19
+Df Residuals:                           10   BIC:                             100.8
+Df Model:                                3                                         
+Covariance Type:                 nonrobust                                         
+============================================================================================================
+                                               coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------
+Intercept                                  -21.9464     40.915     -0.536      0.603    -113.110      69.218
+cds_deictic_freq_per_1k                      3.8077      2.014      1.890      0.088      -0.680       8.296
+child_age_months                             0.5095      0.474      1.076      0.307      -0.546       1.565
+cds_deictic_freq_per_1k:child_age_months    -0.0436      0.024     -1.848      0.094      -0.096       0.009
+==============================================================================
+Omnibus:                        1.712   Durbin-Watson:                   1.686
+Prob(Omnibus):                  0.425   Jarque-Bera (JB):                0.934
+Skew:                          -0.214   Prob(JB):                        0.627
+Kurtosis:                       1.810   Cond. No.                     4.58e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 4.58e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+--- Tabela LaTeX (Modelo com Interação) ---
+\begin{table}
+\caption{}
+\label{}
+\begin{center}
+\begin{tabular}{ll}
+\hline
+                                               & Modelo com Interação  \\
+\hline
+Intercept                                      & -21.946               \\
+                                               & (40.915)              \\
+cds\_deictic\_freq\_per\_1k                    & 3.808*                \\
+                                               & (2.014)               \\
+child\_age\_months                             & 0.509                 \\
+                                               & (0.474)               \\
+cds\_deictic\_freq\_per\_1k:child\_age\_months & -0.044*               \\
+                                               & (0.024)               \\
+R-squared                                      & 0.450                 \\
+R-squared Adj.                                 & 0.286                 \\
+R2                                             & 0.450                 \\
+N                                              & 14                    \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+\bigskip
+Standard errors in parentheses. \newline 
+* p<.1, ** p<.05, ***p<.01
+
+

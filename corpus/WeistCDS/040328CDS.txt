@@ -1,0 +1,710 @@
+what books did you get ? 
+
+okay . 
+
+oh you got a Halloween book . 
+
+did you read it yet ? 
+
+yeah . 
+
+they did ? 
+
+did you get all those books ? 
+
+some of them ? 
+
+mm hm . 
+
+did you read this one ? 
+
+oh , it's your book ? 
+
+oh . 
+
+okay . 
+
+okay . 
+
+oh , thank you . 
+
+okay . 
+
+who's the babysitter this week then , her ? 
+
+okay . 
+
+okay , we'll change em . 
+
+mm hm . 
+
+who's gonna be the dad ? 
+
+okay . 
+
+mm hm . 
+
+I remember him . 
+
+I think we'll hafta think of a new special this week that he has . 
+
+last week he had turkey dogs and spinach munchies , what what do you think he should have this week with turkey dogs ? 
+
+oh , that's perfect . 
+
+okay . 
+
+you were ? 
+
+oh , that's nice ! 
+
+what did you help do ? 
+
+oh , okay . 
+
+oh , okay . 
+
+did you have lunch yet ? 
+
+no ? 
+
+what are you gonna have today for lunch , just cookies ? 
+
+what are you feeling like having for lunch ? 
+
+no ? 
+
+do you remember what what else we did with that ? 
+
+well , we can do that again , that's okay . 
+
+what stuff did we get for him ? 
+
+mm hm . 
+
+we were gonna do the parade , right ? 
+
+so , what's something different that we could do this week with his birthday party ? 
+
+okay . 
+
+a spiral for his birthday present . 
+
+a spiral ? 
+
+okay . 
+
+mm hm . 
+
+let's make , &-um , instead of a cake , what what other dessert could we make him ? 
+
+of_course , we can ask the the turkey dog guy to make cookies , kay ? 
+
+could you help me with that ? 
+
+thank you very much . 
+
+do you think there's anything else I should get for him while I'm out here ? 
+
+do you sell them here too ? 
+
+maybe you should go check in the back . 
+
+oh , is that the party store ? 
+
+okay , I'll ride my horse over there . 
+
+okay . 
+
+do you have that here ? 
+
+are you gonna talk this guy ? 
+
+okay . 
+
+okay , what color of stuff do you think I should get ? 
+
+okay . 
+
+so , I'll have twenty purple balloons , &-uh , what else ? 
+
+&-um . 
+
+okay . 
+
+hey sister , what are you doin ? 
+
+oh , who are you talking to ? 
+
+oh , I'm sorry , I didn't mean to interrupt . 
+
+hello , who is this calling ? 
+
+oh , hi Nuirese ! 
+
+how are you ? 
+
+oh , hey Rosie , how are you ? 
+
+what's goin on ? 
+
+who ? 
+
+I'm sorry , I guess maybe you just dialed my number by mistake . 
+
+okay , talk to you later bye . 
+
+who was she really trying to call ? 
+
+oh the the shopkeeper ? 
+
+&-um , it is six seven two . 
+
+one one . 
+
+four eight . 
+
+hello , party gifts , how can I help you ? 
+
+oh , what are you looking for ? 
+
+hm , well I have a_lot_of different kinds of bones . 
+
+there's , &-um , let's see , we have chocolate flavored bones . 
+
+oh I'll tell you what else I have too . 
+
+so , chocolate you say ? 
+
+how many chocolate bones ? 
+
+oh_my_goodness ! 
+
+that dog's gonna have a nice birthday ! 
+
+well , okay , I'll get out the four hundred bones , and how bout send your husband over to pick them up , okay ? 
+
+thank you . 
+
+bye . 
+
+okay . 
+
+where where should I pick them up ? 
+
+oh , what store , the grocery store ? 
+
+oh , okay . 
+
+does anyone need anything else while I'm over at the store ? 
+
+oh , what do you need ? 
+
+okay . 
+
+okay . 
+
+okay , what type of cake do you want ? 
+
+okay . 
+
+&-um , anything else ? 
+
+okay . 
+
+chalks ? 
+
+okay , I'll be right back . 
+
+hello shopkeeper ! 
+
+does the shopkeeper have the chalk ? 
+
+okay , thank you very much . 
+
+what were you doin while I was gone ? 
+
+nothing ? 
+
+I thought , were you , &-um , watching television ? 
+
+what were you watching ? 
+
+were you just watching a blank screen ? 
+
+were you watching a movie , or a d_v_d , or 
+
+oh , okay . 
+
+well , I got everything we needed at the store . 
+
+hey puppy , what's up ? 
+
+yes ? 
+
+oh , okay . 
+
+what is it ? 
+
+you feel like sweeping puppy ? 
+
+okay , well maybe this time I'll take a walk over to town , do you wanna come with me ? 
+
+okay , well I'll take you for a walk . 
+
+here , let's put your leash on . 
+
+okay . 
+
+yeah , we'll we'll have your purple leash . 
+
+<do you> do you want me to try ? 
+
+okay . 
+
+mm hm . 
+
+okay . 
+
+so , do you need anything else besides that broom when we go into town ? 
+
+yeah , what ? 
+
+okay , do you wanna tell me ? 
+
+yeah , it is really cold out , and windy too puppy . 
+
+you better stay close to me , I don't want you to get blown away . 
+
+okay . 
+
+&-um , why don't you ask everyone else in the house if they need anything . 
+
+is that okay ? 
+
+&-um , yes , <I need> I do need something else actually . 
+
+could you buy me a bottle of shampoo please ? 
+
+&-um , yeah , could you get me <a green> a new green toothbrush ? 
+
+yes ? 
+
+oh , what ? 
+
+okay , well then we'll hafta stop at the drugstore then . 
+
+let's go to the store . 
+
+I don't think , I dunno if there's enough room , so , here , it's in his hand . 
+
+okay , we're at the drugstore , &-um . 
+
+do you also work at the drugstore ? 
+
+okay , well we need a bottle of shampoo for my wife , and what was it that sister needed ? 
+
+oh , right , a green toothbrush , okay . 
+
+could you please go get those for me ? 
+
+hey , thank you so much ! 
+
+have you ever been to Home_Depot before ? 
+
+Daddy has , gone to Home_Depot did you say ? 
+
+oh , okay . 
+
+well we're gonna go , have you 
+
+the dog is ? 
+
+okay . 
+
+okay , we're a Home_Depot . 
+
+what ? 
+
+oh , are you choking puppy ? 
+
+are you getting blown away in the wind ? 
+
+oh . 
+
+you broke your leash . 
+
+ooh ! 
+
+be careful , I don't want you blowin away in the wind . 
+
+I'll catch you . 
+
+to Home_Depot ? 
+
+okay . 
+
+all right , it's over here . 
+
+what is this then ? 
+
+oh , okay . 
+
+is this Home_Depot ? 
+
+okay . 
+
+oh , well what kind of broom , what do you want the broom t 
+
+what ? 
+
+a purple broom , okay . 
+
+do you want a long broom , a medium broom , a short broom ? 
+
+a short broom , okay . 
+
+oh , puppy , I checked in back and we don't have any short purple brooms , is there a second choice ? 
+
+a big , purple broom ? 
+
+okay . 
+
+oh , we have a medium sized purple broom in stock . 
+
+here you go . 
+
+it's your lucky day . 
+
+see you later ! 
+
+hey puppy , what did you get at the store ? 
+
+oh , thank you for the toothbrush and the shampoo . 
+
+I'm getting hungry , does anyone else want some lunch ? 
+
+oh . 
+
+okay . 
+
+well , maybe I can have a snack ? 
+
+okay , what could I have for &~s a snack ? 
+
+ooh , that sounds good , I'll go pop some . 
+
+would you also like some popcorn ? 
+
+okay . 
+
+here , we can snack on the popcorn while we're preparing for the party . 
+
+all right . 
+
+&-um , what are you gonna do wife ? 
+
+aw , but that's not gonna help get ready for the party ! 
+
+oh . 
+
+okay . 
+
+aw , sister is so good with the baby . 
+
+well , wife , do you think we should fill up the pool for the party ? 
+
+okay . 
+
+I'll go hook up the hose . 
+
+oh , hi ! 
+
+nice to meet you ! 
+
+okay , is what what's their name ? 
+
+what ? 
+
+Boner ? 
+
+what a funny name , is that your real name ? 
+
+wow ! 
+
+okay . 
+
+yeah , I know . 
+
+okay . 
+
+my name is Charlie . 
+
+nice to meet you , you're my wife Rosie ! 
+
+oh , you didn't know what my name was . 
+
+oh , nice . 
+
+yeah , we hafta twist . 
+
+that's easy . 
+
+I bet it makes it so he can ride a horse easily . 
+
+can I see him for a second ? 
+
+thanks . 
+
+see ? 
+
+what's that ? 
+
+oh , how_about , since I'm gonna fill the pool up with water , why don't you get some water toys for the pool ? 
+
+okay , thanks . 
+
+&-um , we don't actually , but maybe you should go over to Home_Depot . 
+
+I think that they have them . 
+
+oh , yeah , we have a_lot_of things . 
+
+we have inner tubes , and noodles for the pool . 
+
+ooh ! 
+
+now , are there any little kids that might need some swimmies ? 
+
+okay . 
+
+really ? 
+
+okay , how_about inner tubes , would you like any of those ? 
+
+okay . 
+
+well , I I gave you one of each of our , of the water toys that we have , okay ? 
+
+here you go . 
+
+a whole bunch of each ? 
+
+okay , I'll give you four of each of our , &-um , water toys , okay ? 
+
+but that comes to one hundred dollars please . 
+
+thank you . 
+
+thanks a lot . 
+
+you have a great day ! 
+
+byebye . 
+
+oh , great ! 
+
+those look like a_lot_of fun , I think everyone will like those , won't you ? 
+
+it'll be fun to go in the pool . 
+
+oh , good ! 
+
+okay , why don't you go throw those in the pool , or you could blow them up and put them in the pool . 
+
+cause you needta inflate the inner tubes . 
+
+a a fence ? 
+
+oh . 
+
+okay . 
+
+oh , okay . 
+
+does it not work ? 
+
+can I see it ? 
+
+it is . 
+
+maybe it doesn't , let's see . 
+
+maybe it doesn't , oh , there is a battery in it . 
+
+yeah , maybe . 
+
+is that your little flashlight ? 
+
+what ? 
+
+well , you know , we did have the problems last night , didn't we ? 
+
+Lauren couldn't get it to work either ? 
+
+hm . 
+
+can I try ? 
+
+well , you might be right , but I don't , you know , it's hard to believe . 
+
+hm , you are right , it doesn't work at all , does it ? 
+
+well , we could try . 
+
+is this triple a ? 
+
+let's see . 
+
+yeah , get a new battery . 
+
+let me see . 
+
+thank you . 
+
+it is a let's see . 
+
+okay . 
+
+triple a . 
+
+no , she can play with it . 
+
+all right , . 
+
+okay . 
+
+maybe I'll heat them up in the microwave . 
+
+oh , okay . 
+
+no , I didn't , I'm sorry . 
+
+. 
+
+yeah . 
+
+oh my gosh , ! 
+
+oh , what's that ? 
+
+what is that ? 
+
+what did you say ? 
+
+oh , a puppy one , okay . 
+
+is it the purple broom ? 
+
+oh , cool ! 
+
+so , you could , that's like , just like the big purple broom that they bought at the store , remember ? 
+
+mm hm . 
+
+hey , do you wanna get out the crayons and paper ? 
+
+okay . 
+
+okay . 
+
+let's move em over here . 
+
+okay . 
+
+is orange your favorite color ? 
+
+what's your favorite color ? 
+
+oh , okay . 
+
+just like puppy ? 
+
+green is my favorite . 
+
+yep . 
+
+well , okay , what are you gonna draw ? 
+
+okay , what should I draw ? 
+
+tell me what you you'd like me to draw . 
+
+okay , I have blue . 
+
+oh ! 
+
+so , what would you like a picture of ? 
+
+okay . 
+
+thanks . 
+
+okay , I'll write mine too . 
+
+&-um , hm , maybe I'll draw a picture of Clifford . 
+
+you do ? 
+
+&-uh , tell me what you're drawing . 
+
+okay , but I wanna hear while you are drawing . 
+
+okay . 
+
+okay . 
+
+yeah , this could be for you . 
+
+okay . 
+
+okay . 
+
+&-um , what do you think Clifford should be doing ? 
+
+oh , really ? 
+
+you like playing birthday parties , don't you ? 
+
+&-um , hm , so , what should I need in the picture to make it look like a birthday party ? 
+
+okay . 
+
+who , I don't really know , who who's Clifford friends with ? 
+
+okay . 
+
+uhhuh . 
+
+okay , &-um , isn't he friends with a little girl too ? 
+
+is , is is Clifford friends with with a little girl ? 
+
+Jetta is the girl . 
+
+oh , bu , like a girl person , not a girl dog . 
+
+isn't he friends with a little 
+
+yeah . 
+
+what's her name ? 
+
+that's not Jetta Mac , is it ? 
+
+oh , okay . 
+
+hm , I'll draw a birthday cake for Clifford . 
+
+mm hm . 
+
+mm hm . 
+
+yep ! 
+
+okay . 
+
+does that look like a good Clifford ? 
+
+okay . 
+

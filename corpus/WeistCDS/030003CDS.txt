@@ -1,0 +1,614 @@
+I guess we're gonna hafta . 
+
+there's popcorn and all kinds of stuff around here . 
+
+there are stickers all over the rug . 
+
+are you gonna open this thing up ? 
+
+is it heavy ? 
+
+okay . 
+
+look at that . 
+
+it looks like a jump for a horse , or is it part of a fence ? 
+
+I don't know . 
+
+it's for horsies to jump over . 
+
+is there a horsie in there to jump over it ? 
+
+or maybe we'll hafta get one of your horsies to jump over it . 
+
+there is a horsie . 
+
+oop , I see a leg . 
+
+there's a horsie ! 
+
+is that a pony ? 
+
+yeah ? 
+
+what's the pony for ? 
+
+moo . 
+
+moo , I'm here eating the grass . 
+
+I'm having breakfast . 
+
+you're gonna give me what ? 
+
+a bed ? 
+
+so I can sleep ? 
+
+what are you gonna make the bed out_of ? 
+
+wool did you say ? 
+
+a wool bed , that sounds comfortable . 
+
+and do you have a sheep where you're gonna get the wool from ? 
+
+hm . 
+
+are there sheep in here ? 
+
+&=gasps there's a sheep . 
+
+is that the baby ? 
+
+yeah , is that the momma ? 
+
+that's the daddy ? 
+
+are they gonna teach the baby how to jump ? 
+
+yeah ? 
+
+I don't wanna jump over the big fence . 
+
+you'll help me ? 
+
+can I jump over the fence too ? 
+
+can cows jump ? 
+
+can I jump ? 
+
+no ? 
+
+yes ? 
+
+I can &~j , I'm a cow , I can jump ? 
+
+wow . 
+
+you're a yoga pose horse ? 
+
+<what kin> what kind of yoga pose is that ? 
+
+I dunno , we'd hafta wow ! 
+
+I know , compared to that sheep's size , he'd probably win the prize . 
+
+the chicken's in the way . 
+
+hey , you ran me over . 
+
+oh , that's better . 
+
+oh dear . 
+
+why was he scared ? 
+
+the tractor scared him ? 
+
+is it a noisy tractor ? 
+
+I don't like the tractor . 
+
+it's loud . 
+
+soft ? 
+
+oh . 
+
+you're going out_of the horsie's house . 
+
+yeah . 
+
+okay , that's good , thank you . 
+
+ah ! 
+
+that one's smaller , but it's still a little noisy . 
+
+okay , well I'm gonna go sit over here . 
+
+is he gonna eat the horsie ? 
+
+well , that's a nice lobster . 
+
+he helped . 
+
+that is a nice lobster . 
+
+can I ride ? 
+
+yeah ? 
+
+where are you guys gonna ride to ? 
+
+there's a lion ? 
+
+a lion , where'd the lion come from ? 
+
+hi ! 
+
+, how are you , what are you doin ? 
+
+you're stuck . 
+
+I'm gonna come in . 
+
+hi . 
+
+I see you . 
+
+good morning Emma . 
+
+good morning little horsie . 
+
+what are you gonna do today horsie ? 
+
+oh no , I'm scared of that tractor ! 
+
+it's not ? 
+
+I think it is scary . 
+
+it's not only loud , but it's bright orange and yellow . 
+
+it's hurting my eyes to look at that tractor . 
+
+wow , that's a_lot_of tractors . 
+
+where are they goin ? 
+
+to whose house ? 
+
+this house ? 
+
+the horsie's house . 
+
+who are you picking up ? 
+
+oh my gosh . 
+
+maybe if you don't go any over any big bumps , she won't fall out . 
+
+what was that ? 
+
+all right , you may go past me . 
+
+you did go , yeah . 
+
+where are you going on your way past me ? 
+
+and which store would that be ? 
+
+the grocery store ? 
+
+so , you must be buying some food ? 
+
+I'm pretty hungry , what kind of food are you gonna get ? 
+
+some horsie food and cat food ? 
+
+do you have any cats ? 
+
+where are they ? 
+
+oh yeah , what_about this little girl here ? 
+
+mm hm , okay . 
+
+okay , they're getting some food ? 
+
+where are they gonna put all that food by the way ? 
+
+wow . 
+
+right right with the dog , and the sheep , and the chicken no , the rooster's in there . 
+
+all right , I think I need a comb to get wool from you or a brush . 
+
+there's a brush . 
+
+all right , there . 
+
+wow , you have a_lot_of wool . 
+
+wow . 
+
+okay , that's perfect . 
+
+what are we gonna make out_of this , out_of all this wool ? 
+
+a blanket , that's a good idea ! 
+
+a blanket for the new baby ? 
+
+oh , my gosh ! 
+
+that's really nice that you're giving us all this wool Mister_Sheep . 
+
+you're not gonna be cold with all , without it on your body are ya ? 
+
+oh , good . 
+
+oh , wonderful . 
+
+I don't know if I can carry any more than that . 
+
+now we'll hafta figure out how to make it into a blanket , this wool . 
+
+we're gonna hafta spin it into yarn I think . 
+
+mm hm . 
+
+and then . 
+
+who's gonna help us spin it into yarn ? 
+
+you ? 
+
+here's my spinning wheel . 
+
+oh , you're doing it very well with your paws ! 
+
+now we'll pull it tight and weave it into a blanket . 
+
+you need s ? 
+
+you need some more blanket too ? 
+
+this is sposta be for the cow . 
+
+<that's what> that's what Emma said . 
+
+yeah . 
+
+we need the sheep back ? 
+
+are you whispering ? 
+
+what are you saying sheep ? 
+
+ah , wait , you look like a rooster to me . 
+
+the rooster's the boy chicken . 
+
+well , if we are gonna make a chicken blanket , we do need some more wool . 
+
+are you sure you're not gonna be too hot with the chicken blanket rooster ? 
+
+okay . 
+
+I spose you could wear it if it's snowing outside . 
+
+or if it gets very cold at night , you might wanna sleep with it . 
+
+you know sheep , you don't have a_lot_of wool left on you now , are you sure you're not gonna be cold ? 
+
+you do ? 
+
+wow . 
+
+mm hm . 
+
+that is enough . 
+
+<that's &~ple> that's plenty for a chicken blanket . 
+
+well , don't you think we should get a pillow for the chicken as well ? 
+
+we have a blanket . 
+
+a Barney blanket ? 
+
+so_that means we , you need some purple dye for the blanket , don't we ? 
+
+uhhuh . 
+
+that looks like , does that look like nuclear Barney or talking Barney ? 
+
+nuclear . 
+
+is it soft ? 
+
+oh , good ! 
+
+oh , yeah , it's pretty soft , but you know , I think it's a little too thin for me . 
+
+I need a very thick one . 
+
+Emma , can you help ? 
+
+oh good . 
+
+did you wake up ? 
+
+were you sleeping ? 
+
+you must have been tired from getting us all that wool , huh ? 
+
+oop , what happened ? 
+
+I'm trying to do my yoga poses . 
+
+oh , that's , you're trying to make the tractors not scare me ? 
+
+they are a little scary because they're so loud and bright . 
+
+and this one is very big , and that's also scary . 
+
+well , I hope sometime I won't be scared of tractors anymore . 
+
+maybe when I get older and bigger . 
+
+if I were bigger than this tractor . 
+
+if I were as big as you , I might not be so scared . 
+
+yeah , you sure are . 
+
+yeah , well , see ? 
+
+oops ! 
+
+are you gonna go away in the tractor ? 
+
+where did the driver go ? 
+
+oh , that's better . 
+
+should we go to Cassadaga beach ? 
+
+oh , hm , I thought so . 
+
+are you guys , are you gonna go swimming at Cassadaga beach ? 
+
+great ! 
+
+I can go , I don't know if I can keep up with you . 
+
+I'm not as fast as you . 
+
+I'm still a little horse . 
+
+oops ! 
+
+oh , that's good . 
+
+are we there yet ? 
+
+wow , this is hard ground over here . 
+
+that , that trailer keeps falling off , doesn't it ? 
+
+oh good ! 
+
+are you guys gonna get out and go swimming , or are you just gonna stand in that basket ? 
+
+okay . 
+
+hm ? 
+
+you're the fastest swimmer ? 
+
+you're very big . 
+
+maybe that's why you're so fast . 
+
+but I didn't know cats could swim . 
+
+. 
+
+oh , look at that . 
+
+wow . 
+
+they're what ? 
+
+another toy ? 
+
+oh , now that's what we need . 
+
+I bet he's the fastest swimmer . 
+
+do you wanna have a race ? 
+
+and we can find out ? 
+
+let's go . 
+
+ready ? 
+
+what ? 
+
+all of us are gonna race . 
+
+wow , how many are , are there ? 
+
+yeah , you got a head start . 
+
+oops ! 
+
+here we come ! 
+
+how far are we gonna race to ? 
+
+who's that ? 
+
+is that Gonzo ? 
+
+it's somebody else . 
+
+all right rooster , how far are we gonna race ? 
+
+are we gonna race to the edge of the rug ? 
+
+okay . 
+
+I'm ready . 
+
+this side ? 
+
+I like the green . 
+
+oh , yeah I spose . 
+
+all right , we'll stay in the clean water then . 
+
+are you ready ? 
+
+are you set ? 
+
+say , go ! 
+
+I wanna go ! 
+
+who else are we getting ? 
+
+Baby_Beluga ? 
+
+but Ducky's a fast swimmer too , so she might win . 
+
+does Ducky turn into an egg ? 
+
+yeah , I think he it does . 
+
+Baby_Beluga , I think you got lost . 
+
+yeah , you did ! 
+
+the icky ? 
+
+no ? 
+
+huh . 
+
+go ? 
+
+now ? 
+
+I wasn't read , all right , I'm gonna try go , they're going this way . 
+
+whoo ! 
+
+what ? 
+
+oh , that's right , sorry . 
+
+what ? 
+
+oh , what am I ? 
+
+oh yeah . 
+
+what ? 
+
+oh ! 
+
+who am I ? 
+
+oh , I am a person . 
+
+okay . 
+
+what ? 
+
+what am I ? 
+
+oh yeah , right , I knew that . 
+
+where is the duck ? 
+
+I certainly am not a duck . 
+
+I certainly am . 
+
+in front of the fish ? 
+
+you are ? 
+
+how come you have so many jingles in you ? 
+
+that's just the way you are ? 
+
+I spose so . 
+
+so , where are you going Baby_Beluga ? 
+
+the race , yep . 
+
+is there something else in there ? 
+
+another piece of fence . 
+
+I wonder if Baby_Beluga can jump over the fence ? 
+
+oh , that's nice water you put in there Emma . 
+
+the water fountain ? 
+
+why is he peeing my water fountain , my water trough ? 
+
+oh , couldn't he find another place ? 
+
+where am I sposta drink now , Mister_Dog ? 
+
+huh . 
+
+you're either peeing really slowly or you have an awful lot of water in you . 
+
+yes ? 
+
+hm , looks like a dog peed in here . 
+
+you think it's funny do you ? 
+
+I think I'm gonna go swimming . 
+
+or maybe I , maybe maybe I'll go floating with that little noodle float with the horsie . 
+
+what happened ? 
+
+what happened ? 
+
+be gentle ! 
+
+do you know that your little watering trough is in the very deep , green water right now ? 
+
+is that the kitty puppet ? 
+
+oh , it's the bear puppet , I'm sorry . 
+
+and where are you going with the trough Mister_Bear_Puppet ? 
+
+you did ? 
+
+did you know that ? 
+
+do you think we should make up a story for Jessica ? 
+
+no ? 
+
+not yet ? 
+
